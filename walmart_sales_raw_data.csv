@@ -1,0 +1,1301 @@
+Date,Time_of_Purchase,Branch,City,Region,Product_Line,Customer_Type,Sales_Channel,Quantity,Unit_Price,Discount,Revenue,Profit,Payment_Method,Customer_Rating
+2025-01-03,09:29:49,B,Chicago,Midwest,Health & Beauty,Normal,Online,9,165.22,0.07,1382.8914,152.22,Cash,8.1
+2024-07-28,10:08:36,A,New York,East,Sports,Normal,In-store,2,551.32,0.18,904.1648000000001,170.44,Cash,4.9
+2024-06-27,18:36:27,B,Chicago,Midwest,Health & Beauty,Member,Online,3,41.41,0.19,100.6263,8.29,Credit Card,7.7
+2024-09-22,16:24:11,C,San Francisco,West,Electronics,Normal,In-store,2,35.76,0.16,60.07679999999999,11.39,Credit Card,8.9
+2023-10-18,17:15:13,A,New York,East,Health & Beauty,Normal,In-store,9,526.44,0.07,4406.3028,468.21,Gift Card,9.1
+2023-07-05,10:15:44,A,New York,East,Health & Beauty,Member,In-store,9,156.81,0.15,1199.5964999999999,312.57,Gift Card,7.2
+2025-03-08,09:20:18,B,Chicago,Midwest,Clothing,Member,Online,1,466.11,0.01,461.44890000000004,76.55,Cash,5.9
+2024-04-09,18:26:12,C,San Francisco,West,Electronics,Normal,In-store,3,255.17,0.15,650.6835,118.88,Debit Card,7.6
+2025-02-05,15:32:02,B,Chicago,Midwest,Electronics,Member,In-store,4,338.09,0.14,1163.0295999999998,203.56,Gift Card,5.8
+2024-04-04,10:51:22,C,San Francisco,West,Sports,Normal,Online,6,209.3,0.21,992.0820000000002,171.72,Cash,4.6
+2024-10-10,14:08:28,B,Chicago,Midwest,Electronics,Normal,In-store,2,311.3,0.17,516.758,57.79,UPI,4.3
+2023-02-02,12:09:52,A,New York,East,Sports,Normal,In-store,5,182.9,0.25,685.875,87.56,Credit Card,8.4
+2024-09-19,19:13:11,C,San Francisco,West,Clothing,Normal,In-store,5,570.2,0.17,2366.33,617.45,Debit Card,7.9
+2025-03-24,11:50:48,A,New York,East,Electronics,Normal,In-store,2,340.44,0.22,531.0864,104.54,Debit Card,8.3
+2024-07-10,13:14:45,A,New York,East,Health & Beauty,Member,In-store,6,492.87,0.02,2898.0756,695.58,Credit Card,7.4
+2023-11-28,16:58:17,C,San Francisco,West,Health & Beauty,Member,In-store,8,338.87,0.17,2250.0968,214.68,Credit Card,5.5
+2024-05-30,21:23:17,B,Chicago,Midwest,Electronics,Member,Online,6,470.39,0.15,2398.989,202.07,Gift Card,8.5
+2025-02-26,14:09:35,A,New York,East,Electronics,Member,In-store,9,473.23,0.17,3535.0280999999995,513.66,Debit Card,6.5
+2025-04-10,14:32:42,B,Chicago,Midwest,Home & Kitchen,Member,Online,9,506.87,0.19,3695.0823,418.12,Gift Card,8.5
+2023-10-09,11:59:02,A,New York,East,Sports,Normal,Online,2,499.01,0.18,818.3764000000001,148.55,Gift Card,7.9
+2024-08-22,18:58:16,B,Chicago,Midwest,Electronics,Normal,In-store,3,22.96,0.01,68.1912,7.97,UPI,4.4
+2024-07-14,10:27:45,A,New York,East,Clothing,Normal,In-store,1,478.23,0.21,377.80170000000004,70.89,UPI,7.4
+2024-05-03,10:12:11,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,6,19.95,0.1,107.72999999999999,20.27,Credit Card,8.3
+2024-10-04,10:33:34,C,San Francisco,West,Health & Beauty,Normal,Online,3,167.68,0.01,498.00960000000003,102.74,Gift Card,6.3
+2025-09-02,09:38:55,B,Chicago,Midwest,Clothing,Member,Online,6,493.69,0.22,2310.4692,310.97,Debit Card,9.3
+2024-04-25,11:56:41,A,New York,East,Sports,Normal,In-store,9,477.9,0.18,3526.902,282.23,Credit Card,7.4
+2025-08-05,11:50:21,A,New York,East,Sports,Member,In-store,9,347.58,0.15,2658.9869999999996,250.62,Credit Card,5.8
+2024-05-24,11:57:34,A,New York,East,Home & Kitchen,Normal,Online,8,363.76,0.16,2444.4672,223.24,Debit Card,5.8
+2024-02-05,16:18:54,C,San Francisco,West,Sports,Normal,In-store,6,309.14,0.03,1799.1947999999998,226.63,UPI,7.7
+2024-10-18,11:19:49,A,New York,East,Home & Kitchen,Normal,Online,5,46.42,0.09,211.21100000000004,17.76,Credit Card,8.8
+2024-02-17,19:30:01,A,New York,East,Electronics,Member,In-store,3,523.4,0.15,1334.6699999999998,147.27,Cash,8.9
+2023-04-18,16:57:37,C,San Francisco,West,Clothing,Member,Online,3,488.88,0.18,1202.6448,257.78,Credit Card,5.6
+2023-05-09,15:52:14,C,San Francisco,West,Electronics,Normal,In-store,8,137.75,0.23,848.54,90.22,Gift Card,4.8
+2024-04-11,16:05:29,B,Chicago,Midwest,Electronics,Member,In-store,2,16.01,0.02,31.379600000000003,3.21,Cash,5.8
+2024-06-06,18:57:20,A,New York,East,Health & Beauty,Normal,In-store,5,428.77,0.12,1886.588,475.4,Debit Card,7.0
+2025-07-03,12:14:37,A,New York,East,Clothing,Normal,Online,4,504.05,0.18,1653.284,238.59,Debit Card,4.4
+2024-05-24,11:04:02,B,Chicago,Midwest,Clothing,Member,Online,8,177.4,0.23,1092.784,154.36,Cash,7.4
+2024-03-08,21:12:58,B,Chicago,Midwest,Electronics,Normal,In-store,2,317.05,0.11,564.349,107.65,Cash,7.9
+2024-11-12,18:07:38,C,San Francisco,West,Sports,Normal,In-store,2,262.52,0.21,414.78159999999997,77.76,UPI,5.5
+2024-04-11,18:56:37,C,San Francisco,West,Health & Beauty,Member,In-store,3,546.96,0.14,1411.1568,195.07,Cash,7.9
+2024-04-17,15:56:36,C,San Francisco,West,Health & Beauty,Member,In-store,8,326.89,0.25,1961.34,445.52,Credit Card,5.3
+2024-06-06,13:46:38,B,Chicago,Midwest,Sports,Normal,Online,9,466.43,0.13,3652.1468999999997,774.7,Credit Card,6.7
+2025-08-01,16:02:44,A,New York,East,Sports,Member,In-store,8,70.08,0.22,437.2992,89.39,Cash,5.0
+2023-10-21,11:59:49,C,San Francisco,West,Sports,Member,In-store,4,16.58,0.04,63.667199999999994,11.72,UPI,5.4
+2024-06-03,09:20:11,C,San Francisco,West,Home & Kitchen,Member,In-store,1,189.97,0.09,172.8727,22.0,Cash,4.5
+2023-09-21,12:37:41,A,New York,East,Home & Kitchen,Normal,In-store,4,48.04,0.18,157.5712,40.43,Cash,9.6
+2024-10-26,18:19:19,C,San Francisco,West,Home & Kitchen,Member,Online,4,14.77,0.08,54.3536,5.02,Credit Card,7.6
+2025-08-29,09:12:26,C,San Francisco,West,Home & Kitchen,Normal,In-store,7,245.32,0.07,1597.0331999999999,397.04,Debit Card,7.7
+2023-04-30,12:39:12,A,New York,East,Clothing,Member,Online,1,68.87,0.16,57.8508,10.75,Gift Card,6.9
+2023-12-20,09:36:37,A,New York,East,Home & Kitchen,Member,In-store,3,40.62,0.15,103.58099999999999,14.41,Gift Card,5.9
+2023-02-12,13:33:56,A,New York,East,Electronics,Normal,Online,9,421.31,0.02,3715.9541999999997,386.96,Cash,5.4
+2025-10-26,16:08:56,B,Chicago,Midwest,Sports,Normal,In-store,3,366.43,0.09,1000.3539,260.33,Credit Card,6.3
+2023-08-10,11:48:46,B,Chicago,Midwest,Clothing,Member,Online,9,144.89,0.02,1277.9297999999997,340.78,UPI,6.6
+2024-03-24,12:10:53,A,New York,East,Health & Beauty,Member,Online,4,64.6,0.09,235.14399999999998,55.27,UPI,7.5
+2024-02-10,18:16:12,B,Chicago,Midwest,Health & Beauty,Normal,In-store,5,244.4,0.16,1026.48,171.35,Debit Card,4.5
+2023-05-30,20:48:47,A,New York,East,Clothing,Normal,Online,2,221.47,0.1,398.646,106.04,Gift Card,6.3
+2023-02-23,16:01:45,C,San Francisco,West,Health & Beauty,Member,In-store,4,139.94,0.05,531.7719999999999,109.33,Credit Card,7.8
+2025-12-22,12:54:19,A,New York,East,Sports,Member,In-store,3,262.03,0.13,683.8983,100.77,Credit Card,9.5
+2023-03-30,13:20:09,A,New York,East,Clothing,Member,In-store,3,568.58,0.24,1296.3624000000002,338.22,Cash,8.8
+2024-02-12,18:58:06,A,New York,East,Sports,Normal,Online,8,14.14,0.08,104.0704,25.57,Gift Card,4.7
+2023-08-25,10:25:43,B,Chicago,Midwest,Clothing,Normal,Online,6,261.8,0.06,1476.5520000000001,226.49,Gift Card,6.1
+2024-07-03,18:29:06,A,New York,East,Health & Beauty,Member,In-store,5,363.62,0.18,1490.842,236.94,Debit Card,7.1
+2024-02-21,21:15:31,B,Chicago,Midwest,Electronics,Normal,Online,5,448.16,0.13,1949.496,169.64,Credit Card,8.6
+2023-12-27,19:27:26,A,New York,East,Clothing,Member,In-store,9,403.22,0.03,3520.1106000000004,643.14,Debit Card,8.9
+2023-04-02,15:54:41,B,Chicago,Midwest,Health & Beauty,Member,In-store,5,582.54,0.06,2737.9379999999996,695.77,UPI,6.4
+2023-05-17,09:58:25,C,San Francisco,West,Sports,Normal,Online,8,581.63,0.15,3955.084,873.43,Cash,7.9
+2023-03-18,11:16:26,B,Chicago,Midwest,Health & Beauty,Member,In-store,2,147.81,0.18,242.40840000000003,51.58,Gift Card,5.4
+2024-03-15,15:58:57,C,San Francisco,West,Clothing,Normal,In-store,9,54.86,0.18,404.8668,42.11,Gift Card,8.5
+2023-11-19,14:24:39,A,New York,East,Clothing,Normal,In-store,5,357.93,0.05,1700.1675,216.43,UPI,6.8
+2023-02-22,11:50:38,A,New York,East,Health & Beauty,Member,Online,5,75.83,0.19,307.1115,54.24,Credit Card,9.7
+2024-04-27,14:04:52,C,San Francisco,West,Health & Beauty,Normal,In-store,6,89.16,0.19,433.3176000000001,106.86,Credit Card,8.0
+2024-12-23,17:00:21,A,New York,East,Home & Kitchen,Member,Online,3,22.76,0.2,54.624,12.52,Cash,6.3
+2025-02-07,16:02:21,B,Chicago,Midwest,Home & Kitchen,Member,In-store,6,188.14,0.09,1027.2444,283.93,Debit Card,7.1
+2025-11-04,14:13:30,B,Chicago,Midwest,Health & Beauty,Member,Online,9,58.2,0.02,513.3240000000001,87.77,Gift Card,6.7
+2024-05-31,18:27:22,B,Chicago,Midwest,Health & Beauty,Member,Online,2,424.95,0.12,747.912,178.82,UPI,7.2
+2025-04-14,10:48:44,A,New York,East,Electronics,Normal,Online,3,157.79,0.07,440.23409999999996,122.61,Cash,4.1
+2024-01-23,18:00:08,A,New York,East,Clothing,Normal,Online,3,441.92,0.23,1020.8352,104.84,Cash,4.3
+2023-09-29,20:11:29,B,Chicago,Midwest,Home & Kitchen,Normal,Online,6,402.47,0.07,2245.7826,496.48,Gift Card,8.4
+2023-06-04,17:35:59,C,San Francisco,West,Health & Beauty,Member,In-store,4,8.96,0.01,35.4816,8.08,Credit Card,9.0
+2024-08-23,17:57:09,C,San Francisco,West,Clothing,Normal,Online,9,499.98,0.17,3734.8505999999998,494.28,Cash,6.1
+2024-01-22,19:14:13,C,San Francisco,West,Home & Kitchen,Normal,Online,8,290.96,0.06,2188.0191999999997,589.21,Gift Card,6.9
+2024-09-22,10:23:41,C,San Francisco,West,Health & Beauty,Normal,Online,2,70.48,0.05,133.912,30.4,Gift Card,8.3
+2024-04-19,20:02:22,B,Chicago,Midwest,Clothing,Normal,In-store,9,234.08,0.1,1896.0480000000002,298.49,Credit Card,5.1
+2025-12-10,14:11:40,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,7,170.68,0.09,1087.2316,260.23,UPI,9.8
+2023-01-04,09:46:04,C,San Francisco,West,Home & Kitchen,Normal,Online,3,532.03,0.22,1244.9502,300.49,Cash,8.7
+2024-10-06,14:23:12,B,Chicago,Midwest,Sports,Member,In-store,1,272.06,0.18,223.0892,46.37,Credit Card,5.4
+2025-06-01,20:27:47,A,New York,East,Health & Beauty,Normal,Online,5,370.2,0.23,1425.27,317.95,Gift Card,5.9
+2025-01-19,12:19:00,B,Chicago,Midwest,Health & Beauty,Normal,Online,5,582.94,0.15,2477.4950000000003,653.08,Credit Card,5.8
+2025-09-18,16:21:51,C,San Francisco,West,Health & Beauty,Normal,In-store,9,91.63,0.21,651.4893,66.86,Credit Card,4.7
+2025-12-22,14:33:47,B,Chicago,Midwest,Electronics,Member,In-store,7,63.8,0.2,357.28,70.57,Credit Card,5.5
+2024-09-26,16:45:49,C,San Francisco,West,Electronics,Normal,In-store,1,215.21,0.07,200.1453,34.61,Gift Card,5.8
+2023-03-17,12:00:41,A,New York,East,Sports,Normal,In-store,7,172.36,0.08,1109.9984,100.89,Debit Card,5.8
+2024-09-25,21:10:19,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,3,102.94,0.1,277.938,31.84,Gift Card,4.2
+2024-10-20,18:58:00,B,Chicago,Midwest,Clothing,Member,In-store,6,18.75,0.16,94.5,15.82,Debit Card,4.7
+2025-05-23,21:29:01,C,San Francisco,West,Health & Beauty,Normal,In-store,8,517.21,0.1,3723.9120000000003,404.03,Cash,5.6
+2025-07-15,20:47:41,C,San Francisco,West,Sports,Normal,Online,5,206.02,0.1,927.0900000000001,164.66,Credit Card,8.8
+2024-09-28,19:37:07,C,San Francisco,West,Sports,Normal,In-store,5,222.95,0.05,1059.0125,162.69,Credit Card,4.9
+2024-01-21,19:37:45,C,San Francisco,West,Sports,Normal,Online,2,525.19,0.1,945.3420000000001,197.28,UPI,8.3
+2025-01-16,19:32:06,A,New York,East,Health & Beauty,Normal,In-store,8,264.81,0.01,2097.2952,455.26,Credit Card,7.5
+2023-09-09,09:04:30,C,San Francisco,West,Health & Beauty,Member,In-store,3,397.73,0.21,942.6201000000001,131.73,Credit Card,5.7
+2025-08-18,16:26:50,A,New York,East,Electronics,Normal,Online,9,140.3,0.12,1111.1760000000002,186.77,Credit Card,7.0
+2023-06-07,18:45:17,C,San Francisco,West,Home & Kitchen,Normal,In-store,4,283.64,0.22,884.9568,102.4,Cash,5.5
+2023-05-07,09:15:20,C,San Francisco,West,Sports,Normal,In-store,7,200.52,0.18,1150.9848000000002,266.71,UPI,8.4
+2025-07-22,12:23:22,A,New York,East,Home & Kitchen,Normal,In-store,8,219.12,0.16,1472.4864,168.31,Cash,6.9
+2023-01-03,21:59:07,A,New York,East,Sports,Normal,Online,3,273.16,0.14,704.7528,107.92,Cash,6.0
+2025-09-23,18:31:43,B,Chicago,Midwest,Clothing,Normal,In-store,2,526.94,0.08,969.5696000000002,93.56,Debit Card,7.4
+2023-10-28,15:22:56,A,New York,East,Electronics,Normal,In-store,2,592.56,0.09,1078.4592,285.28,Debit Card,9.8
+2024-04-13,13:33:50,B,Chicago,Midwest,Sports,Member,In-store,6,509.03,0.2,2443.344,282.71,Cash,6.3
+2025-01-02,15:02:33,C,San Francisco,West,Health & Beauty,Member,In-store,3,469.93,0.07,1311.1046999999999,182.51,Gift Card,9.8
+2023-01-22,15:28:49,B,Chicago,Midwest,Health & Beauty,Member,In-store,9,192.07,0.12,1521.1943999999999,328.82,Debit Card,6.4
+2023-04-17,09:09:00,C,San Francisco,West,Clothing,Normal,Online,9,552.92,0.21,3931.2612,926.09,UPI,9.8
+2023-05-20,15:15:09,C,San Francisco,West,Electronics,Normal,Online,7,176.15,0.09,1122.0755,153.56,Cash,9.3
+2023-12-03,13:36:17,B,Chicago,Midwest,Health & Beauty,Member,In-store,9,144.62,0.22,1015.2324,240.38,Debit Card,5.6
+2023-12-04,14:28:20,A,New York,East,Clothing,Member,In-store,5,540.46,0.21,2134.8170000000005,329.72,Debit Card,6.9
+2024-07-04,13:03:51,A,New York,East,Home & Kitchen,Member,In-store,4,106.69,0.25,320.07,59.02,Cash,8.6
+2025-01-18,17:29:21,B,Chicago,Midwest,Electronics,Normal,Online,7,90.84,0.03,616.8036,62.48,Cash,4.7
+2025-08-11,12:00:29,B,Chicago,Midwest,Sports,Member,Online,4,521.31,0.05,1980.9779999999996,252.52,Credit Card,9.3
+2023-05-03,14:59:00,B,Chicago,Midwest,Sports,Normal,Online,4,456.05,0.06,1714.748,403.95,Gift Card,7.8
+2025-01-19,14:22:12,C,San Francisco,West,Sports,Normal,Online,5,137.73,0.15,585.3525,160.07,Debit Card,9.5
+2023-08-28,09:44:42,A,New York,East,Electronics,Normal,Online,2,471.02,0.11,838.4155999999999,213.13,Cash,5.6
+2023-11-01,14:05:53,A,New York,East,Home & Kitchen,Member,In-store,5,380.42,0.05,1806.9950000000001,450.76,Debit Card,9.0
+2024-02-05,17:13:13,C,San Francisco,West,Clothing,Member,In-store,3,405.86,0.24,925.3607999999999,151.76,Debit Card,6.0
+2025-01-21,09:57:49,B,Chicago,Midwest,Sports,Normal,Online,3,557.41,0.07,1555.1739,278.44,UPI,7.5
+2025-05-01,16:03:25,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,6,239.23,0.08,1320.5496,171.0,Debit Card,6.4
+2025-10-05,19:10:36,C,San Francisco,West,Sports,Member,In-store,1,301.83,0.09,274.6653,42.33,Debit Card,5.8
+2024-10-23,19:33:24,A,New York,East,Home & Kitchen,Member,In-store,1,28.24,0.19,22.8744,2.77,Gift Card,5.5
+2025-02-11,16:00:01,C,San Francisco,West,Electronics,Normal,In-store,4,351.02,0.21,1109.2232,212.76,UPI,5.0
+2025-09-09,15:07:10,C,San Francisco,West,Clothing,Normal,Online,4,544.75,0.03,2113.63,276.21,UPI,9.5
+2023-05-23,21:27:23,C,San Francisco,West,Electronics,Normal,In-store,7,504.3,0.12,3106.488,736.43,Debit Card,6.4
+2023-05-07,14:02:56,B,Chicago,Midwest,Sports,Member,In-store,9,207.35,0.15,1586.2274999999997,285.15,UPI,5.8
+2025-03-29,12:58:59,B,Chicago,Midwest,Home & Kitchen,Normal,Online,3,366.86,0.07,1023.5393999999999,134.15,Cash,4.2
+2024-05-28,10:54:55,C,San Francisco,West,Home & Kitchen,Member,Online,2,447.97,0.08,824.2648,217.26,UPI,4.4
+2025-05-26,19:07:13,C,San Francisco,West,Health & Beauty,Member,Online,2,252.69,0.12,444.7344,92.81,UPI,8.5
+2025-09-29,12:03:29,A,New York,East,Clothing,Normal,Online,2,247.71,0.19,401.2902,97.67,UPI,4.8
+2025-09-21,20:57:25,A,New York,East,Electronics,Member,Online,7,50.66,0.01,351.0738,31.62,Gift Card,6.4
+2025-04-01,21:53:34,A,New York,East,Home & Kitchen,Normal,Online,3,419.16,0.1,1131.732,313.76,UPI,5.8
+2024-08-06,17:46:58,A,New York,East,Clothing,Normal,In-store,4,223.41,0.23,688.1028,170.57,Cash,7.8
+2024-04-22,14:26:56,A,New York,East,Electronics,Normal,In-store,5,318.33,0.09,1448.4015,148.54,Gift Card,8.0
+2023-06-09,13:10:19,C,San Francisco,West,Sports,Member,Online,3,515.99,0.22,1207.4166,121.66,Debit Card,4.5
+2024-10-08,12:52:35,C,San Francisco,West,Electronics,Normal,In-store,5,182.54,0.01,903.573,154.21,Credit Card,6.5
+2024-09-10,17:30:52,C,San Francisco,West,Health & Beauty,Member,In-store,3,377.49,0.08,1041.8724,143.9,UPI,7.0
+2023-07-04,12:06:39,A,New York,East,Health & Beauty,Member,Online,8,530.44,0.12,3734.2976000000003,1011.34,Cash,7.9
+2024-06-08,16:11:03,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,9,473.22,0.16,3577.5432,679.39,Cash,6.1
+2025-12-23,15:01:54,B,Chicago,Midwest,Sports,Member,In-store,8,595.38,0.21,3762.8016000000002,327.34,Credit Card,5.4
+2023-09-15,17:11:07,B,Chicago,Midwest,Clothing,Normal,Online,5,105.55,0.16,443.31,40.13,Debit Card,6.9
+2024-02-16,11:58:14,B,Chicago,Midwest,Electronics,Member,In-store,4,498.4,0.17,1654.6879999999999,297.98,Debit Card,7.4
+2023-03-13,12:57:49,C,San Francisco,West,Home & Kitchen,Normal,In-store,4,179.29,0.14,616.7575999999999,104.67,Cash,7.5
+2023-08-04,16:34:59,A,New York,East,Electronics,Member,In-store,6,323.46,0.08,1785.4992,252.59,Cash,4.6
+2025-06-25,21:35:57,C,San Francisco,West,Sports,Normal,Online,9,13.25,0.08,109.71000000000001,12.06,Gift Card,4.7
+2023-03-31,14:15:52,A,New York,East,Health & Beauty,Normal,Online,8,591.13,0.2,3783.232,321.87,Credit Card,4.1
+2024-10-12,13:44:55,B,Chicago,Midwest,Home & Kitchen,Member,In-store,7,133.32,0.13,811.9188,181.03,Cash,4.2
+2023-07-04,19:48:49,B,Chicago,Midwest,Health & Beauty,Member,Online,9,103.06,0.17,769.8581999999999,195.58,Cash,7.9
+2023-07-11,12:22:30,C,San Francisco,West,Sports,Normal,In-store,2,559.58,0.08,1029.6272000000001,283.54,Credit Card,6.2
+2023-10-27,14:48:39,A,New York,East,Electronics,Member,In-store,7,374.56,0.03,2543.2624,429.21,Credit Card,5.2
+2024-08-26,13:33:10,B,Chicago,Midwest,Sports,Normal,In-store,6,64.0,0.07,357.12,64.56,Cash,8.8
+2023-03-14,13:44:50,B,Chicago,Midwest,Electronics,Normal,Online,6,300.17,0.07,1674.9486,138.51,Credit Card,4.8
+2025-12-19,14:48:09,B,Chicago,Midwest,Home & Kitchen,Member,In-store,3,145.69,0.18,358.3974,38.85,UPI,4.6
+2025-03-30,12:27:23,A,New York,East,Health & Beauty,Normal,In-store,8,599.79,0.19,3886.6392,324.13,Credit Card,5.2
+2025-09-12,18:26:53,C,San Francisco,West,Home & Kitchen,Member,In-store,9,413.95,0.06,3502.0169999999994,943.94,UPI,4.3
+2024-07-16,17:22:14,C,San Francisco,West,Sports,Member,Online,8,457.09,0.07,3400.7495999999996,791.92,Gift Card,9.0
+2025-08-15,16:14:35,B,Chicago,Midwest,Sports,Member,In-store,9,104.15,0.17,778.0005,124.05,UPI,5.0
+2023-07-22,19:43:49,C,San Francisco,West,Home & Kitchen,Member,Online,3,271.35,0.02,797.769,69.39,Credit Card,7.9
+2024-03-02,09:21:34,B,Chicago,Midwest,Health & Beauty,Normal,Online,8,349.41,0.06,2627.5632,571.33,Credit Card,8.8
+2024-12-20,10:14:25,A,New York,East,Home & Kitchen,Normal,Online,8,393.4,0.03,3052.7839999999997,333.74,UPI,9.0
+2023-06-23,16:29:36,B,Chicago,Midwest,Clothing,Member,In-store,4,141.44,0.08,520.4992,68.37,UPI,5.5
+2023-08-09,16:48:10,B,Chicago,Midwest,Health & Beauty,Normal,Online,9,296.1,0.19,2158.5690000000004,269.47,Cash,8.3
+2025-07-28,15:25:58,B,Chicago,Midwest,Clothing,Member,In-store,8,373.01,0.06,2805.0352,296.93,Cash,9.5
+2024-12-02,14:58:47,A,New York,East,Home & Kitchen,Member,In-store,1,101.86,0.24,77.4136,12.8,Cash,7.0
+2023-06-02,21:28:21,C,San Francisco,West,Clothing,Member,Online,9,187.19,0.21,1330.9209,151.01,Debit Card,6.0
+2024-02-12,12:49:49,C,San Francisco,West,Home & Kitchen,Member,In-store,5,409.19,0.17,1698.1385,168.08,Cash,6.4
+2024-10-27,13:51:02,C,San Francisco,West,Home & Kitchen,Normal,In-store,3,546.47,0.02,1606.6218000000001,256.28,Cash,9.9
+2024-08-06,16:19:11,C,San Francisco,West,Clothing,Member,Online,9,510.43,0.13,3996.6668999999997,1092.7,Cash,6.4
+2024-02-07,14:28:59,B,Chicago,Midwest,Electronics,Normal,Online,9,588.75,0.19,4291.9875,838.66,UPI,4.2
+2025-08-23,14:15:05,B,Chicago,Midwest,Health & Beauty,Normal,Online,3,85.4,0.13,222.89400000000003,43.25,Gift Card,5.7
+2023-09-06,11:36:54,A,New York,East,Home & Kitchen,Normal,In-store,6,391.61,0.12,2067.7008,396.61,Credit Card,4.3
+2024-11-16,12:17:39,A,New York,East,Electronics,Member,Online,8,278.77,0.06,2096.3504,426.16,Cash,7.2
+2023-08-15,18:18:58,B,Chicago,Midwest,Home & Kitchen,Member,In-store,9,192.9,0.04,1666.6560000000002,234.18,Gift Card,4.9
+2024-04-07,20:42:50,B,Chicago,Midwest,Sports,Member,Online,7,519.95,0.21,2875.3235000000004,571.35,Gift Card,5.0
+2025-10-02,10:03:58,B,Chicago,Midwest,Home & Kitchen,Member,Online,2,423.87,0.13,737.5338,83.13,Credit Card,6.8
+2025-07-15,20:18:33,B,Chicago,Midwest,Electronics,Normal,Online,7,442.39,0.02,3034.7954,432.23,UPI,8.2
+2024-09-27,18:00:43,A,New York,East,Home & Kitchen,Normal,Online,7,408.6,0.15,2431.17,659.8,Gift Card,7.4
+2025-02-18,18:11:04,B,Chicago,Midwest,Sports,Normal,Online,8,149.86,0.0,1198.88,313.1,Debit Card,5.5
+2023-10-17,21:01:04,B,Chicago,Midwest,Clothing,Normal,In-store,9,325.03,0.12,2574.2375999999995,461.93,Gift Card,9.4
+2024-08-25,10:16:00,A,New York,East,Health & Beauty,Normal,In-store,7,126.69,0.16,744.9372,146.79,Credit Card,6.3
+2023-04-17,12:20:39,B,Chicago,Midwest,Health & Beauty,Member,In-store,1,448.21,0.08,412.3532,60.05,Gift Card,7.5
+2023-10-12,11:23:01,B,Chicago,Midwest,Health & Beauty,Member,Online,8,428.17,0.11,3048.5704,319.5,Gift Card,9.6
+2024-04-08,14:25:08,B,Chicago,Midwest,Clothing,Member,In-store,6,53.63,0.14,276.73080000000004,30.7,Credit Card,4.5
+2023-07-10,20:26:45,C,San Francisco,West,Health & Beauty,Normal,In-store,5,89.61,0.05,425.6475,115.93,Debit Card,8.4
+2023-01-11,19:13:50,C,San Francisco,West,Clothing,Normal,Online,1,500.13,0.04,480.1248,107.16,UPI,4.2
+2023-06-03,20:36:14,B,Chicago,Midwest,Health & Beauty,Normal,Online,1,464.47,0.25,348.3525,78.24,Credit Card,8.6
+2023-08-10,11:36:50,A,New York,East,Electronics,Normal,Online,6,422.79,0.0,2536.7400000000002,237.05,Debit Card,5.5
+2025-11-22,15:43:37,B,Chicago,Midwest,Clothing,Member,Online,5,567.08,0.24,2154.904,549.27,Gift Card,9.8
+2023-09-14,11:27:31,B,Chicago,Midwest,Clothing,Member,In-store,6,237.95,0.04,1370.5919999999999,280.07,Credit Card,9.1
+2024-09-24,14:14:57,B,Chicago,Midwest,Electronics,Normal,In-store,8,514.08,0.16,3454.6176,337.96,Debit Card,9.8
+2023-07-16,11:51:38,C,San Francisco,West,Clothing,Member,Online,5,56.77,0.03,275.3345,34.11,Cash,6.6
+2023-12-07,11:28:23,B,Chicago,Midwest,Clothing,Member,Online,5,185.42,0.12,815.848,173.15,Cash,4.1
+2025-04-24,12:37:22,A,New York,East,Health & Beauty,Normal,In-store,7,509.22,0.11,3172.4406,256.95,Credit Card,5.6
+2025-04-09,12:01:10,B,Chicago,Midwest,Electronics,Member,Online,3,595.93,0.02,1752.0341999999998,408.94,UPI,8.7
+2024-05-12,21:25:21,C,San Francisco,West,Health & Beauty,Member,In-store,7,265.9,0.03,1805.4609999999998,277.46,Debit Card,8.2
+2025-07-21,13:48:02,C,San Francisco,West,Sports,Member,In-store,4,409.01,0.22,1276.1112,213.75,Gift Card,4.0
+2024-10-18,12:33:51,C,San Francisco,West,Electronics,Normal,In-store,3,257.42,0.19,625.5306,89.31,UPI,9.6
+2025-04-13,16:31:17,A,New York,East,Home & Kitchen,Normal,In-store,3,252.75,0.12,667.26,86.62,Gift Card,9.0
+2025-07-08,14:30:58,A,New York,East,Health & Beauty,Normal,Online,3,401.86,0.12,1060.9104,163.25,Debit Card,7.4
+2023-08-19,13:31:28,C,San Francisco,West,Electronics,Member,In-store,2,483.11,0.22,753.6516,123.95,UPI,5.8
+2025-06-01,11:19:13,A,New York,East,Electronics,Member,In-store,9,271.6,0.11,2175.516,245.43,UPI,4.4
+2024-01-02,20:22:34,B,Chicago,Midwest,Health & Beauty,Normal,Online,3,343.45,0.12,906.708,150.52,Debit Card,9.4
+2023-04-27,17:40:21,C,San Francisco,West,Electronics,Member,In-store,4,26.8,0.18,87.90400000000001,17.49,Cash,4.4
+2025-02-07,19:22:47,C,San Francisco,West,Sports,Normal,In-store,2,475.39,0.23,732.1006,125.9,UPI,8.3
+2024-12-17,15:55:17,A,New York,East,Health & Beauty,Normal,In-store,1,385.0,0.24,292.6,44.45,Cash,5.1
+2025-08-01,09:04:04,C,San Francisco,West,Clothing,Normal,In-store,3,573.16,0.09,1564.7268000000001,279.79,UPI,5.9
+2023-10-03,13:17:16,B,Chicago,Midwest,Sports,Normal,Online,5,334.49,0.08,1538.654,315.31,Debit Card,9.8
+2023-07-04,13:51:49,C,San Francisco,West,Home & Kitchen,Member,In-store,5,53.01,0.19,214.69050000000001,40.13,Gift Card,4.9
+2024-04-22,20:23:30,A,New York,East,Home & Kitchen,Normal,In-store,5,206.9,0.07,962.0849999999999,129.66,Gift Card,5.5
+2024-10-18,16:41:38,B,Chicago,Midwest,Clothing,Member,Online,4,536.84,0.25,1610.52,153.0,Cash,5.2
+2023-10-03,13:48:11,A,New York,East,Home & Kitchen,Normal,In-store,5,206.69,0.15,878.4325,105.23,Cash,5.8
+2025-11-27,18:26:47,A,New York,East,Health & Beauty,Member,Online,4,507.16,0.17,1683.7712,434.26,Cash,7.9
+2025-08-29,10:46:54,C,San Francisco,West,Health & Beauty,Normal,In-store,3,292.08,0.01,867.4776,99.14,Gift Card,7.4
+2024-07-11,12:21:16,A,New York,East,Health & Beauty,Normal,In-store,3,16.01,0.15,40.8255,11.29,Gift Card,5.2
+2025-02-09,12:55:22,C,San Francisco,West,Health & Beauty,Member,In-store,9,266.0,0.08,2202.48,526.29,Gift Card,8.9
+2025-02-08,20:08:57,C,San Francisco,West,Electronics,Member,Online,2,471.34,0.04,904.9727999999999,83.62,Credit Card,9.9
+2024-02-22,20:25:12,C,San Francisco,West,Electronics,Member,Online,9,78.8,0.08,652.4639999999999,127.52,UPI,6.9
+2024-11-21,10:55:55,A,New York,East,Sports,Normal,Online,3,497.17,0.06,1402.0194,160.85,UPI,8.7
+2023-04-18,19:41:59,C,San Francisco,West,Sports,Member,Online,4,178.56,0.15,607.104,91.06,Gift Card,6.3
+2025-03-14,13:45:08,C,San Francisco,West,Home & Kitchen,Normal,Online,4,328.96,0.06,1236.8895999999997,208.95,Credit Card,6.1
+2025-10-11,17:00:53,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,4,90.28,0.1,325.00800000000004,83.85,UPI,4.7
+2025-04-26,16:57:17,A,New York,East,Electronics,Member,Online,4,318.74,0.2,1019.9680000000001,260.28,UPI,4.2
+2023-06-14,16:25:00,B,Chicago,Midwest,Clothing,Member,Online,8,215.2,0.11,1532.224,380.07,Credit Card,9.0
+2025-10-20,14:09:36,B,Chicago,Midwest,Electronics,Member,Online,8,53.62,0.16,360.3264,50.69,Credit Card,9.7
+2025-09-05,18:00:02,C,San Francisco,West,Clothing,Member,Online,9,472.93,0.06,4000.9878,836.23,UPI,4.5
+2024-09-30,19:24:25,A,New York,East,Electronics,Member,Online,3,595.1,0.21,1410.3870000000002,391.38,Credit Card,9.5
+2025-12-08,09:57:22,C,San Francisco,West,Sports,Normal,Online,7,173.45,0.11,1080.5935,114.31,UPI,8.7
+2025-02-04,16:48:53,A,New York,East,Health & Beauty,Member,In-store,6,12.48,0.03,72.63359999999999,16.94,Debit Card,6.3
+2024-09-01,15:59:17,C,San Francisco,West,Sports,Normal,In-store,7,302.5,0.13,1842.225,199.17,Gift Card,5.2
+2023-09-16,15:57:47,C,San Francisco,West,Clothing,Normal,In-store,4,110.63,0.22,345.1656,94.28,UPI,7.5
+2024-04-25,16:03:27,B,Chicago,Midwest,Health & Beauty,Member,Online,5,442.16,0.16,1857.0720000000001,347.68,Gift Card,8.8
+2025-06-14,19:40:58,C,San Francisco,West,Home & Kitchen,Normal,In-store,8,485.32,0.22,3028.3968,695.71,Cash,8.2
+2023-06-21,11:27:55,B,Chicago,Midwest,Electronics,Member,In-store,8,43.99,0.07,327.2856,70.75,Credit Card,9.7
+2025-02-21,13:19:33,A,New York,East,Health & Beauty,Member,Online,9,66.67,0.11,534.0267,93.29,Credit Card,7.4
+2024-05-11,20:42:24,C,San Francisco,West,Home & Kitchen,Member,In-store,8,20.88,0.09,152.00639999999999,31.73,UPI,9.9
+2025-06-25,18:58:14,B,Chicago,Midwest,Health & Beauty,Member,Online,2,65.19,0.13,113.4306,12.87,Cash,7.1
+2023-07-23,09:27:56,A,New York,East,Clothing,Normal,In-store,6,89.78,0.12,474.0384000000001,111.59,Cash,5.3
+2023-01-31,21:07:39,C,San Francisco,West,Health & Beauty,Normal,In-store,4,341.97,0.1,1231.092,318.14,Credit Card,5.8
+2024-11-22,11:20:06,A,New York,East,Home & Kitchen,Normal,Online,2,535.67,0.13,932.0658,95.64,Credit Card,9.6
+2025-03-29,09:27:16,B,Chicago,Midwest,Home & Kitchen,Normal,Online,1,596.64,0.01,590.6736,49.73,Debit Card,5.9
+2025-01-21,21:06:54,B,Chicago,Midwest,Home & Kitchen,Member,Online,3,225.29,0.08,621.8004000000001,153.3,Cash,9.8
+2024-01-13,11:42:27,C,San Francisco,West,Sports,Normal,In-store,7,539.23,0.14,3246.1646,334.98,Cash,8.3
+2025-10-02,12:14:41,B,Chicago,Midwest,Health & Beauty,Member,In-store,3,282.01,0.0,846.03,165.02,UPI,8.2
+2025-09-23,11:49:51,B,Chicago,Midwest,Health & Beauty,Member,Online,4,60.17,0.13,209.3916,45.9,Gift Card,6.4
+2025-04-18,15:40:10,C,San Francisco,West,Electronics,Member,Online,7,357.31,0.0,2501.17,468.76,Debit Card,8.4
+2024-02-21,16:25:26,B,Chicago,Midwest,Health & Beauty,Normal,In-store,4,39.49,0.01,156.3804,34.86,Credit Card,5.1
+2024-07-23,20:42:15,B,Chicago,Midwest,Electronics,Normal,In-store,9,229.63,0.05,1963.3365,241.51,Debit Card,8.3
+2023-07-28,17:56:41,A,New York,East,Home & Kitchen,Member,Online,4,578.99,0.19,1875.9276000000002,162.47,Credit Card,7.2
+2024-11-30,10:50:53,B,Chicago,Midwest,Health & Beauty,Member,Online,6,397.97,0.06,2244.5508,276.95,Gift Card,7.8
+2024-10-14,21:04:22,C,San Francisco,West,Clothing,Member,In-store,5,278.13,0.21,1098.6135000000002,190.05,Credit Card,9.2
+2024-08-01,19:49:49,C,San Francisco,West,Home & Kitchen,Member,In-store,7,28.92,0.04,194.3424,27.44,Debit Card,7.7
+2025-04-10,20:58:33,C,San Francisco,West,Sports,Member,Online,8,560.3,0.18,3675.5679999999998,785.05,Credit Card,6.0
+2025-05-21,19:24:52,B,Chicago,Midwest,Electronics,Member,In-store,1,359.4,0.06,337.83599999999996,60.57,Credit Card,8.5
+2024-10-25,21:41:08,C,San Francisco,West,Electronics,Member,Online,7,526.42,0.04,3537.5423999999994,786.47,Credit Card,9.6
+2023-07-06,17:58:49,A,New York,East,Clothing,Member,In-store,6,550.11,0.1,2970.594,262.55,UPI,5.2
+2024-12-21,21:37:12,B,Chicago,Midwest,Sports,Member,In-store,5,303.34,0.11,1349.8629999999998,198.58,Debit Card,7.5
+2025-07-06,18:11:07,C,San Francisco,West,Health & Beauty,Normal,In-store,1,399.34,0.11,355.4126,50.33,UPI,5.0
+2025-07-02,21:08:04,C,San Francisco,West,Clothing,Member,Online,6,242.55,0.14,1251.5580000000002,189.24,Credit Card,9.7
+2024-03-31,17:44:37,A,New York,East,Health & Beauty,Member,In-store,9,354.93,0.11,2842.9892999999997,406.13,UPI,7.2
+2024-12-25,14:27:51,A,New York,East,Sports,Member,In-store,7,490.31,0.1,3088.953,255.12,Gift Card,7.3
+2025-01-29,18:15:58,A,New York,East,Home & Kitchen,Member,In-store,3,470.35,0.2,1128.8400000000001,168.25,Credit Card,5.0
+2024-01-07,09:40:59,C,San Francisco,West,Sports,Normal,Online,7,166.23,0.05,1105.4295,263.66,Credit Card,5.1
+2023-12-19,09:00:11,A,New York,East,Clothing,Normal,Online,8,443.13,0.12,3119.6352,558.74,UPI,6.0
+2024-11-18,16:32:59,B,Chicago,Midwest,Electronics,Normal,In-store,4,46.06,0.0,184.24,20.84,Gift Card,8.4
+2025-10-14,20:50:06,C,San Francisco,West,Clothing,Normal,Online,2,82.47,0.16,138.5496,20.29,Debit Card,9.9
+2024-05-28,20:24:00,A,New York,East,Home & Kitchen,Normal,In-store,9,580.67,0.11,4651.1667,1145.44,Debit Card,7.8
+2024-10-31,16:55:53,A,New York,East,Sports,Normal,Online,6,173.91,0.21,824.3334000000001,103.9,Credit Card,8.1
+2024-02-10,14:12:44,A,New York,East,Sports,Normal,Online,4,514.23,0.14,1768.9512,304.46,Cash,6.0
+2023-01-22,20:52:01,C,San Francisco,West,Health & Beauty,Member,Online,3,531.65,0.07,1483.3034999999998,293.15,UPI,4.9
+2025-09-06,17:41:37,C,San Francisco,West,Sports,Member,In-store,4,180.8,0.07,672.576,76.43,Debit Card,4.4
+2025-12-29,10:38:16,A,New York,East,Clothing,Normal,Online,8,187.25,0.06,1408.12,390.53,Debit Card,9.1
+2025-05-13,12:44:49,C,San Francisco,West,Clothing,Normal,Online,6,531.26,0.23,2454.4212,395.52,Cash,6.6
+2025-08-14,11:08:18,B,Chicago,Midwest,Health & Beauty,Member,Online,8,75.23,0.07,559.7112,95.5,Gift Card,9.0
+2024-05-27,15:37:07,A,New York,East,Clothing,Member,In-store,6,44.73,0.11,238.8582,26.2,Gift Card,4.1
+2023-02-03,20:33:44,B,Chicago,Midwest,Home & Kitchen,Normal,Online,8,454.97,0.08,3348.5792,621.42,Credit Card,9.8
+2023-03-04,19:28:54,A,New York,East,Home & Kitchen,Normal,Online,8,503.47,0.23,3101.3752000000004,343.83,Credit Card,7.7
+2025-02-08,19:31:47,A,New York,East,Home & Kitchen,Normal,In-store,9,506.52,0.0,4558.68,802.01,UPI,9.5
+2025-02-20,13:09:11,A,New York,East,Sports,Member,Online,5,540.99,0.23,2082.8115,455.89,UPI,4.3
+2023-01-19,18:29:08,B,Chicago,Midwest,Health & Beauty,Member,Online,4,418.18,0.07,1555.6296,352.58,Gift Card,9.4
+2025-10-02,09:07:23,A,New York,East,Home & Kitchen,Normal,Online,5,247.46,0.04,1187.808,102.2,Credit Card,7.4
+2025-06-21,13:50:52,B,Chicago,Midwest,Electronics,Normal,Online,2,223.53,0.22,348.7068,76.33,Debit Card,9.7
+2023-12-12,13:07:55,B,Chicago,Midwest,Electronics,Member,Online,2,10.01,0.21,15.815800000000001,2.62,Gift Card,9.1
+2023-04-22,18:44:49,B,Chicago,Midwest,Health & Beauty,Normal,In-store,6,438.89,0.08,2422.6728000000003,567.16,Debit Card,8.8
+2025-11-29,13:52:48,B,Chicago,Midwest,Home & Kitchen,Member,In-store,8,446.54,0.02,3500.8736,914.75,UPI,4.7
+2024-02-05,18:42:22,B,Chicago,Midwest,Electronics,Normal,In-store,4,162.25,0.09,590.59,120.85,UPI,5.8
+2025-06-29,20:45:25,B,Chicago,Midwest,Clothing,Normal,Online,8,55.99,0.02,438.96160000000003,39.76,Cash,7.9
+2024-12-04,14:47:31,C,San Francisco,West,Clothing,Normal,Online,2,294.25,0.1,529.65,117.46,Debit Card,7.2
+2025-12-21,17:31:32,C,San Francisco,West,Clothing,Normal,In-store,4,457.83,0.12,1611.5616,446.29,Debit Card,9.8
+2025-07-24,19:32:36,C,San Francisco,West,Electronics,Normal,Online,2,440.36,0.1,792.648,160.2,Credit Card,8.7
+2024-06-04,20:56:21,A,New York,East,Sports,Member,Online,9,483.29,0.0,4349.610000000001,849.79,Credit Card,6.8
+2023-05-29,19:42:44,B,Chicago,Midwest,Health & Beauty,Normal,Online,3,484.63,0.03,1410.2732999999998,373.54,Gift Card,7.1
+2024-05-27,21:02:32,A,New York,East,Home & Kitchen,Normal,In-store,3,19.03,0.21,45.1011,12.22,Gift Card,8.1
+2023-12-16,20:48:41,B,Chicago,Midwest,Electronics,Member,In-store,6,247.22,0.07,1379.4876,342.51,Debit Card,5.7
+2023-03-19,09:19:40,A,New York,East,Electronics,Member,In-store,1,38.55,0.11,34.3095,3.49,Gift Card,9.2
+2023-08-02,21:13:39,A,New York,East,Sports,Normal,In-store,6,380.0,0.21,1801.2,162.44,Cash,9.5
+2023-09-30,13:16:21,A,New York,East,Sports,Normal,Online,3,342.96,0.16,864.2591999999999,94.36,Credit Card,6.8
+2024-09-23,14:15:38,C,San Francisco,West,Home & Kitchen,Normal,In-store,5,544.84,0.04,2615.232,588.57,UPI,5.2
+2024-10-05,09:58:51,A,New York,East,Sports,Normal,In-store,9,405.88,0.11,3251.0988,488.0,UPI,6.1
+2024-01-10,09:20:05,A,New York,East,Sports,Member,Online,1,116.68,0.0,116.68,13.86,Credit Card,4.4
+2023-08-26,19:30:41,A,New York,East,Home & Kitchen,Member,Online,4,21.55,0.05,81.89,15.48,Credit Card,4.2
+2023-03-15,17:31:38,C,San Francisco,West,Sports,Member,Online,8,337.9,0.21,2135.528,442.7,Credit Card,6.8
+2024-06-04,21:47:39,C,San Francisco,West,Home & Kitchen,Member,In-store,2,400.5,0.02,784.98,186.22,Gift Card,5.5
+2024-12-23,16:15:02,A,New York,East,Electronics,Normal,Online,3,102.78,0.23,237.42180000000002,19.28,Debit Card,5.3
+2025-09-20,12:03:27,B,Chicago,Midwest,Health & Beauty,Normal,In-store,8,563.8,0.2,3608.3199999999997,600.43,UPI,5.4
+2024-05-11,12:45:12,C,San Francisco,West,Home & Kitchen,Member,Online,5,385.84,0.17,1601.2359999999999,209.08,Gift Card,5.8
+2024-12-16,12:59:19,B,Chicago,Midwest,Sports,Normal,Online,6,140.77,0.22,658.8036000000001,105.35,Credit Card,8.1
+2023-08-08,21:55:05,A,New York,East,Electronics,Normal,In-store,1,558.69,0.23,430.19130000000007,104.98,Debit Card,5.4
+2025-05-30,20:17:46,A,New York,East,Health & Beauty,Member,Online,4,33.92,0.0,135.68,12.98,Gift Card,8.1
+2024-07-26,17:29:58,C,San Francisco,West,Clothing,Normal,Online,1,104.96,0.04,100.76159999999999,10.29,UPI,5.7
+2024-06-01,16:03:49,B,Chicago,Midwest,Electronics,Normal,Online,6,480.65,0.24,2191.7639999999997,349.63,Gift Card,8.9
+2023-04-22,14:30:07,B,Chicago,Midwest,Health & Beauty,Normal,In-store,1,309.87,0.1,278.88300000000004,69.11,Gift Card,5.5
+2024-05-22,13:09:32,A,New York,East,Electronics,Member,In-store,3,357.28,0.19,868.1904,87.0,Gift Card,9.9
+2024-06-19,14:05:11,C,San Francisco,West,Home & Kitchen,Member,Online,9,21.13,0.14,163.5462,32.62,Credit Card,4.1
+2024-08-10,18:05:57,B,Chicago,Midwest,Clothing,Normal,In-store,6,178.29,0.2,855.792,192.85,Debit Card,6.3
+2024-02-20,18:01:21,B,Chicago,Midwest,Clothing,Member,In-store,3,210.16,0.23,485.4696,61.85,Debit Card,7.7
+2024-10-08,18:30:50,B,Chicago,Midwest,Health & Beauty,Normal,Online,9,315.63,0.21,2244.1293,445.47,UPI,7.2
+2025-11-26,17:27:24,C,San Francisco,West,Health & Beauty,Normal,In-store,1,560.48,0.16,470.8032,113.67,Cash,4.9
+2025-01-20,18:53:21,C,San Francisco,West,Clothing,Normal,Online,1,239.65,0.07,222.87449999999998,22.91,Gift Card,5.3
+2024-11-11,12:19:33,B,Chicago,Midwest,Health & Beauty,Member,Online,1,423.06,0.22,329.9868,46.09,Credit Card,7.7
+2024-07-02,20:10:50,C,San Francisco,West,Sports,Normal,Online,7,221.89,0.05,1475.5684999999999,188.21,Cash,6.5
+2024-10-08,11:12:31,C,San Francisco,West,Clothing,Member,Online,5,540.55,0.0,2702.75,518.24,Debit Card,5.2
+2025-03-20,17:50:26,B,Chicago,Midwest,Electronics,Member,In-store,1,486.46,0.01,481.5954,84.99,UPI,7.2
+2023-03-31,20:13:51,C,San Francisco,West,Health & Beauty,Normal,Online,5,588.74,0.01,2914.263,585.31,Credit Card,4.7
+2023-08-09,14:56:34,B,Chicago,Midwest,Sports,Normal,In-store,8,396.79,0.12,2793.4016,538.84,UPI,9.6
+2024-10-12,13:59:40,A,New York,East,Clothing,Normal,Online,6,54.09,0.16,272.6136,33.95,Credit Card,7.3
+2023-01-02,20:48:18,A,New York,East,Home & Kitchen,Normal,Online,6,62.02,0.06,349.7928,95.33,UPI,6.8
+2024-08-30,16:34:39,B,Chicago,Midwest,Electronics,Normal,In-store,3,535.3,0.07,1493.4869999999999,134.07,Gift Card,7.7
+2023-02-23,12:37:22,C,San Francisco,West,Health & Beauty,Member,In-store,2,403.47,0.09,734.3154000000001,181.01,Debit Card,5.9
+2025-12-05,15:52:13,A,New York,East,Sports,Normal,In-store,8,585.38,0.14,4027.4144,760.18,Cash,5.4
+2024-06-06,19:17:23,A,New York,East,Sports,Normal,Online,2,286.5,0.24,435.48,50.12,UPI,8.7
+2024-02-01,12:18:17,A,New York,East,Health & Beauty,Member,In-store,5,157.38,0.17,653.127,61.35,Credit Card,5.0
+2025-11-03,16:00:55,A,New York,East,Sports,Member,In-store,9,584.83,0.07,4895.0271,422.13,Credit Card,9.9
+2023-02-09,17:11:05,B,Chicago,Midwest,Home & Kitchen,Normal,Online,5,104.66,0.07,486.6689999999999,128.14,UPI,5.7
+2025-03-06,09:55:33,A,New York,East,Electronics,Member,Online,4,274.76,0.07,1022.1071999999999,249.79,Gift Card,10.0
+2024-04-30,14:12:14,B,Chicago,Midwest,Clothing,Normal,In-store,6,588.85,0.01,3497.7690000000002,299.37,Cash,4.0
+2024-11-03,14:34:40,A,New York,East,Home & Kitchen,Member,In-store,6,183.91,0.12,971.0448,251.12,UPI,6.2
+2024-06-08,16:09:22,B,Chicago,Midwest,Sports,Member,Online,2,393.48,0.13,684.6552,143.62,Debit Card,5.2
+2023-07-31,20:03:45,B,Chicago,Midwest,Clothing,Member,In-store,2,484.01,0.2,774.416,110.34,UPI,8.5
+2024-05-22,15:51:34,B,Chicago,Midwest,Clothing,Member,In-store,7,160.32,0.22,875.3472,230.26,UPI,5.2
+2024-07-09,15:59:13,C,San Francisco,West,Home & Kitchen,Member,In-store,4,134.12,0.07,498.9264,63.17,UPI,5.6
+2024-03-18,10:10:00,B,Chicago,Midwest,Home & Kitchen,Member,In-store,3,144.47,0.02,424.74179999999996,76.43,Credit Card,7.8
+2023-05-04,10:54:46,C,San Francisco,West,Clothing,Member,In-store,1,70.39,0.06,66.1666,14.9,Credit Card,6.1
+2025-11-07,09:12:28,A,New York,East,Clothing,Member,Online,3,432.68,0.12,1142.2752,148.88,Credit Card,7.7
+2024-04-05,14:59:56,C,San Francisco,West,Clothing,Normal,Online,6,497.78,0.07,2777.6123999999995,475.98,Debit Card,4.3
+2025-12-28,09:54:18,B,Chicago,Midwest,Sports,Normal,Online,8,597.54,0.08,4397.8944,1178.88,Credit Card,7.0
+2023-11-17,19:50:56,A,New York,East,Electronics,Normal,Online,2,549.89,0.15,934.813,243.93,Debit Card,9.3
+2023-10-20,21:17:19,C,San Francisco,West,Sports,Member,In-store,9,15.53,0.13,121.59989999999998,14.68,Cash,8.1
+2024-09-20,10:27:00,B,Chicago,Midwest,Electronics,Member,Online,1,514.72,0.14,442.6592,51.02,Debit Card,7.9
+2025-11-27,10:10:30,C,San Francisco,West,Clothing,Normal,Online,7,13.84,0.03,93.97359999999999,18.0,UPI,8.9
+2023-03-28,15:40:43,C,San Francisco,West,Home & Kitchen,Normal,Online,3,120.69,0.07,336.7251,36.5,Debit Card,7.0
+2023-09-22,12:50:25,C,San Francisco,West,Health & Beauty,Normal,Online,7,305.95,0.08,1970.3180000000002,250.27,Debit Card,7.2
+2025-12-07,16:41:04,A,New York,East,Health & Beauty,Normal,Online,9,330.64,0.09,2707.9415999999997,735.56,Gift Card,8.3
+2024-02-05,15:28:20,A,New York,East,Clothing,Normal,Online,6,81.9,0.19,398.03400000000005,79.83,Gift Card,6.5
+2024-04-17,14:15:39,C,San Francisco,West,Home & Kitchen,Normal,In-store,4,102.2,0.15,347.48,80.33,Debit Card,6.5
+2025-03-05,19:30:30,C,San Francisco,West,Sports,Normal,In-store,5,270.12,0.1,1215.54,273.52,Cash,8.4
+2023-06-23,15:13:36,B,Chicago,Midwest,Sports,Member,Online,1,258.88,0.12,227.8144,30.22,Credit Card,6.3
+2025-06-23,09:56:04,B,Chicago,Midwest,Health & Beauty,Member,In-store,7,47.51,0.12,292.6616,67.42,Debit Card,4.7
+2025-05-07,16:33:54,B,Chicago,Midwest,Sports,Member,In-store,1,349.9,0.07,325.407,51.37,Credit Card,9.3
+2023-03-21,20:11:45,A,New York,East,Home & Kitchen,Member,Online,9,110.16,0.16,832.8095999999999,155.63,UPI,8.4
+2024-01-08,21:28:54,B,Chicago,Midwest,Clothing,Normal,In-store,1,343.97,0.13,299.25390000000004,43.7,Gift Card,9.9
+2023-10-08,12:36:03,B,Chicago,Midwest,Health & Beauty,Normal,In-store,6,320.72,0.11,1712.6448000000003,351.13,UPI,6.2
+2024-10-31,19:20:01,A,New York,East,Sports,Normal,Online,8,436.11,0.16,2930.6592,393.64,Cash,7.2
+2024-11-12,19:00:49,B,Chicago,Midwest,Electronics,Normal,Online,7,269.3,0.01,1866.249,243.48,Debit Card,8.6
+2023-06-05,10:10:13,A,New York,East,Home & Kitchen,Member,Online,6,332.98,0.22,1558.3464000000001,217.21,Gift Card,7.3
+2023-03-25,10:34:21,C,San Francisco,West,Electronics,Member,In-store,4,222.36,0.2,711.5520000000001,58.06,Gift Card,5.8
+2025-05-14,18:14:23,A,New York,East,Health & Beauty,Member,Online,5,305.23,0.06,1434.581,367.07,Gift Card,7.5
+2023-09-14,10:36:05,A,New York,East,Health & Beauty,Normal,Online,3,11.15,0.06,31.443,6.25,Credit Card,8.6
+2024-05-04,21:18:21,A,New York,East,Home & Kitchen,Normal,Online,4,247.92,0.06,932.1791999999999,133.57,Cash,6.3
+2025-06-26,20:36:57,A,New York,East,Home & Kitchen,Normal,Online,4,19.75,0.01,78.21,19.68,Debit Card,4.8
+2024-03-08,11:08:06,B,Chicago,Midwest,Clothing,Member,Online,1,313.68,0.16,263.4912,38.18,Debit Card,9.0
+2025-09-29,12:12:43,C,San Francisco,West,Health & Beauty,Member,In-store,7,17.69,0.13,107.73210000000002,13.04,Credit Card,8.8
+2023-12-18,15:55:34,C,San Francisco,West,Sports,Normal,In-store,7,96.98,0.2,543.0880000000001,102.04,Cash,7.6
+2023-05-22,13:40:23,A,New York,East,Health & Beauty,Normal,Online,8,493.96,0.21,3121.8272,486.04,Cash,5.1
+2025-04-30,11:26:43,A,New York,East,Clothing,Normal,In-store,1,512.53,0.01,507.4047,66.54,Gift Card,7.7
+2025-02-23,09:29:26,B,Chicago,Midwest,Electronics,Normal,In-store,6,284.72,0.06,1605.8208,190.49,Debit Card,5.2
+2024-05-14,18:47:00,C,San Francisco,West,Clothing,Normal,Online,4,231.63,0.06,870.9287999999999,178.69,Gift Card,6.4
+2025-07-08,14:31:46,C,San Francisco,West,Sports,Member,Online,3,599.27,0.2,1438.248,199.39,Cash,8.3
+2025-02-10,13:25:23,C,San Francisco,West,Sports,Normal,In-store,4,155.88,0.23,480.11039999999997,95.44,Gift Card,5.0
+2023-01-02,19:43:54,B,Chicago,Midwest,Electronics,Normal,In-store,9,159.49,0.19,1162.6821000000002,233.95,Cash,6.4
+2024-04-13,11:40:22,A,New York,East,Clothing,Member,In-store,6,147.18,0.05,838.926,69.14,Cash,5.0
+2024-02-07,16:35:31,B,Chicago,Midwest,Clothing,Normal,In-store,8,286.93,0.08,2111.8048000000003,421.8,UPI,5.1
+2024-09-23,15:44:10,B,Chicago,Midwest,Sports,Member,Online,3,486.35,0.23,1123.4685000000002,233.79,Credit Card,7.4
+2025-11-01,13:46:23,C,San Francisco,West,Clothing,Normal,In-store,5,501.37,0.03,2431.6445,349.27,Gift Card,8.2
+2024-06-14,20:17:38,C,San Francisco,West,Sports,Member,Online,8,47.12,0.12,331.72479999999996,30.8,UPI,8.5
+2024-12-30,20:45:06,B,Chicago,Midwest,Health & Beauty,Member,Online,6,95.31,0.0,571.86,90.38,Credit Card,4.4
+2024-07-27,17:26:46,C,San Francisco,West,Clothing,Normal,In-store,5,306.37,0.09,1393.9835,180.19,UPI,7.3
+2024-07-23,18:03:13,B,Chicago,Midwest,Sports,Member,In-store,3,414.96,0.24,946.1088,173.56,Debit Card,5.8
+2024-03-16,11:27:42,B,Chicago,Midwest,Health & Beauty,Normal,Online,6,290.33,0.12,1532.9424000000001,391.25,Debit Card,5.6
+2023-03-31,15:02:00,B,Chicago,Midwest,Health & Beauty,Normal,Online,7,204.85,0.01,1419.6105,161.27,UPI,4.2
+2025-05-10,14:38:45,B,Chicago,Midwest,Health & Beauty,Member,Online,6,591.48,0.23,2732.6376,229.38,Cash,7.1
+2023-09-14,15:20:03,B,Chicago,Midwest,Clothing,Normal,In-store,9,505.36,0.18,3729.5568000000003,570.66,Credit Card,9.5
+2025-10-05,17:12:03,B,Chicago,Midwest,Home & Kitchen,Normal,Online,5,420.09,0.05,1995.4274999999998,464.3,Gift Card,8.7
+2025-07-29,19:27:08,C,San Francisco,West,Electronics,Normal,In-store,5,111.98,0.15,475.91499999999996,114.2,Gift Card,4.7
+2025-06-26,21:18:48,C,San Francisco,West,Electronics,Normal,In-store,7,576.39,0.0,4034.73,740.27,UPI,7.6
+2023-04-18,11:55:45,B,Chicago,Midwest,Sports,Member,Online,1,435.88,0.02,427.1624,58.37,Gift Card,5.3
+2024-12-20,13:41:30,C,San Francisco,West,Sports,Member,Online,4,482.77,0.23,1486.9316,271.33,Debit Card,7.0
+2023-09-11,21:39:33,A,New York,East,Electronics,Member,In-store,3,522.05,0.03,1519.1654999999998,139.98,Debit Card,9.8
+2025-07-26,15:22:20,B,Chicago,Midwest,Home & Kitchen,Normal,Online,6,266.65,0.08,1471.908,382.95,Debit Card,8.3
+2023-04-23,14:05:06,B,Chicago,Midwest,Home & Kitchen,Member,In-store,2,387.82,0.21,612.7556000000001,56.47,Cash,4.4
+2025-03-26,09:44:18,A,New York,East,Sports,Member,In-store,1,534.65,0.24,406.334,35.2,Cash,5.7
+2025-09-28,21:26:55,B,Chicago,Midwest,Electronics,Member,In-store,5,397.58,0.16,1669.8359999999998,195.32,UPI,7.5
+2023-07-02,09:07:31,B,Chicago,Midwest,Clothing,Member,Online,8,57.48,0.11,409.25759999999997,85.27,Gift Card,6.9
+2025-01-03,12:39:13,C,San Francisco,West,Electronics,Member,In-store,1,499.86,0.13,434.8782,104.61,Credit Card,8.2
+2024-08-22,12:24:50,A,New York,East,Sports,Member,Online,9,453.69,0.13,3552.3927,730.25,Credit Card,7.7
+2023-08-15,12:10:45,B,Chicago,Midwest,Sports,Normal,In-store,6,350.02,0.1,1890.108,413.09,Cash,9.2
+2025-11-09,20:03:17,C,San Francisco,West,Sports,Member,Online,4,402.41,0.12,1416.4832000000001,166.54,Gift Card,8.8
+2024-09-08,09:23:20,C,San Francisco,West,Home & Kitchen,Member,In-store,7,367.82,0.12,2265.7711999999997,455.89,UPI,5.3
+2024-05-31,10:30:20,B,Chicago,Midwest,Electronics,Normal,In-store,8,113.05,0.13,786.828,123.22,Credit Card,4.9
+2025-06-30,12:26:46,C,San Francisco,West,Clothing,Member,Online,7,160.16,0.24,852.0511999999999,198.39,Credit Card,10.0
+2025-10-31,14:22:53,C,San Francisco,West,Sports,Member,In-store,4,551.44,0.11,1963.1264000000003,453.23,UPI,8.4
+2024-11-14,10:27:18,C,San Francisco,West,Clothing,Member,Online,4,359.3,0.12,1264.736,205.92,Debit Card,8.9
+2024-07-15,21:39:13,A,New York,East,Clothing,Member,In-store,6,33.36,0.01,198.1584,42.7,Cash,4.8
+2023-12-13,13:38:02,A,New York,East,Health & Beauty,Member,In-store,3,568.29,0.05,1619.6264999999999,413.22,UPI,9.1
+2024-05-25,18:08:52,C,San Francisco,West,Home & Kitchen,Normal,In-store,9,240.67,0.05,2057.7284999999997,214.77,UPI,9.1
+2025-08-21,10:37:32,B,Chicago,Midwest,Home & Kitchen,Member,Online,1,172.29,0.24,130.94039999999998,14.45,Debit Card,6.2
+2023-09-18,14:33:30,A,New York,East,Sports,Normal,Online,1,508.73,0.18,417.15860000000004,37.46,Gift Card,6.2
+2023-09-12,12:34:07,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,9,206.98,0.21,1471.6278,405.32,Debit Card,9.6
+2024-04-28,16:19:38,A,New York,East,Sports,Member,In-store,4,274.69,0.12,966.9088,159.14,Gift Card,9.5
+2024-07-14,11:41:25,B,Chicago,Midwest,Electronics,Member,Online,2,101.73,0.15,172.941,40.86,Gift Card,9.3
+2025-08-26,09:53:53,B,Chicago,Midwest,Health & Beauty,Normal,Online,6,326.53,0.07,1822.0373999999997,183.41,Debit Card,9.2
+2023-11-05,11:15:51,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,4,304.47,0.0,1217.88,139.48,Debit Card,7.2
+2023-09-05,16:37:32,A,New York,East,Clothing,Member,Online,9,12.25,0.24,83.79,12.75,Credit Card,7.1
+2024-11-24,21:50:58,B,Chicago,Midwest,Sports,Member,In-store,4,433.27,0.01,1715.7492,282.53,Credit Card,4.9
+2025-12-17,17:16:02,C,San Francisco,West,Health & Beauty,Member,In-store,8,571.15,0.17,3792.4359999999997,719.63,Gift Card,4.1
+2024-01-25,21:02:35,C,San Francisco,West,Home & Kitchen,Member,In-store,4,25.36,0.11,90.2816,23.42,Gift Card,9.1
+2025-04-22,12:25:00,C,San Francisco,West,Home & Kitchen,Member,Online,6,510.71,0.07,2849.7617999999998,237.33,Gift Card,4.4
+2025-05-31,17:27:19,A,New York,East,Health & Beauty,Member,Online,2,520.06,0.17,863.2995999999998,109.84,Gift Card,5.2
+2023-08-03,13:02:19,C,San Francisco,West,Electronics,Normal,Online,8,67.51,0.02,529.2784,42.58,Credit Card,5.6
+2023-09-28,14:58:24,B,Chicago,Midwest,Health & Beauty,Member,In-store,6,406.59,0.04,2341.9584,634.55,Gift Card,6.0
+2024-02-16,12:36:09,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,9,102.11,0.18,753.5718,124.26,Cash,7.5
+2023-06-18,14:16:23,B,Chicago,Midwest,Clothing,Member,In-store,3,228.02,0.18,560.9292,152.74,UPI,4.5
+2023-08-31,11:13:19,B,Chicago,Midwest,Health & Beauty,Normal,In-store,2,405.65,0.23,624.701,135.33,Cash,5.0
+2024-04-10,20:13:32,C,San Francisco,West,Home & Kitchen,Normal,In-store,8,580.69,0.19,3762.8712000000005,699.44,Debit Card,8.1
+2023-10-13,14:40:21,C,San Francisco,West,Home & Kitchen,Member,Online,7,295.17,0.18,1694.2758000000001,303.9,UPI,4.2
+2024-05-04,13:49:24,C,San Francisco,West,Sports,Member,Online,5,313.26,0.03,1519.311,137.05,Cash,7.2
+2025-06-10,21:34:57,A,New York,East,Home & Kitchen,Normal,In-store,1,321.08,0.05,305.02599999999995,62.98,Credit Card,4.7
+2023-10-05,20:58:39,B,Chicago,Midwest,Clothing,Member,Online,7,157.84,0.05,1049.636,102.54,Cash,9.8
+2025-05-16,17:00:59,C,San Francisco,West,Sports,Normal,In-store,7,582.48,0.04,3914.2656,448.98,Cash,4.5
+2024-02-09,12:37:14,C,San Francisco,West,Electronics,Normal,Online,3,566.69,0.19,1377.0567000000003,130.97,Debit Card,8.2
+2023-02-25,14:42:41,A,New York,East,Clothing,Member,In-store,1,505.73,0.18,414.69860000000006,110.53,Credit Card,6.4
+2025-11-16,10:20:11,B,Chicago,Midwest,Home & Kitchen,Normal,Online,3,367.34,0.21,870.5958,130.21,Cash,6.4
+2023-04-04,10:37:01,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,1,513.07,0.13,446.37090000000006,104.79,Cash,7.4
+2025-02-25,20:14:05,A,New York,East,Home & Kitchen,Normal,In-store,5,11.33,0.04,54.38399999999999,8.3,Cash,7.2
+2025-12-30,09:34:49,B,Chicago,Midwest,Sports,Normal,Online,3,102.22,0.02,300.5268,45.6,Gift Card,9.7
+2025-12-04,10:47:31,A,New York,East,Health & Beauty,Member,Online,6,382.35,0.23,1766.4570000000003,164.08,Gift Card,8.2
+2025-11-19,18:13:59,C,San Francisco,West,Electronics,Member,In-store,2,256.87,0.08,472.6408,106.24,Credit Card,8.5
+2025-12-20,09:51:10,C,San Francisco,West,Home & Kitchen,Normal,In-store,6,292.23,0.24,1332.5688,255.37,Gift Card,6.5
+2024-03-21,14:13:39,A,New York,East,Sports,Normal,In-store,7,124.06,0.21,686.0518000000001,148.6,Gift Card,6.0
+2023-12-20,17:55:59,C,San Francisco,West,Electronics,Member,Online,6,511.63,0.04,2946.9887999999996,539.76,Credit Card,6.8
+2025-11-13,13:09:14,B,Chicago,Midwest,Electronics,Normal,In-store,2,158.31,0.21,250.12980000000002,39.83,Debit Card,8.7
+2024-03-07,21:59:11,B,Chicago,Midwest,Electronics,Normal,In-store,5,324.04,0.18,1328.564,269.17,UPI,9.1
+2025-11-09,20:07:49,C,San Francisco,West,Home & Kitchen,Member,In-store,9,338.83,0.14,2622.5442,402.69,Gift Card,8.6
+2025-12-02,19:44:33,C,San Francisco,West,Clothing,Normal,In-store,2,55.18,0.03,107.0492,19.92,UPI,5.2
+2025-06-30,13:59:34,B,Chicago,Midwest,Clothing,Normal,In-store,2,269.93,0.11,480.47540000000004,117.82,Debit Card,9.8
+2023-11-24,16:28:04,A,New York,East,Home & Kitchen,Member,In-store,5,368.18,0.16,1546.356,269.41,Credit Card,5.5
+2025-02-08,20:33:53,A,New York,East,Home & Kitchen,Normal,In-store,5,58.52,0.01,289.67400000000004,74.72,Credit Card,9.3
+2024-09-27,09:08:34,A,New York,East,Sports,Normal,Online,8,37.66,0.14,259.1008,43.78,Gift Card,9.6
+2023-01-26,21:43:55,B,Chicago,Midwest,Health & Beauty,Normal,Online,8,217.0,0.02,1701.28,353.65,Debit Card,9.1
+2023-03-21,16:17:30,B,Chicago,Midwest,Health & Beauty,Member,Online,5,342.29,0.06,1608.763,352.18,Debit Card,9.2
+2023-10-25,17:24:24,B,Chicago,Midwest,Health & Beauty,Member,Online,8,516.99,0.2,3308.7360000000003,921.34,UPI,7.5
+2024-06-17,20:48:17,B,Chicago,Midwest,Health & Beauty,Member,In-store,1,369.27,0.14,317.57219999999995,30.95,UPI,8.6
+2024-09-22,21:16:41,C,San Francisco,West,Home & Kitchen,Member,In-store,8,228.1,0.08,1678.816,193.14,Cash,8.8
+2025-07-21,20:46:50,A,New York,East,Home & Kitchen,Normal,Online,9,190.18,0.24,1300.8312,348.5,UPI,9.5
+2023-08-30,19:10:55,C,San Francisco,West,Health & Beauty,Normal,Online,2,141.43,0.04,271.5456,35.43,Credit Card,4.6
+2023-02-17,19:20:44,A,New York,East,Home & Kitchen,Member,Online,4,572.33,0.16,1923.0288,491.96,Gift Card,8.7
+2025-12-12,14:54:16,C,San Francisco,West,Electronics,Normal,In-store,5,597.9,0.11,2660.655,419.26,Debit Card,4.9
+2023-07-21,19:43:34,C,San Francisco,West,Home & Kitchen,Normal,Online,5,436.42,0.11,1942.069,345.43,UPI,4.1
+2024-06-01,19:46:27,B,Chicago,Midwest,Clothing,Member,In-store,2,431.43,0.18,707.5452,165.97,Credit Card,8.0
+2024-09-18,11:58:24,B,Chicago,Midwest,Clothing,Member,Online,4,405.67,0.09,1476.6388000000002,336.35,Gift Card,6.9
+2024-01-15,15:46:41,A,New York,East,Home & Kitchen,Normal,Online,6,471.7,0.08,2603.784,446.71,Credit Card,4.1
+2025-05-19,11:24:12,C,San Francisco,West,Electronics,Member,Online,1,421.38,0.09,383.4558,49.0,Cash,8.7
+2025-03-01,21:11:42,A,New York,East,Sports,Member,Online,2,569.1,0.19,921.9420000000001,165.92,UPI,7.2
+2024-04-30,10:45:39,A,New York,East,Clothing,Normal,In-store,3,413.58,0.18,1017.4068000000001,169.02,Gift Card,6.6
+2023-11-14,10:34:10,A,New York,East,Health & Beauty,Member,In-store,8,96.59,0.18,633.6304000000001,86.23,Cash,5.8
+2024-02-11,17:44:11,A,New York,East,Home & Kitchen,Member,Online,6,500.5,0.24,2282.28,506.57,UPI,5.7
+2024-10-10,21:42:22,A,New York,East,Health & Beauty,Member,In-store,9,412.5,0.19,3007.125,746.0,Credit Card,5.4
+2025-01-05,17:54:32,A,New York,East,Sports,Normal,In-store,2,45.88,0.25,68.82000000000001,14.97,Gift Card,7.0
+2023-07-15,14:50:22,A,New York,East,Home & Kitchen,Member,In-store,4,42.22,0.11,150.3032,17.32,Cash,5.8
+2023-05-22,09:10:04,A,New York,East,Home & Kitchen,Normal,In-store,4,529.77,0.11,1885.9812,464.41,UPI,8.1
+2024-09-03,10:48:02,B,Chicago,Midwest,Electronics,Member,In-store,9,237.96,0.16,1798.9776,289.93,Cash,6.7
+2023-08-10,09:26:35,A,New York,East,Home & Kitchen,Member,Online,5,535.56,0.0,2677.7999999999997,551.71,Credit Card,9.6
+2023-01-04,10:01:44,A,New York,East,Electronics,Member,In-store,3,411.51,0.14,1061.6958,217.67,Cash,7.8
+2023-01-18,18:05:24,B,Chicago,Midwest,Clothing,Normal,Online,8,451.92,0.24,2747.6736,399.67,Credit Card,8.8
+2025-10-16,16:42:20,A,New York,East,Home & Kitchen,Member,Online,9,13.05,0.07,109.2285,22.94,Gift Card,8.6
+2024-01-15,21:28:04,A,New York,East,Health & Beauty,Member,Online,8,26.34,0.15,179.112,24.79,Debit Card,8.0
+2023-05-07,15:36:07,A,New York,East,Home & Kitchen,Normal,Online,6,280.14,0.05,1596.7979999999998,243.83,UPI,6.5
+2025-06-09,10:30:45,A,New York,East,Home & Kitchen,Member,In-store,6,12.75,0.0,76.5,19.57,Credit Card,7.3
+2024-11-19,20:09:18,A,New York,East,Electronics,Normal,Online,7,426.95,0.17,2480.5795,578.66,Debit Card,4.1
+2025-03-24,21:51:59,B,Chicago,Midwest,Clothing,Normal,Online,3,84.72,0.0,254.16,34.27,Gift Card,8.6
+2025-06-06,10:18:10,A,New York,East,Sports,Normal,Online,6,80.05,0.12,422.664,82.06,Debit Card,4.8
+2024-04-05,18:57:59,C,San Francisco,West,Clothing,Member,In-store,6,468.7,0.23,2165.394,348.95,UPI,6.9
+2023-06-29,10:03:04,B,Chicago,Midwest,Sports,Normal,Online,3,485.37,0.12,1281.3768000000002,265.05,Debit Card,5.6
+2024-07-25,09:59:18,B,Chicago,Midwest,Sports,Member,In-store,1,104.79,0.12,92.21520000000001,9.86,Credit Card,5.2
+2025-07-19,12:05:22,C,San Francisco,West,Sports,Normal,In-store,3,18.1,0.05,51.585,12.3,UPI,8.7
+2025-02-22,14:49:48,C,San Francisco,West,Home & Kitchen,Normal,In-store,1,269.58,0.01,266.88419999999996,21.96,Cash,8.4
+2023-07-17,10:26:23,A,New York,East,Health & Beauty,Normal,Online,3,323.14,0.15,824.007,214.09,Credit Card,5.3
+2024-04-01,16:37:38,B,Chicago,Midwest,Clothing,Normal,Online,9,50.9,0.15,389.38499999999993,94.77,Gift Card,9.1
+2023-11-02,15:36:22,A,New York,East,Health & Beauty,Normal,Online,2,510.43,0.01,1010.6514,247.53,Debit Card,4.8
+2023-01-11,12:58:38,B,Chicago,Midwest,Sports,Normal,Online,7,518.3,0.02,3555.5379999999996,377.69,UPI,9.4
+2025-03-11,19:36:30,B,Chicago,Midwest,Health & Beauty,Member,In-store,7,515.17,0.02,3534.0661999999998,961.6,Credit Card,8.3
+2025-11-16,14:38:28,A,New York,East,Health & Beauty,Normal,Online,2,521.31,0.12,917.5056,77.72,Gift Card,7.1
+2025-10-10,15:17:36,A,New York,East,Health & Beauty,Member,Online,8,362.41,0.16,2435.3952,218.75,Gift Card,6.0
+2024-09-21,12:56:31,A,New York,East,Clothing,Member,In-store,7,566.82,0.15,3372.579,564.67,Gift Card,8.1
+2023-03-15,09:50:05,A,New York,East,Health & Beauty,Normal,Online,5,111.34,0.2,445.36000000000007,88.59,Debit Card,5.2
+2025-08-30,15:52:57,C,San Francisco,West,Electronics,Normal,In-store,6,462.85,0.11,2471.619,285.01,Credit Card,7.1
+2025-03-06,15:24:29,B,Chicago,Midwest,Home & Kitchen,Normal,Online,5,152.3,0.21,601.585,106.58,Cash,4.7
+2024-04-17,09:24:43,A,New York,East,Electronics,Member,Online,3,505.39,0.18,1243.2594000000001,169.13,Credit Card,6.5
+2024-04-14,15:17:44,A,New York,East,Sports,Member,Online,8,138.13,0.05,1049.788,278.23,Cash,9.4
+2024-02-06,11:53:54,B,Chicago,Midwest,Clothing,Normal,In-store,9,90.25,0.21,641.6775,84.65,Debit Card,5.2
+2024-06-20,13:04:37,A,New York,East,Home & Kitchen,Normal,In-store,9,169.26,0.23,1172.9718,296.46,Cash,6.7
+2023-05-27,10:48:39,C,San Francisco,West,Home & Kitchen,Normal,Online,4,264.06,0.16,887.2416,149.4,Gift Card,4.7
+2023-03-14,20:50:24,B,Chicago,Midwest,Electronics,Normal,Online,5,496.59,0.23,1911.8715,391.7,Cash,6.5
+2024-09-04,16:44:16,A,New York,East,Health & Beauty,Normal,In-store,8,121.38,0.03,941.9087999999999,114.76,UPI,6.6
+2025-08-05,19:27:29,C,San Francisco,West,Home & Kitchen,Member,Online,1,410.14,0.08,377.3288,72.19,UPI,6.0
+2023-02-25,16:12:14,A,New York,East,Health & Beauty,Member,Online,9,189.31,0.05,1618.6004999999998,329.01,Debit Card,4.4
+2024-05-19,13:29:11,C,San Francisco,West,Electronics,Member,Online,9,64.49,0.12,510.76079999999996,124.61,Cash,8.8
+2024-10-03,12:34:29,C,San Francisco,West,Clothing,Normal,Online,5,295.72,0.14,1271.596,279.59,UPI,9.5
+2024-03-22,11:50:41,C,San Francisco,West,Health & Beauty,Normal,Online,3,165.68,0.03,482.1288,92.68,Cash,9.3
+2025-02-10,12:27:26,A,New York,East,Clothing,Normal,In-store,7,385.97,0.15,2296.5215,637.22,Cash,7.7
+2024-07-13,21:29:32,B,Chicago,Midwest,Sports,Member,Online,7,305.58,0.08,1967.9352000000001,391.48,Debit Card,7.6
+2023-05-13,14:03:00,A,New York,East,Clothing,Member,In-store,2,428.9,0.22,669.084,135.82,Debit Card,9.6
+2023-08-19,12:51:45,A,New York,East,Electronics,Normal,Online,5,138.99,0.08,639.354,141.52,Cash,7.7
+2024-10-24,13:00:01,A,New York,East,Clothing,Member,Online,9,357.8,0.09,2930.3820000000005,413.14,UPI,5.2
+2025-05-07,12:54:06,B,Chicago,Midwest,Health & Beauty,Member,Online,8,134.7,0.22,840.5279999999999,138.79,Gift Card,10.0
+2024-04-16,17:32:42,B,Chicago,Midwest,Sports,Member,In-store,4,151.6,0.02,594.2719999999999,148.31,UPI,9.3
+2023-06-27,11:59:46,A,New York,East,Health & Beauty,Normal,Online,1,247.56,0.08,227.7552,25.71,Debit Card,6.3
+2023-10-05,10:35:32,A,New York,East,Health & Beauty,Normal,In-store,8,511.97,0.15,3481.396,809.57,Debit Card,7.1
+2025-04-30,14:04:56,A,New York,East,Home & Kitchen,Member,Online,7,330.42,0.11,2058.5166,528.37,Cash,9.4
+2025-05-14,10:46:28,C,San Francisco,West,Home & Kitchen,Member,Online,4,218.92,0.02,858.1664,118.05,UPI,6.3
+2023-10-03,21:30:20,B,Chicago,Midwest,Clothing,Member,Online,6,460.64,0.19,2238.7104000000004,291.36,Credit Card,5.4
+2024-02-04,19:34:17,B,Chicago,Midwest,Electronics,Member,In-store,5,233.62,0.18,957.842,231.12,UPI,6.5
+2025-08-18,15:48:52,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,8,238.97,0.11,1701.4664,363.56,Gift Card,6.3
+2023-07-17,20:57:47,C,San Francisco,West,Sports,Normal,Online,3,478.5,0.02,1406.79,137.85,Gift Card,9.3
+2023-08-03,18:05:06,C,San Francisco,West,Health & Beauty,Member,In-store,1,311.63,0.08,286.69960000000003,55.22,Gift Card,9.6
+2025-08-23,11:06:34,A,New York,East,Sports,Normal,In-store,6,254.31,0.18,1251.2052,348.36,Cash,9.8
+2023-09-05,18:23:09,C,San Francisco,West,Sports,Member,Online,2,594.57,0.07,1105.9002,271.23,Credit Card,8.9
+2024-12-09,12:49:58,C,San Francisco,West,Sports,Normal,In-store,8,290.41,0.23,1788.9256000000003,252.05,Debit Card,6.6
+2024-10-11,19:00:10,A,New York,East,Electronics,Member,Online,2,574.11,0.21,907.0938000000001,154.83,Credit Card,7.3
+2023-07-09,11:23:34,C,San Francisco,West,Sports,Normal,In-store,8,331.03,0.07,2462.8632,277.58,Credit Card,8.6
+2024-09-13,12:29:48,B,Chicago,Midwest,Home & Kitchen,Member,Online,8,501.08,0.22,3126.7392,580.41,Credit Card,4.0
+2024-03-09,09:12:30,B,Chicago,Midwest,Electronics,Member,In-store,8,505.72,0.18,3317.5232000000005,449.91,Cash,7.9
+2025-06-25,18:02:59,B,Chicago,Midwest,Home & Kitchen,Normal,Online,8,263.97,0.18,1731.6432000000002,358.79,Credit Card,9.0
+2025-01-04,13:26:19,C,San Francisco,West,Home & Kitchen,Normal,Online,9,513.54,0.13,4021.0181999999995,891.52,Debit Card,4.5
+2024-11-29,11:50:05,C,San Francisco,West,Electronics,Member,In-store,6,228.33,0.03,1328.8806,292.22,Cash,8.6
+2025-08-23,09:38:02,B,Chicago,Midwest,Clothing,Normal,Online,9,593.53,0.2,4273.416,534.05,Debit Card,9.1
+2023-08-03,10:57:54,A,New York,East,Sports,Member,Online,5,568.99,0.23,2190.6115,583.47,Cash,8.2
+2024-08-18,11:12:50,C,San Francisco,West,Home & Kitchen,Normal,Online,3,159.21,0.16,401.20919999999995,58.75,Debit Card,6.4
+2025-08-31,20:05:00,B,Chicago,Midwest,Sports,Normal,In-store,4,53.02,0.05,201.476,54.55,Gift Card,10.0
+2023-09-08,10:40:02,B,Chicago,Midwest,Health & Beauty,Member,Online,5,59.82,0.0,299.1,42.31,Cash,9.5
+2024-09-28,14:00:51,A,New York,East,Home & Kitchen,Member,Online,3,240.72,0.1,649.944,68.6,Credit Card,6.0
+2025-10-15,13:16:40,B,Chicago,Midwest,Home & Kitchen,Normal,Online,7,570.49,0.01,3953.4957000000004,407.27,UPI,4.7
+2023-10-27,14:30:55,A,New York,East,Health & Beauty,Normal,In-store,2,193.88,0.13,337.3512,51.11,Credit Card,4.0
+2024-02-23,13:53:09,B,Chicago,Midwest,Clothing,Normal,In-store,9,113.89,0.05,973.7594999999999,146.06,UPI,9.8
+2025-07-18,14:21:45,A,New York,East,Clothing,Normal,Online,9,390.17,0.01,3476.4147000000003,519.98,Gift Card,7.4
+2023-04-03,17:01:42,A,New York,East,Electronics,Normal,In-store,4,341.7,0.08,1257.456,280.29,Cash,5.9
+2025-11-13,20:30:16,C,San Francisco,West,Clothing,Normal,In-store,2,527.67,0.07,981.4661999999998,204.74,UPI,6.8
+2025-10-25,21:48:03,C,San Francisco,West,Clothing,Member,In-store,3,312.59,0.14,806.4821999999999,105.56,Credit Card,6.7
+2023-01-04,19:05:09,B,Chicago,Midwest,Clothing,Normal,Online,6,455.93,0.13,2379.9546,446.84,Credit Card,8.6
+2024-07-02,21:40:36,A,New York,East,Health & Beauty,Member,Online,8,555.7,0.15,3778.76,489.33,UPI,9.7
+2024-10-20,10:34:00,C,San Francisco,West,Health & Beauty,Normal,Online,5,165.44,0.08,761.0240000000001,113.16,Credit Card,6.8
+2025-10-03,15:11:48,A,New York,East,Sports,Normal,In-store,3,526.83,0.16,1327.6116000000002,273.74,Debit Card,9.2
+2025-08-26,14:44:01,B,Chicago,Midwest,Health & Beauty,Normal,Online,6,439.05,0.02,2581.614,209.61,Cash,7.7
+2024-10-20,20:40:27,C,San Francisco,West,Clothing,Member,In-store,3,348.48,0.04,1003.6224,230.49,Debit Card,9.1
+2024-03-19,19:35:57,A,New York,East,Health & Beauty,Member,Online,6,81.36,0.2,390.528,66.02,Credit Card,4.6
+2025-05-16,16:47:42,B,Chicago,Midwest,Sports,Member,In-store,5,197.64,0.12,869.616,187.02,Debit Card,5.2
+2025-11-12,10:19:52,A,New York,East,Sports,Normal,In-store,3,504.49,0.11,1346.9883,133.72,Gift Card,7.1
+2023-07-23,14:47:07,C,San Francisco,West,Clothing,Member,In-store,1,379.22,0.25,284.415,59.46,UPI,9.5
+2024-03-22,14:50:23,C,San Francisco,West,Sports,Normal,Online,4,188.9,0.16,634.704,91.33,Debit Card,8.0
+2025-11-03,16:33:48,B,Chicago,Midwest,Electronics,Member,Online,2,586.67,0.06,1102.9396,198.13,Cash,7.4
+2023-12-06,20:11:19,C,San Francisco,West,Home & Kitchen,Normal,Online,9,79.86,0.02,704.3652,61.68,Debit Card,4.6
+2025-02-06,13:00:43,A,New York,East,Home & Kitchen,Normal,In-store,6,243.82,0.22,1141.0776,144.97,Debit Card,10.0
+2025-08-25,09:45:50,C,San Francisco,West,Clothing,Normal,Online,6,154.93,0.19,752.9598000000001,144.18,Cash,6.8
+2024-09-22,18:26:23,C,San Francisco,West,Home & Kitchen,Member,Online,4,477.47,0.08,1757.0896000000002,419.64,UPI,8.1
+2023-08-29,17:57:31,A,New York,East,Home & Kitchen,Normal,In-store,3,513.43,0.06,1447.8726,304.68,Debit Card,6.7
+2024-02-29,12:21:23,C,San Francisco,West,Sports,Normal,In-store,9,90.12,0.0,811.08,224.21,Gift Card,6.3
+2024-01-01,10:33:21,C,San Francisco,West,Sports,Normal,In-store,5,283.7,0.05,1347.575,122.05,UPI,6.6
+2023-09-12,11:21:32,A,New York,East,Sports,Member,In-store,2,208.08,0.14,357.8976,62.79,UPI,5.3
+2025-03-07,17:04:59,B,Chicago,Midwest,Home & Kitchen,Member,In-store,8,433.16,0.03,3361.3216,532.44,Credit Card,7.1
+2024-02-28,09:37:19,A,New York,East,Sports,Member,In-store,2,310.99,0.11,553.5622000000001,65.61,Gift Card,5.2
+2023-05-28,21:49:17,A,New York,East,Clothing,Member,In-store,1,291.2,0.0,291.2,37.41,Gift Card,8.4
+2024-03-20,21:47:22,B,Chicago,Midwest,Sports,Member,In-store,3,336.18,0.14,867.3444,147.0,Gift Card,9.1
+2023-08-19,18:33:26,B,Chicago,Midwest,Sports,Normal,In-store,9,181.98,0.1,1474.038,360.75,Cash,9.7
+2023-12-31,09:18:06,C,San Francisco,West,Electronics,Member,In-store,5,452.84,0.2,1811.36,274.09,Cash,8.2
+2023-05-14,20:07:55,A,New York,East,Home & Kitchen,Normal,Online,4,589.2,0.19,1909.0080000000003,246.0,UPI,9.9
+2025-03-08,17:55:09,A,New York,East,Health & Beauty,Normal,In-store,7,593.22,0.04,3986.4384,487.57,UPI,6.2
+2023-08-28,21:35:58,B,Chicago,Midwest,Sports,Normal,In-store,5,158.26,0.16,664.6919999999999,148.99,UPI,4.2
+2025-02-28,19:59:59,B,Chicago,Midwest,Health & Beauty,Normal,Online,1,499.11,0.07,464.1723,114.75,UPI,9.6
+2024-09-28,10:02:11,B,Chicago,Midwest,Health & Beauty,Member,Online,8,71.69,0.18,470.2864,102.75,Debit Card,4.5
+2023-12-10,14:46:52,A,New York,East,Clothing,Normal,Online,2,579.78,0.18,950.8392,154.46,Credit Card,5.8
+2025-12-16,11:58:31,C,San Francisco,West,Home & Kitchen,Normal,In-store,6,464.22,0.12,2451.0816,320.69,Cash,8.9
+2024-04-12,15:54:04,C,San Francisco,West,Electronics,Normal,Online,2,471.73,0.02,924.5908000000001,217.3,Cash,6.1
+2023-12-01,21:18:19,C,San Francisco,West,Electronics,Member,In-store,9,44.2,0.09,361.99800000000005,46.31,Cash,7.6
+2025-02-07,18:54:13,B,Chicago,Midwest,Clothing,Member,In-store,3,321.98,0.05,917.643,138.25,Cash,4.2
+2024-12-06,12:30:10,C,San Francisco,West,Clothing,Member,Online,9,497.8,0.08,4121.784,984.7,Debit Card,4.2
+2025-07-30,16:27:53,A,New York,East,Home & Kitchen,Normal,In-store,7,223.78,0.16,1315.8264,164.56,Credit Card,6.3
+2024-11-19,17:19:08,C,San Francisco,West,Sports,Member,Online,7,16.06,0.1,101.178,8.1,UPI,10.0
+2023-12-27,18:26:24,A,New York,East,Clothing,Member,Online,7,172.64,0.03,1172.2256,296.0,UPI,4.2
+2025-11-01,21:52:06,B,Chicago,Midwest,Sports,Member,In-store,3,197.44,0.11,527.1647999999999,52.72,Cash,4.5
+2025-08-04,20:24:12,A,New York,East,Health & Beauty,Normal,In-store,7,47.99,0.2,268.744,74.12,Debit Card,8.7
+2024-12-08,16:26:27,C,San Francisco,West,Electronics,Member,Online,2,101.37,0.0,202.74,19.6,Credit Card,8.0
+2024-11-14,17:16:33,B,Chicago,Midwest,Electronics,Member,Online,3,352.25,0.0,1056.75,270.2,UPI,9.2
+2024-06-06,17:18:45,C,San Francisco,West,Sports,Normal,In-store,7,483.64,0.05,3216.2059999999997,356.94,Gift Card,8.9
+2023-11-16,19:13:09,B,Chicago,Midwest,Clothing,Normal,Online,4,338.24,0.1,1217.664,179.71,Debit Card,8.9
+2023-06-06,21:59:00,B,Chicago,Midwest,Health & Beauty,Member,Online,1,556.85,0.21,439.91150000000005,64.28,Cash,9.0
+2025-12-23,09:18:54,B,Chicago,Midwest,Health & Beauty,Normal,Online,5,501.71,0.2,2006.84,389.71,Gift Card,8.1
+2025-10-21,21:24:08,A,New York,East,Clothing,Member,Online,5,21.78,0.11,96.921,18.11,Gift Card,9.3
+2025-09-23,13:45:01,A,New York,East,Health & Beauty,Member,Online,8,556.75,0.01,4409.46,1032.12,Cash,9.8
+2023-07-18,17:03:58,C,San Francisco,West,Health & Beauty,Normal,In-store,8,265.02,0.07,1971.7487999999998,244.54,Debit Card,8.8
+2025-02-25,10:58:42,C,San Francisco,West,Home & Kitchen,Normal,Online,3,72.4,0.24,165.072,17.67,UPI,5.5
+2024-10-23,14:53:53,A,New York,East,Health & Beauty,Member,In-store,9,178.62,0.04,1543.2767999999999,125.28,Credit Card,6.1
+2023-05-06,14:28:18,C,San Francisco,West,Health & Beauty,Member,In-store,2,245.69,0.16,412.75919999999996,85.26,Gift Card,8.4
+2024-03-07,11:35:24,A,New York,East,Clothing,Member,In-store,3,79.51,0.21,188.43870000000004,20.78,Cash,6.9
+2024-04-18,14:23:46,B,Chicago,Midwest,Home & Kitchen,Normal,Online,7,89.49,0.01,620.1656999999999,115.24,Gift Card,9.7
+2023-02-09,15:02:17,B,Chicago,Midwest,Clothing,Normal,In-store,3,258.03,0.04,743.1263999999999,206.37,Gift Card,4.4
+2023-06-17,21:13:35,A,New York,East,Electronics,Normal,In-store,8,211.87,0.07,1576.3128,354.03,Cash,5.0
+2023-03-24,11:26:04,C,San Francisco,West,Home & Kitchen,Normal,In-store,9,419.66,0.04,3625.8624,398.84,UPI,5.4
+2025-04-08,12:19:40,C,San Francisco,West,Sports,Member,In-store,5,576.66,0.02,2825.6339999999996,748.38,Gift Card,5.4
+2024-03-30,11:01:24,A,New York,East,Electronics,Member,Online,6,138.95,0.2,666.96,82.87,Cash,9.3
+2024-05-04,19:37:47,A,New York,East,Home & Kitchen,Normal,Online,8,381.16,0.03,2957.8016000000002,440.32,Cash,9.8
+2023-03-05,13:48:43,B,Chicago,Midwest,Clothing,Normal,In-store,1,52.43,0.08,48.235600000000005,11.85,UPI,7.7
+2023-02-05,13:31:24,C,San Francisco,West,Home & Kitchen,Normal,In-store,3,188.8,0.03,549.4080000000001,102.8,UPI,9.0
+2024-12-04,16:22:31,A,New York,East,Electronics,Member,In-store,3,43.5,0.04,125.28,29.77,UPI,8.1
+2025-11-28,19:20:25,B,Chicago,Midwest,Clothing,Member,In-store,7,54.66,0.03,371.1414,48.73,Credit Card,8.4
+2025-07-11,16:35:29,C,San Francisco,West,Home & Kitchen,Member,In-store,7,479.17,0.17,2783.9777,487.38,Debit Card,8.5
+2025-03-12,13:37:51,C,San Francisco,West,Clothing,Normal,In-store,9,535.89,0.19,3906.6381000000006,996.53,Gift Card,7.0
+2023-01-01,21:29:53,A,New York,East,Electronics,Normal,In-store,4,350.93,0.0,1403.72,217.68,Cash,4.9
+2025-02-13,09:55:43,A,New York,East,Health & Beauty,Normal,Online,8,224.78,0.21,1420.6096,148.5,Gift Card,9.1
+2023-09-04,12:57:33,C,San Francisco,West,Sports,Normal,Online,4,449.83,0.19,1457.4492,184.27,Credit Card,4.3
+2025-03-06,10:40:35,A,New York,East,Health & Beauty,Member,In-store,5,129.51,0.04,621.6479999999999,160.06,Credit Card,9.3
+2024-05-01,13:52:35,B,Chicago,Midwest,Home & Kitchen,Member,In-store,2,494.65,0.04,949.728,83.35,UPI,6.5
+2023-09-07,10:18:59,C,San Francisco,West,Sports,Member,In-store,2,249.43,0.18,409.06520000000006,103.62,Credit Card,7.7
+2023-09-14,17:54:33,C,San Francisco,West,Sports,Normal,Online,3,505.11,0.02,1485.0233999999998,327.83,Gift Card,5.3
+2025-12-07,15:22:18,C,San Francisco,West,Clothing,Normal,Online,2,155.87,0.21,246.27460000000002,57.27,Gift Card,6.2
+2024-10-21,17:45:47,C,San Francisco,West,Home & Kitchen,Member,In-store,9,343.78,0.23,2382.3954,638.2,UPI,4.6
+2025-01-19,20:46:16,A,New York,East,Electronics,Normal,Online,3,107.06,0.23,247.3086,52.89,Debit Card,6.5
+2024-03-20,10:15:46,C,San Francisco,West,Health & Beauty,Member,Online,4,249.39,0.01,987.5844,207.33,Debit Card,4.3
+2023-07-17,09:57:28,C,San Francisco,West,Clothing,Normal,In-store,8,153.05,0.2,979.5200000000001,205.73,UPI,5.9
+2023-01-06,21:37:59,C,San Francisco,West,Home & Kitchen,Normal,In-store,3,413.33,0.11,1103.5911,149.67,Cash,5.3
+2025-06-08,16:45:49,C,San Francisco,West,Health & Beauty,Member,Online,3,188.85,0.18,464.57099999999997,82.88,Debit Card,5.9
+2023-01-31,16:11:44,A,New York,East,Electronics,Normal,Online,1,117.04,0.22,91.2912,24.1,Cash,9.4
+2025-02-02,21:09:24,C,San Francisco,West,Home & Kitchen,Member,In-store,8,268.15,0.11,1909.2279999999998,473.56,Gift Card,5.1
+2024-12-28,20:29:10,B,Chicago,Midwest,Home & Kitchen,Normal,Online,9,389.27,0.22,2732.6754,685.9,UPI,9.8
+2023-02-20,17:04:50,B,Chicago,Midwest,Clothing,Member,Online,2,235.57,0.14,405.18039999999996,35.04,UPI,5.9
+2024-01-26,21:48:37,C,San Francisco,West,Health & Beauty,Normal,In-store,7,523.38,0.2,2930.928,507.97,Cash,5.9
+2024-05-13,21:24:35,C,San Francisco,West,Clothing,Normal,In-store,7,72.57,0.05,482.5904999999999,100.14,Cash,5.8
+2024-07-20,19:25:34,C,San Francisco,West,Electronics,Normal,Online,1,249.48,0.09,227.0268,26.52,Credit Card,7.9
+2024-06-08,11:14:13,C,San Francisco,West,Clothing,Normal,Online,4,232.37,0.14,799.3528,203.67,UPI,6.6
+2024-05-21,18:18:21,C,San Francisco,West,Clothing,Normal,In-store,3,559.44,0.01,1661.5368,204.83,Cash,5.2
+2023-02-01,12:34:16,C,San Francisco,West,Clothing,Normal,Online,4,372.92,0.23,1148.5936000000002,210.04,Debit Card,5.2
+2025-04-25,18:54:36,A,New York,East,Sports,Normal,Online,9,512.65,0.04,4429.295999999999,1002.54,Credit Card,5.5
+2023-05-28,09:35:35,C,San Francisco,West,Home & Kitchen,Normal,Online,3,87.42,0.07,243.90179999999998,27.74,Cash,8.2
+2025-09-08,16:59:01,B,Chicago,Midwest,Sports,Member,In-store,8,76.68,0.07,570.4992,126.72,UPI,7.1
+2025-10-29,14:32:15,B,Chicago,Midwest,Health & Beauty,Member,Online,9,395.17,0.17,2951.9199,502.06,Credit Card,6.4
+2024-11-27,16:43:02,C,San Francisco,West,Health & Beauty,Member,Online,3,511.9,0.06,1443.5579999999998,185.77,Cash,4.7
+2023-08-28,10:22:11,A,New York,East,Clothing,Normal,In-store,1,135.8,0.22,105.924,16.19,Cash,6.3
+2025-12-18,11:47:10,A,New York,East,Electronics,Member,In-store,7,452.73,0.19,2566.9791000000005,381.64,Cash,4.2
+2025-09-21,09:17:31,B,Chicago,Midwest,Health & Beauty,Normal,In-store,5,374.51,0.01,1853.8245,345.25,Cash,5.0
+2023-02-18,10:24:02,B,Chicago,Midwest,Electronics,Normal,In-store,8,326.08,0.23,2008.6527999999998,511.52,Gift Card,7.5
+2023-06-01,16:05:32,B,Chicago,Midwest,Clothing,Member,Online,5,10.76,0.01,53.26199999999999,5.27,UPI,6.2
+2025-08-23,18:22:25,C,San Francisco,West,Home & Kitchen,Member,In-store,9,345.21,0.03,3013.6832999999997,402.78,Gift Card,4.7
+2025-10-25,16:13:11,C,San Francisco,West,Electronics,Member,In-store,1,151.79,0.04,145.71839999999997,31.44,Credit Card,6.6
+2024-04-20,14:53:59,B,Chicago,Midwest,Electronics,Member,Online,2,57.9,0.17,96.11399999999999,19.73,UPI,6.8
+2023-02-01,10:04:28,A,New York,East,Sports,Normal,Online,1,408.75,0.13,355.6125,71.13,Debit Card,9.2
+2025-10-04,18:32:02,A,New York,East,Clothing,Normal,In-store,5,332.75,0.18,1364.275,295.72,Cash,5.9
+2023-03-08,17:06:46,C,San Francisco,West,Health & Beauty,Normal,Online,7,488.14,0.08,3143.6216,322.98,Cash,6.9
+2025-10-19,21:26:24,A,New York,East,Clothing,Normal,In-store,8,284.48,0.21,1797.9136,472.96,UPI,8.0
+2025-11-22,12:35:19,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,1,209.68,0.16,176.1312,28.92,UPI,6.4
+2023-10-09,21:08:30,A,New York,East,Clothing,Member,Online,7,478.04,0.25,2509.71,219.09,UPI,7.0
+2024-05-21,20:21:03,A,New York,East,Electronics,Member,In-store,8,169.78,0.01,1344.6576,336.62,Credit Card,9.4
+2024-03-29,14:54:29,B,Chicago,Midwest,Clothing,Member,In-store,8,223.79,0.09,1629.1912,177.44,Gift Card,7.3
+2023-09-14,10:45:10,B,Chicago,Midwest,Home & Kitchen,Member,Online,7,141.36,0.17,821.3016,93.9,Cash,6.3
+2024-11-15,15:43:56,B,Chicago,Midwest,Sports,Normal,Online,4,88.02,0.16,295.74719999999996,32.48,Cash,7.4
+2025-02-24,10:47:14,B,Chicago,Midwest,Health & Beauty,Member,In-store,6,162.37,0.04,935.2512,166.77,Gift Card,9.5
+2023-06-21,11:06:09,A,New York,East,Home & Kitchen,Normal,In-store,4,401.86,0.06,1510.9936,287.83,Gift Card,7.3
+2024-08-04,12:43:11,C,San Francisco,West,Home & Kitchen,Normal,In-store,9,284.47,0.04,2457.8208000000004,577.49,Cash,9.4
+2024-06-17,15:58:02,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,2,304.26,0.04,584.1791999999999,88.86,Credit Card,6.3
+2023-06-23,18:14:52,A,New York,East,Clothing,Normal,In-store,3,52.67,0.14,135.8886,33.57,Gift Card,9.6
+2025-06-17,21:36:44,C,San Francisco,West,Health & Beauty,Normal,Online,7,457.1,0.02,3135.706,509.04,Credit Card,4.1
+2025-02-03,14:16:36,C,San Francisco,West,Home & Kitchen,Member,Online,3,291.06,0.01,864.4482,173.38,Gift Card,9.0
+2023-01-07,21:20:23,C,San Francisco,West,Sports,Member,In-store,5,507.97,0.08,2336.6620000000003,608.94,Credit Card,8.7
+2025-01-17,19:07:25,C,San Francisco,West,Sports,Normal,Online,5,486.4,0.1,2188.8,199.73,Credit Card,6.5
+2025-11-29,18:08:59,B,Chicago,Midwest,Sports,Normal,In-store,8,317.64,0.01,2515.7088,244.72,Credit Card,5.8
+2023-01-30,20:10:54,A,New York,East,Home & Kitchen,Normal,In-store,4,510.89,0.05,1941.3819999999998,191.89,Cash,4.3
+2023-08-29,20:12:16,B,Chicago,Midwest,Clothing,Normal,Online,2,481.45,0.04,924.3839999999999,233.43,Credit Card,4.3
+2024-05-18,12:42:10,A,New York,East,Electronics,Member,In-store,5,124.65,0.13,542.2275,102.07,Cash,5.7
+2024-04-12,19:05:49,C,San Francisco,West,Health & Beauty,Member,Online,2,494.33,0.11,879.9073999999999,212.12,UPI,6.6
+2024-09-16,15:00:51,C,San Francisco,West,Health & Beauty,Normal,In-store,6,478.88,0.01,2844.5471999999995,746.65,Debit Card,8.0
+2025-05-02,17:44:14,B,Chicago,Midwest,Home & Kitchen,Member,Online,5,371.9,0.09,1692.145,347.22,Credit Card,5.0
+2023-09-07,09:24:18,B,Chicago,Midwest,Electronics,Member,In-store,3,38.76,0.14,100.0008,22.09,Debit Card,8.6
+2024-04-15,14:43:54,C,San Francisco,West,Electronics,Member,Online,1,480.05,0.01,475.2495,61.49,UPI,9.1
+2024-10-20,16:59:50,A,New York,East,Electronics,Normal,In-store,7,294.07,0.06,1934.9805999999996,425.06,Gift Card,8.7
+2024-06-07,12:21:32,B,Chicago,Midwest,Home & Kitchen,Member,In-store,2,53.78,0.19,87.12360000000001,19.2,UPI,5.3
+2024-07-01,16:04:54,A,New York,East,Sports,Normal,In-store,6,436.37,0.01,2592.0378,642.1,Gift Card,7.0
+2025-12-08,16:26:51,A,New York,East,Health & Beauty,Member,In-store,4,19.99,0.19,64.7676,13.98,UPI,9.5
+2024-12-07,16:48:33,A,New York,East,Electronics,Member,In-store,3,37.07,0.18,91.19220000000001,9.72,Cash,6.7
+2024-10-28,10:06:41,B,Chicago,Midwest,Home & Kitchen,Member,Online,5,428.23,0.09,1948.4465000000002,281.91,Debit Card,4.9
+2024-02-28,17:34:51,B,Chicago,Midwest,Electronics,Member,In-store,8,276.38,0.16,1857.2736,475.61,Credit Card,5.7
+2024-04-09,11:53:16,B,Chicago,Midwest,Health & Beauty,Member,In-store,3,108.04,0.13,281.9844,24.39,Credit Card,8.9
+2025-11-26,11:38:49,C,San Francisco,West,Clothing,Member,Online,8,576.97,0.07,4292.6568,718.44,Cash,5.4
+2024-08-29,14:27:41,B,Chicago,Midwest,Electronics,Member,In-store,9,113.87,0.16,860.8571999999999,192.19,UPI,9.9
+2024-05-24,16:03:55,B,Chicago,Midwest,Clothing,Normal,In-store,1,501.63,0.19,406.32030000000003,99.83,UPI,6.0
+2025-11-19,16:57:11,C,San Francisco,West,Home & Kitchen,Member,In-store,5,63.38,0.2,253.52000000000004,33.72,Gift Card,7.6
+2024-03-30,12:21:59,B,Chicago,Midwest,Electronics,Normal,In-store,2,76.22,0.05,144.81799999999998,38.51,Credit Card,7.5
+2025-09-11,19:03:15,A,New York,East,Clothing,Normal,Online,9,229.67,0.07,1922.3378999999995,331.61,UPI,5.2
+2023-10-27,10:06:57,B,Chicago,Midwest,Sports,Member,Online,4,485.15,0.06,1824.1639999999998,464.31,Cash,5.1
+2024-08-10,16:56:11,B,Chicago,Midwest,Health & Beauty,Member,In-store,9,544.71,0.01,4853.3661,404.74,Debit Card,4.8
+2023-12-04,12:11:14,B,Chicago,Midwest,Clothing,Member,In-store,1,296.93,0.16,249.4212,21.13,UPI,8.2
+2025-12-22,17:43:24,B,Chicago,Midwest,Home & Kitchen,Normal,Online,5,374.29,0.17,1553.3035,149.9,Debit Card,6.4
+2025-02-21,16:32:59,A,New York,East,Sports,Member,Online,2,308.47,0.21,487.3826000000001,45.89,Cash,7.0
+2023-08-10,11:33:27,C,San Francisco,West,Home & Kitchen,Normal,In-store,4,410.79,0.08,1511.7072,241.5,Debit Card,7.1
+2023-11-14,18:23:09,B,Chicago,Midwest,Health & Beauty,Member,Online,5,379.88,0.0,1899.4,494.58,Cash,8.0
+2025-08-07,18:54:57,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,1,124.94,0.09,113.6954,16.4,Debit Card,7.8
+2025-05-30,11:35:41,B,Chicago,Midwest,Sports,Member,In-store,3,539.76,0.12,1424.9664,223.22,Credit Card,8.5
+2024-11-06,09:25:02,A,New York,East,Health & Beauty,Member,In-store,2,509.97,0.23,785.3538000000001,121.57,Credit Card,9.6
+2024-11-14,18:43:59,A,New York,East,Sports,Normal,Online,5,188.45,0.21,744.3775,104.3,UPI,6.4
+2023-07-07,11:31:35,A,New York,East,Health & Beauty,Member,In-store,4,509.81,0.08,1876.1008000000002,466.59,UPI,6.7
+2023-10-09,20:27:12,B,Chicago,Midwest,Clothing,Member,In-store,8,312.63,0.03,2426.0088,355.82,Gift Card,4.1
+2025-10-19,19:10:44,A,New York,East,Health & Beauty,Member,Online,5,554.59,0.19,2246.0895000000005,216.89,Debit Card,8.6
+2024-05-24,11:57:47,C,San Francisco,West,Electronics,Normal,Online,1,586.91,0.1,528.2189999999999,121.83,Credit Card,6.2
+2024-09-01,11:59:21,B,Chicago,Midwest,Health & Beauty,Normal,In-store,5,417.45,0.21,1648.9275,394.52,UPI,9.4
+2023-01-03,10:28:52,A,New York,East,Home & Kitchen,Normal,In-store,5,116.26,0.18,476.6660000000001,119.33,Gift Card,5.5
+2025-03-10,20:09:36,C,San Francisco,West,Sports,Member,Online,5,276.09,0.24,1049.1419999999998,228.46,Cash,6.3
+2024-11-29,19:53:19,B,Chicago,Midwest,Sports,Member,In-store,1,418.74,0.02,410.3652,50.26,Debit Card,5.6
+2023-03-07,20:55:34,B,Chicago,Midwest,Electronics,Member,In-store,8,182.17,0.14,1253.3295999999998,315.96,Debit Card,4.3
+2025-07-25,16:53:52,C,San Francisco,West,Clothing,Normal,Online,6,193.7,0.05,1104.0899999999997,215.48,Gift Card,9.8
+2025-10-20,13:27:30,B,Chicago,Midwest,Sports,Normal,In-store,5,36.82,0.05,174.89499999999998,30.06,Cash,5.9
+2024-08-04,17:13:44,B,Chicago,Midwest,Home & Kitchen,Member,In-store,6,66.77,0.03,388.6014,108.56,Debit Card,5.4
+2023-05-05,09:42:21,A,New York,East,Electronics,Member,In-store,3,235.18,0.09,642.0414,178.84,Cash,8.0
+2025-08-14,20:46:36,A,New York,East,Clothing,Member,Online,2,125.91,0.09,229.1562,34.44,Debit Card,4.6
+2025-07-30,14:17:21,C,San Francisco,West,Clothing,Normal,Online,3,428.41,0.07,1195.2639,259.27,Debit Card,7.8
+2023-09-09,13:21:17,A,New York,East,Electronics,Normal,In-store,9,203.48,0.1,1648.1879999999999,387.79,Cash,6.0
+2023-04-06,09:09:28,B,Chicago,Midwest,Health & Beauty,Member,In-store,9,53.44,0.24,365.5296,30.73,Cash,4.5
+2024-02-09,12:22:09,C,San Francisco,West,Sports,Normal,Online,9,328.45,0.03,2867.3684999999996,268.25,Debit Card,6.6
+2023-09-28,12:37:15,A,New York,East,Health & Beauty,Member,In-store,9,32.49,0.22,228.07980000000003,35.29,Credit Card,7.8
+2023-09-12,12:01:17,A,New York,East,Sports,Member,Online,6,519.15,0.18,2554.218,353.76,Credit Card,6.1
+2023-09-05,21:16:01,A,New York,East,Electronics,Normal,In-store,5,442.42,0.05,2101.495,402.84,Credit Card,9.1
+2023-08-16,19:04:56,A,New York,East,Electronics,Member,In-store,8,590.29,0.17,3919.5255999999995,327.95,Gift Card,9.5
+2023-08-14,20:13:33,A,New York,East,Clothing,Member,In-store,8,395.12,0.01,3129.3504,298.07,UPI,7.4
+2023-09-12,20:52:45,C,San Francisco,West,Clothing,Normal,Online,4,334.76,0.18,1098.0128,89.12,Cash,4.8
+2024-10-06,21:06:03,C,San Francisco,West,Clothing,Member,Online,1,174.74,0.02,171.2452,26.38,Cash,7.3
+2024-05-05,09:58:12,C,San Francisco,West,Clothing,Normal,Online,7,460.5,0.2,2578.8,665.07,UPI,8.4
+2023-12-23,10:19:32,A,New York,East,Sports,Normal,Online,3,196.99,0.08,543.6924,53.76,Gift Card,4.7
+2023-09-16,18:42:54,B,Chicago,Midwest,Sports,Member,Online,2,496.1,0.02,972.356,105.9,Credit Card,6.8
+2025-12-13,20:09:23,B,Chicago,Midwest,Health & Beauty,Normal,In-store,2,438.13,0.22,683.4828,76.23,Gift Card,6.9
+2025-01-10,13:42:57,A,New York,East,Clothing,Normal,In-store,5,115.92,0.13,504.252,102.54,Credit Card,6.0
+2025-09-10,09:18:34,C,San Francisco,West,Sports,Member,Online,2,179.03,0.18,293.60920000000004,46.18,Cash,7.4
+2023-09-16,12:14:04,B,Chicago,Midwest,Health & Beauty,Member,In-store,8,162.8,0.12,1146.112,270.38,UPI,6.7
+2024-10-22,19:31:10,C,San Francisco,West,Home & Kitchen,Member,In-store,4,192.95,0.12,679.184,124.58,Credit Card,9.8
+2023-11-20,12:59:03,B,Chicago,Midwest,Electronics,Normal,Online,1,410.71,0.23,316.2467,66.6,Cash,6.1
+2023-07-15,15:18:21,C,San Francisco,West,Electronics,Normal,Online,7,353.97,0.12,2180.4552,506.11,Credit Card,5.3
+2024-11-27,13:20:45,C,San Francisco,West,Electronics,Member,Online,4,38.21,0.17,126.85719999999999,32.02,Credit Card,6.1
+2025-01-04,10:22:56,B,Chicago,Midwest,Electronics,Normal,Online,3,579.63,0.15,1478.0565,265.49,UPI,8.2
+2023-05-05,21:52:04,A,New York,East,Clothing,Member,In-store,5,265.9,0.19,1076.895,118.69,Cash,7.0
+2025-10-12,13:00:13,C,San Francisco,West,Electronics,Member,Online,5,419.98,0.16,1763.916,217.22,Cash,8.4
+2023-07-05,13:50:34,A,New York,East,Sports,Member,Online,6,79.79,0.2,382.992,78.61,UPI,8.7
+2025-08-05,19:56:13,C,San Francisco,West,Clothing,Member,Online,1,248.03,0.04,238.1088,47.57,UPI,6.3
+2025-10-19,21:22:30,C,San Francisco,West,Sports,Normal,In-store,8,141.39,0.08,1040.6304,156.76,Debit Card,6.4
+2023-04-18,11:12:40,C,San Francisco,West,Home & Kitchen,Normal,Online,4,113.32,0.05,430.61599999999993,80.16,Credit Card,6.1
+2024-08-29,15:40:44,A,New York,East,Clothing,Normal,In-store,6,130.92,0.19,636.2712,117.46,Credit Card,9.7
+2024-02-12,19:27:59,B,Chicago,Midwest,Health & Beauty,Normal,In-store,8,536.62,0.02,4207.1008,733.41,UPI,4.6
+2025-07-15,14:42:03,A,New York,East,Home & Kitchen,Member,In-store,5,566.92,0.18,2324.3720000000003,282.67,Gift Card,4.5
+2024-12-14,10:57:55,B,Chicago,Midwest,Health & Beauty,Normal,In-store,2,570.04,0.19,923.4648,209.69,UPI,8.9
+2023-01-15,13:07:51,A,New York,East,Home & Kitchen,Normal,In-store,3,589.69,0.24,1344.4932000000001,129.86,Debit Card,5.4
+2024-01-12,09:51:37,C,San Francisco,West,Clothing,Normal,In-store,1,170.7,0.1,153.63,34.28,Credit Card,8.6
+2025-12-06,13:24:16,B,Chicago,Midwest,Sports,Member,In-store,3,362.92,0.16,914.5584,188.12,UPI,8.9
+2024-04-28,17:06:33,C,San Francisco,West,Sports,Member,In-store,5,376.58,0.17,1562.8069999999998,138.99,Credit Card,5.3
+2025-09-29,18:48:56,B,Chicago,Midwest,Sports,Normal,Online,1,328.8,0.07,305.784,51.52,Cash,9.9
+2024-08-02,19:06:07,A,New York,East,Sports,Member,Online,8,368.52,0.03,2859.7151999999996,765.09,Gift Card,4.8
+2024-06-17,21:40:00,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,9,449.68,0.24,3075.8112,588.35,UPI,7.8
+2023-07-28,13:28:02,C,San Francisco,West,Sports,Normal,In-store,9,109.49,0.07,916.4313,157.01,Debit Card,5.0
+2023-11-04,18:43:50,C,San Francisco,West,Sports,Normal,In-store,7,476.71,0.21,2636.2063,229.16,Credit Card,5.3
+2023-07-05,12:42:55,C,San Francisco,West,Home & Kitchen,Member,Online,3,302.84,0.21,717.7308,149.81,Credit Card,8.0
+2024-08-01,13:16:50,A,New York,East,Clothing,Member,Online,7,41.48,0.24,220.67359999999996,57.13,Debit Card,6.7
+2023-09-25,14:45:16,A,New York,East,Health & Beauty,Member,In-store,2,378.82,0.19,613.6884,84.06,Debit Card,5.8
+2023-06-19,20:51:54,B,Chicago,Midwest,Clothing,Member,In-store,8,268.02,0.15,1822.5359999999998,364.79,Cash,4.8
+2023-06-13,18:57:57,B,Chicago,Midwest,Home & Kitchen,Member,Online,4,488.24,0.12,1718.6048,449.7,Gift Card,9.0
+2023-01-08,09:55:02,B,Chicago,Midwest,Clothing,Member,In-store,7,397.26,0.12,2447.1216,246.34,Cash,9.5
+2025-08-02,14:58:03,B,Chicago,Midwest,Health & Beauty,Member,In-store,9,83.48,0.06,706.2408,184.93,Cash,8.8
+2024-08-12,13:42:39,C,San Francisco,West,Home & Kitchen,Member,Online,5,280.17,0.03,1358.8245000000002,360.74,Credit Card,8.9
+2025-03-09,10:50:49,B,Chicago,Midwest,Electronics,Member,Online,7,347.3,0.11,2163.679,306.3,Credit Card,6.2
+2024-07-28,21:24:36,A,New York,East,Electronics,Normal,In-store,9,384.6,0.09,3149.8740000000003,847.43,Debit Card,5.0
+2025-12-22,21:27:32,B,Chicago,Midwest,Clothing,Normal,In-store,7,13.09,0.1,82.467,7.27,UPI,5.8
+2024-01-27,09:27:34,A,New York,East,Electronics,Normal,In-store,5,333.26,0.01,1649.637,166.36,Cash,7.9
+2023-12-30,12:16:59,C,San Francisco,West,Health & Beauty,Normal,Online,4,319.64,0.02,1252.9887999999999,227.47,UPI,5.7
+2025-07-10,11:07:33,C,San Francisco,West,Clothing,Member,Online,5,102.0,0.17,423.29999999999995,74.3,Cash,5.5
+2023-12-30,13:17:27,C,San Francisco,West,Clothing,Normal,In-store,7,361.13,0.09,2300.3981,501.68,Cash,6.9
+2025-10-03,16:36:50,C,San Francisco,West,Home & Kitchen,Normal,Online,2,134.65,0.17,223.519,59.14,Gift Card,8.0
+2025-03-16,14:21:31,A,New York,East,Health & Beauty,Normal,In-store,2,86.6,0.22,135.096,24.71,UPI,4.6
+2024-01-04,17:31:41,A,New York,East,Sports,Member,Online,9,439.97,0.04,3801.3408000000004,923.46,Debit Card,9.6
+2024-06-30,16:18:33,B,Chicago,Midwest,Home & Kitchen,Member,Online,1,288.14,0.09,262.2074,22.65,UPI,5.1
+2023-09-09,16:28:43,C,San Francisco,West,Health & Beauty,Member,Online,7,98.6,0.24,524.5519999999999,108.71,UPI,8.0
+2025-12-22,17:54:30,A,New York,East,Electronics,Normal,Online,8,148.47,0.02,1164.0048,104.51,UPI,4.3
+2023-11-23,11:30:18,A,New York,East,Clothing,Normal,In-store,5,287.46,0.01,1422.927,208.81,UPI,4.8
+2025-04-07,21:19:56,C,San Francisco,West,Health & Beauty,Normal,Online,5,356.4,0.18,1461.24,257.66,Credit Card,7.0
+2024-08-22,10:15:54,B,Chicago,Midwest,Sports,Member,In-store,1,489.37,0.19,396.3897,35.57,Gift Card,9.1
+2023-04-01,19:34:08,C,San Francisco,West,Health & Beauty,Member,In-store,8,334.37,0.07,2487.7128,665.9,Credit Card,5.6
+2025-09-17,11:21:26,A,New York,East,Electronics,Normal,In-store,9,473.8,0.04,4093.6319999999996,403.86,Gift Card,7.5
+2025-06-10,13:42:42,B,Chicago,Midwest,Sports,Member,Online,2,72.09,0.05,136.971,22.76,Debit Card,8.0
+2024-09-22,21:28:05,B,Chicago,Midwest,Electronics,Normal,In-store,7,467.69,0.1,2946.447,664.54,Cash,7.4
+2025-12-08,19:16:07,B,Chicago,Midwest,Clothing,Normal,In-store,7,422.0,0.23,2274.58,304.81,Gift Card,9.9
+2023-12-25,18:11:39,C,San Francisco,West,Sports,Normal,In-store,1,244.71,0.25,183.5325,29.39,Cash,8.9
+2023-09-09,14:29:06,C,San Francisco,West,Clothing,Normal,In-store,9,284.78,0.13,2229.8273999999997,612.98,UPI,9.5
+2024-08-07,14:14:04,A,New York,East,Clothing,Member,In-store,3,80.43,0.0,241.29000000000002,52.68,UPI,5.1
+2023-07-10,20:41:04,C,San Francisco,West,Home & Kitchen,Member,Online,9,90.96,0.2,654.912,148.91,Cash,4.9
+2025-12-10,17:49:56,A,New York,East,Health & Beauty,Normal,In-store,8,226.31,0.18,1484.5936000000002,203.19,UPI,7.5
+2025-10-10,19:40:07,A,New York,East,Clothing,Member,In-store,9,20.78,0.06,175.7988,31.15,UPI,4.0
+2025-06-13,14:35:31,A,New York,East,Health & Beauty,Member,In-store,8,356.45,0.05,2709.02,259.73,Cash,4.4
+2025-03-25,14:15:57,B,Chicago,Midwest,Home & Kitchen,Member,In-store,2,583.97,0.05,1109.543,271.25,Credit Card,6.6
+2023-05-24,12:08:56,B,Chicago,Midwest,Clothing,Normal,In-store,1,331.88,0.23,255.5476,38.58,UPI,8.9
+2024-05-30,21:06:43,A,New York,East,Sports,Member,Online,2,479.67,0.1,863.4060000000001,148.6,Gift Card,7.1
+2025-09-22,20:32:06,A,New York,East,Electronics,Normal,Online,8,432.84,0.08,3185.7024,267.13,Cash,6.0
+2024-02-09,11:37:02,B,Chicago,Midwest,Health & Beauty,Member,In-store,5,96.27,0.23,370.6395,47.02,UPI,7.0
+2024-01-16,21:05:37,A,New York,East,Home & Kitchen,Member,Online,2,327.04,0.03,634.4576000000001,103.81,UPI,9.3
+2024-02-06,19:00:17,C,San Francisco,West,Electronics,Member,In-store,7,174.58,0.19,989.8686000000002,88.25,Debit Card,7.8
+2024-04-06,18:19:43,B,Chicago,Midwest,Health & Beauty,Normal,Online,1,468.03,0.16,393.1452,46.64,Cash,5.8
+2023-08-03,15:26:23,A,New York,East,Health & Beauty,Normal,In-store,2,226.67,0.17,376.27219999999994,46.23,Debit Card,5.5
+2024-08-12,19:46:46,C,San Francisco,West,Sports,Normal,Online,4,516.65,0.16,1735.944,358.84,UPI,8.8
+2023-12-30,15:39:05,C,San Francisco,West,Sports,Normal,Online,3,244.09,0.17,607.7841,136.22,UPI,6.9
+2023-04-17,11:49:04,B,Chicago,Midwest,Health & Beauty,Normal,In-store,7,92.3,0.14,555.646,96.13,UPI,8.6
+2024-07-20,21:57:10,B,Chicago,Midwest,Home & Kitchen,Member,In-store,4,156.39,0.23,481.6812,83.77,Gift Card,8.9
+2025-12-22,21:53:52,C,San Francisco,West,Electronics,Normal,In-store,7,503.21,0.09,3205.4476999999997,567.77,Debit Card,9.7
+2023-09-28,12:32:30,A,New York,East,Health & Beauty,Normal,Online,5,189.9,0.01,940.005,152.91,Debit Card,9.6
+2023-03-07,19:11:44,B,Chicago,Midwest,Clothing,Normal,Online,3,231.04,0.19,561.4272000000001,96.39,Gift Card,6.2
+2023-09-08,16:58:09,A,New York,East,Clothing,Member,In-store,3,65.73,0.25,147.89249999999998,30.78,Cash,7.3
+2023-12-12,20:33:30,B,Chicago,Midwest,Health & Beauty,Normal,In-store,8,66.78,0.09,486.15840000000003,126.82,Debit Card,8.7
+2023-01-23,10:45:40,A,New York,East,Health & Beauty,Member,Online,6,199.36,0.07,1112.4288,272.41,Cash,7.0
+2024-09-20,20:57:45,A,New York,East,Electronics,Member,Online,2,424.41,0.09,772.4262000000001,209.77,Gift Card,9.7
+2025-10-19,11:52:01,C,San Francisco,West,Clothing,Normal,Online,9,207.25,0.02,1827.945,392.89,UPI,8.4
+2025-05-21,17:48:08,A,New York,East,Home & Kitchen,Normal,In-store,7,287.75,0.22,1571.115,239.46,Gift Card,5.3
+2025-12-26,11:40:02,C,San Francisco,West,Health & Beauty,Normal,Online,2,100.76,0.19,163.23120000000003,13.8,Gift Card,4.1
+2025-06-09,13:37:50,B,Chicago,Midwest,Sports,Member,In-store,2,95.31,0.14,163.9332,15.33,Debit Card,4.0
+2024-08-04,21:19:56,C,San Francisco,West,Clothing,Member,Online,1,454.34,0.03,440.7098,106.18,Credit Card,8.0
+2023-05-08,11:50:25,A,New York,East,Home & Kitchen,Normal,Online,6,85.89,0.22,401.96520000000004,111.75,Cash,5.5
+2023-01-11,12:53:46,C,San Francisco,West,Electronics,Member,In-store,6,291.2,0.09,1589.952,300.06,UPI,7.9
+2023-03-31,12:23:13,A,New York,East,Health & Beauty,Normal,Online,5,529.01,0.19,2142.4905000000003,494.83,Credit Card,7.3
+2023-08-09,19:46:39,B,Chicago,Midwest,Home & Kitchen,Member,Online,8,204.73,0.19,1326.6504,354.92,Debit Card,4.3
+2025-09-10,12:16:32,B,Chicago,Midwest,Electronics,Member,In-store,2,427.27,0.15,726.3589999999999,63.47,Credit Card,4.3
+2023-07-12,19:39:11,B,Chicago,Midwest,Electronics,Member,In-store,5,515.21,0.19,2086.6005000000005,533.8,Gift Card,9.5
+2025-10-25,11:20:23,C,San Francisco,West,Clothing,Member,Online,1,21.15,0.03,20.5155,3.79,Credit Card,9.7
+2023-02-02,09:55:10,A,New York,East,Electronics,Normal,Online,9,49.8,0.17,372.006,81.11,Credit Card,5.5
+2024-04-09,11:30:11,C,San Francisco,West,Electronics,Normal,Online,1,282.32,0.03,273.8504,28.04,Debit Card,5.0
+2025-11-06,12:48:10,A,New York,East,Health & Beauty,Normal,In-store,1,483.82,0.05,459.62899999999996,41.12,Cash,5.9
+2025-02-03,15:10:28,A,New York,East,Health & Beauty,Member,In-store,1,541.85,0.2,433.48,55.33,UPI,4.9
+2025-02-16,16:26:57,A,New York,East,Sports,Member,Online,2,580.86,0.08,1068.7824,256.47,UPI,5.7
+2024-03-20,12:51:19,C,San Francisco,West,Home & Kitchen,Member,Online,6,140.59,0.16,708.5735999999999,192.75,Gift Card,7.7
+2024-11-21,20:07:22,C,San Francisco,West,Sports,Normal,In-store,2,272.2,0.18,446.408,57.96,Gift Card,9.0
+2024-02-29,11:34:30,C,San Francisco,West,Clothing,Normal,Online,5,265.09,0.08,1219.414,266.77,Debit Card,5.6
+2023-03-23,17:31:59,A,New York,East,Clothing,Normal,In-store,2,317.66,0.01,628.9668,62.75,Credit Card,5.1
+2023-10-10,09:18:44,C,San Francisco,West,Clothing,Member,In-store,4,165.48,0.04,635.4431999999999,60.67,Debit Card,8.2
+2025-03-25,13:09:52,A,New York,East,Sports,Member,Online,1,299.79,0.11,266.8131,59.74,Credit Card,6.0
+2024-05-21,21:53:32,B,Chicago,Midwest,Sports,Member,In-store,1,118.98,0.13,103.5126,10.85,Gift Card,9.3
+2023-06-30,15:52:11,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,4,490.87,0.03,1904.5756,392.03,Debit Card,7.2
+2025-06-13,09:04:56,A,New York,East,Sports,Normal,Online,1,448.45,0.19,363.2445,101.35,Debit Card,8.8
+2023-11-14,15:49:56,C,San Francisco,West,Health & Beauty,Normal,Online,2,539.05,0.16,905.6039999999999,74.09,UPI,4.3
+2023-04-13,17:07:28,B,Chicago,Midwest,Home & Kitchen,Member,Online,5,431.82,0.24,1640.916,424.87,Cash,6.2
+2024-09-27,17:27:02,B,Chicago,Midwest,Sports,Member,In-store,1,402.49,0.13,350.1663,88.24,Cash,7.4
+2025-12-29,10:38:45,B,Chicago,Midwest,Electronics,Normal,Online,4,291.81,0.0,1167.24,124.65,Debit Card,7.2
+2023-02-23,10:39:32,C,San Francisco,West,Electronics,Normal,In-store,3,300.22,0.02,882.6468000000001,107.95,Cash,8.3
+2024-05-29,14:35:21,C,San Francisco,West,Home & Kitchen,Member,Online,5,571.31,0.01,2827.9844999999996,432.33,UPI,8.0
+2024-01-19,19:13:13,A,New York,East,Home & Kitchen,Member,Online,5,363.27,0.17,1507.5704999999998,237.19,Cash,5.7
+2025-02-03,09:27:22,C,San Francisco,West,Health & Beauty,Normal,Online,4,588.62,0.12,2071.9424,223.6,Credit Card,6.2
+2023-08-05,17:58:19,B,Chicago,Midwest,Clothing,Member,In-store,1,216.71,0.08,199.37320000000003,30.43,Cash,6.3
+2024-09-28,11:02:38,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,6,418.84,0.15,2136.084,220.99,Debit Card,7.7
+2025-11-16,09:52:46,C,San Francisco,West,Sports,Member,Online,1,102.1,0.21,80.659,19.41,Credit Card,7.2
+2025-11-18,17:21:40,A,New York,East,Home & Kitchen,Normal,Online,7,513.33,0.17,2982.4473000000003,267.84,UPI,9.2
+2023-07-12,10:33:38,B,Chicago,Midwest,Sports,Member,In-store,1,501.89,0.24,381.4364,30.6,UPI,7.0
+2024-06-28,09:25:11,B,Chicago,Midwest,Clothing,Normal,Online,2,369.57,0.13,643.0518,112.53,Gift Card,7.6
+2024-10-18,13:26:38,B,Chicago,Midwest,Sports,Normal,In-store,1,423.76,0.0,423.76,106.39,UPI,4.5
+2023-09-03,20:48:15,C,San Francisco,West,Electronics,Member,Online,8,79.02,0.25,474.12,115.53,UPI,9.5
+2023-03-30,17:35:29,A,New York,East,Electronics,Normal,In-store,3,175.74,0.0,527.22,82.76,Gift Card,8.6
+2024-07-10,09:02:52,C,San Francisco,West,Home & Kitchen,Member,In-store,2,179.6,0.0,359.2,58.73,Gift Card,6.0
+2023-12-30,20:08:23,C,San Francisco,West,Clothing,Member,In-store,4,445.57,0.06,1675.3431999999998,360.51,Cash,8.7
+2023-10-29,10:52:41,B,Chicago,Midwest,Home & Kitchen,Member,Online,3,492.7,0.12,1300.7279999999998,213.39,Gift Card,8.4
+2025-06-29,14:41:00,B,Chicago,Midwest,Clothing,Normal,Online,4,556.58,0.24,1692.0032,231.86,Credit Card,5.6
+2025-05-15,14:15:03,B,Chicago,Midwest,Electronics,Normal,In-store,7,331.21,0.2,1854.7759999999998,300.25,UPI,4.2
+2023-02-16,09:22:48,A,New York,East,Home & Kitchen,Normal,In-store,4,414.94,0.19,1344.4056,312.74,Cash,9.4
+2024-02-17,11:38:46,C,San Francisco,West,Sports,Normal,Online,5,212.61,0.1,956.7450000000002,210.86,Gift Card,4.5
+2023-11-07,14:10:03,B,Chicago,Midwest,Home & Kitchen,Normal,Online,3,68.23,0.19,165.7989,40.5,Gift Card,9.0
+2023-09-13,18:25:32,A,New York,East,Home & Kitchen,Normal,In-store,5,288.51,0.2,1154.04,185.83,Gift Card,7.9
+2023-11-17,13:41:27,C,San Francisco,West,Sports,Member,In-store,8,300.6,0.12,2116.224,459.87,UPI,8.2
+2023-11-20,13:02:13,C,San Francisco,West,Sports,Member,In-store,8,313.73,0.25,1882.38,152.36,Cash,9.1
+2024-07-13,13:07:57,A,New York,East,Home & Kitchen,Member,Online,2,304.87,0.1,548.7660000000001,52.19,Credit Card,5.9
+2023-07-18,11:03:55,B,Chicago,Midwest,Sports,Normal,In-store,6,161.67,0.09,882.7182,207.65,Gift Card,9.0
+2025-09-08,14:55:42,A,New York,East,Clothing,Normal,Online,1,192.76,0.0,192.76,22.59,Gift Card,8.5
+2024-03-17,14:09:04,C,San Francisco,West,Electronics,Member,In-store,6,563.43,0.15,2873.493,750.05,Debit Card,7.5
+2024-09-28,16:32:57,B,Chicago,Midwest,Sports,Member,In-store,7,206.02,0.18,1182.5548000000001,95.5,Debit Card,5.6
+2023-04-21,14:25:35,A,New York,East,Electronics,Member,Online,3,170.79,0.04,491.8752,119.94,Cash,7.7
+2023-07-21,19:32:15,B,Chicago,Midwest,Clothing,Member,In-store,3,229.46,0.1,619.542,159.8,Gift Card,9.8
+2024-10-08,10:12:18,A,New York,East,Home & Kitchen,Normal,Online,9,228.7,0.09,1873.0529999999999,429.31,Gift Card,7.5
+2024-09-22,18:54:57,A,New York,East,Clothing,Member,In-store,4,437.77,0.1,1575.972,129.35,UPI,4.4
+2024-05-06,21:35:00,C,San Francisco,West,Sports,Member,Online,9,563.52,0.18,4158.7776,560.95,UPI,6.4
+2023-11-08,20:36:38,A,New York,East,Electronics,Normal,Online,2,178.97,0.01,354.3606,65.32,Credit Card,5.9
+2025-10-18,10:37:33,B,Chicago,Midwest,Home & Kitchen,Normal,Online,7,262.61,0.09,1672.8257,205.04,Debit Card,7.4
+2023-05-24,14:57:49,B,Chicago,Midwest,Clothing,Normal,In-store,1,503.12,0.13,437.7144,70.8,Debit Card,5.5
+2023-12-05,14:04:47,C,San Francisco,West,Sports,Member,Online,5,335.92,0.22,1310.0880000000002,291.23,Gift Card,4.7
+2023-12-22,19:13:40,B,Chicago,Midwest,Health & Beauty,Normal,In-store,6,182.11,0.18,895.9812000000002,73.28,Cash,6.5
+2025-10-08,17:53:59,C,San Francisco,West,Home & Kitchen,Normal,Online,1,69.84,0.19,56.57040000000001,7.37,Cash,9.1
+2025-08-06,11:33:17,B,Chicago,Midwest,Health & Beauty,Normal,In-store,9,93.46,0.1,757.026,188.21,Debit Card,9.4
+2023-02-17,13:29:04,A,New York,East,Electronics,Normal,In-store,3,473.08,0.04,1362.4704,250.53,Credit Card,5.6
+2024-12-25,16:44:33,C,San Francisco,West,Home & Kitchen,Normal,Online,4,120.9,0.04,464.25600000000003,44.37,Gift Card,8.0
+2024-01-12,14:22:40,A,New York,East,Electronics,Normal,In-store,8,496.8,0.11,3537.2160000000003,357.6,Debit Card,8.1
+2023-12-08,16:49:01,C,San Francisco,West,Health & Beauty,Normal,In-store,4,55.9,0.24,169.936,30.56,Credit Card,5.3
+2024-06-15,15:04:25,C,San Francisco,West,Home & Kitchen,Member,Online,4,528.37,0.15,1796.4579999999999,204.26,UPI,5.7
+2023-12-16,13:00:52,A,New York,East,Home & Kitchen,Normal,In-store,1,400.76,0.01,396.75239999999997,68.95,UPI,9.2
+2023-05-11,20:17:51,A,New York,East,Home & Kitchen,Normal,In-store,7,351.34,0.01,2434.7861999999996,257.33,UPI,4.5
+2023-12-25,19:37:42,C,San Francisco,West,Sports,Member,Online,6,566.78,0.07,3162.6323999999995,423.78,Credit Card,9.8
+2023-12-30,11:04:23,C,San Francisco,West,Home & Kitchen,Normal,In-store,7,286.84,0.22,1566.1463999999999,224.4,Debit Card,9.3
+2025-07-24,18:05:57,A,New York,East,Clothing,Member,Online,8,405.31,0.11,2885.8072,637.18,UPI,7.6
+2023-08-24,21:03:25,B,Chicago,Midwest,Electronics,Normal,Online,6,337.32,0.02,1983.4416,316.95,Debit Card,4.3
+2025-02-19,13:18:34,C,San Francisco,West,Home & Kitchen,Member,In-store,7,189.32,0.05,1258.9779999999998,206.15,Debit Card,8.0
+2025-03-11,12:53:55,B,Chicago,Midwest,Clothing,Member,Online,8,508.63,0.24,3092.4704,353.67,Debit Card,5.0
+2025-05-01,20:26:19,C,San Francisco,West,Health & Beauty,Member,Online,4,419.16,0.13,1458.6768000000002,388.05,Credit Card,4.4
+2024-02-19,12:22:13,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,4,77.01,0.14,264.9144,31.18,UPI,5.3
+2024-02-04,16:44:16,B,Chicago,Midwest,Clothing,Member,In-store,1,170.77,0.19,138.32370000000003,32.69,Gift Card,4.4
+2023-05-12,10:00:27,B,Chicago,Midwest,Home & Kitchen,Member,Online,3,439.37,0.18,1080.8502,222.31,Cash,7.9
+2023-02-06,09:27:03,A,New York,East,Sports,Normal,Online,8,161.56,0.23,995.2096,235.54,Debit Card,9.1
+2024-05-02,11:55:43,A,New York,East,Sports,Member,In-store,4,537.0,0.2,1718.4,177.75,Credit Card,5.2
+2025-07-22,20:09:14,C,San Francisco,West,Health & Beauty,Member,In-store,7,436.4,0.1,2749.3199999999997,473.4,Debit Card,5.6
+2025-10-17,21:43:20,A,New York,East,Health & Beauty,Normal,Online,6,212.25,0.14,1095.21,288.77,Cash,9.7
+2023-05-17,18:58:50,B,Chicago,Midwest,Clothing,Member,Online,5,78.18,0.16,328.356,61.93,Debit Card,5.6
+2024-06-27,14:29:24,B,Chicago,Midwest,Home & Kitchen,Normal,Online,4,366.45,0.08,1348.536,324.11,Gift Card,9.5
+2024-01-03,09:25:55,B,Chicago,Midwest,Health & Beauty,Normal,Online,7,134.42,0.16,790.3896,69.55,Credit Card,6.3
+2023-03-05,18:57:33,C,San Francisco,West,Clothing,Normal,Online,8,247.27,0.13,1720.9992,438.93,Cash,7.6
+2025-01-17,09:21:52,B,Chicago,Midwest,Electronics,Normal,Online,5,101.28,0.17,420.31199999999995,80.07,Debit Card,5.4
+2025-11-29,17:45:50,B,Chicago,Midwest,Health & Beauty,Member,In-store,4,228.78,0.02,896.8176,129.17,Gift Card,8.9
+2024-12-23,18:33:13,C,San Francisco,West,Home & Kitchen,Normal,Online,2,132.86,0.16,223.2048,35.19,UPI,5.3
+2024-04-04,15:24:54,C,San Francisco,West,Sports,Member,Online,4,115.34,0.05,438.292,48.33,Credit Card,8.7
+2025-01-07,11:01:27,C,San Francisco,West,Health & Beauty,Member,In-store,4,483.99,0.19,1568.1276,381.28,Gift Card,8.3
+2024-06-14,18:44:28,A,New York,East,Clothing,Normal,Online,4,488.74,0.1,1759.4640000000002,165.53,Debit Card,8.0
+2023-07-13,12:58:41,B,Chicago,Midwest,Sports,Normal,In-store,8,236.86,0.15,1610.6480000000001,343.48,Debit Card,4.5
+2025-01-27,15:17:44,A,New York,East,Electronics,Normal,Online,4,225.38,0.16,757.2768,159.36,UPI,8.9
+2025-10-13,13:10:46,A,New York,East,Clothing,Normal,In-store,3,183.94,0.14,474.56519999999995,62.05,Gift Card,9.1
+2024-02-09,11:19:35,C,San Francisco,West,Clothing,Normal,In-store,3,266.01,0.23,614.4831,59.62,Credit Card,8.7
+2023-10-30,12:47:05,A,New York,East,Health & Beauty,Member,Online,4,357.65,0.07,1330.4579999999999,325.9,Credit Card,6.3
+2024-02-15,12:10:21,B,Chicago,Midwest,Health & Beauty,Normal,Online,1,352.22,0.17,292.3426,79.94,Debit Card,7.2
+2023-04-15,19:35:31,B,Chicago,Midwest,Clothing,Normal,In-store,4,188.6,0.03,731.7679999999999,70.03,Cash,4.9
+2023-10-01,10:16:59,C,San Francisco,West,Home & Kitchen,Member,In-store,8,76.37,0.12,537.6448,98.64,Debit Card,5.4
+2025-03-17,20:43:24,C,San Francisco,West,Clothing,Normal,Online,2,256.71,0.23,395.3334,33.78,Gift Card,8.6
+2025-02-10,09:05:44,A,New York,East,Sports,Member,In-store,2,80.2,0.14,137.94400000000002,31.31,Gift Card,9.6
+2023-11-19,18:43:26,C,San Francisco,West,Health & Beauty,Normal,Online,7,477.54,0.14,2874.7908,403.64,Credit Card,6.0
+2025-09-17,11:50:53,B,Chicago,Midwest,Health & Beauty,Member,Online,8,317.0,0.15,2155.6,481.99,Debit Card,4.3
+2023-09-03,19:23:40,C,San Francisco,West,Home & Kitchen,Normal,Online,1,26.17,0.03,25.384900000000002,6.05,Credit Card,6.7
+2024-05-04,15:48:59,C,San Francisco,West,Clothing,Member,In-store,2,229.79,0.16,386.0472,54.95,Gift Card,4.1
+2023-11-28,20:23:05,A,New York,East,Sports,Member,Online,3,244.57,0.18,601.6422000000001,100.99,Debit Card,5.1
+2025-04-05,12:49:20,B,Chicago,Midwest,Home & Kitchen,Member,In-store,7,248.24,0.24,1320.6368,340.25,Gift Card,5.6
+2023-10-26,12:38:01,B,Chicago,Midwest,Sports,Member,Online,1,303.48,0.23,233.67960000000002,45.45,Cash,7.1
+2023-10-17,09:52:09,A,New York,East,Electronics,Member,In-store,6,390.95,0.15,1993.8449999999998,351.98,Gift Card,8.4
+2024-10-03,18:46:59,B,Chicago,Midwest,Sports,Normal,In-store,4,174.19,0.1,627.0840000000001,87.35,Credit Card,6.5
+2023-03-16,17:07:16,B,Chicago,Midwest,Sports,Normal,In-store,4,297.08,0.24,903.1232,107.87,Gift Card,9.4
+2025-11-28,09:50:28,C,San Francisco,West,Electronics,Member,In-store,5,75.43,0.18,309.26300000000003,70.48,Debit Card,9.9
+2025-04-11,09:54:55,C,San Francisco,West,Clothing,Normal,In-store,3,138.66,0.23,320.3046,40.16,Gift Card,8.0
+2025-01-13,20:45:24,C,San Francisco,West,Sports,Normal,In-store,5,439.81,0.14,1891.1830000000002,239.1,Gift Card,8.8
+2024-03-17,09:22:51,B,Chicago,Midwest,Electronics,Normal,Online,2,380.92,0.01,754.2216000000001,178.55,Cash,8.6
+2024-07-11,12:27:28,B,Chicago,Midwest,Electronics,Member,In-store,8,561.14,0.08,4129.9904,846.13,Debit Card,6.0
+2023-04-10,13:35:12,B,Chicago,Midwest,Home & Kitchen,Member,In-store,8,102.25,0.25,613.5,87.6,UPI,5.5
+2024-02-03,13:16:46,C,San Francisco,West,Sports,Normal,In-store,6,69.26,0.01,411.40440000000007,79.87,UPI,6.7
+2024-11-09,16:33:51,A,New York,East,Electronics,Member,In-store,2,407.41,0.12,717.0416,106.42,Credit Card,9.6
+2025-10-08,12:56:04,B,Chicago,Midwest,Health & Beauty,Member,In-store,2,497.49,0.12,875.5824,78.93,Credit Card,6.0
+2025-02-02,17:14:32,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,2,411.73,0.03,798.7562,204.72,Credit Card,6.8
+2023-10-20,21:58:25,C,San Francisco,West,Electronics,Normal,In-store,1,285.9,0.18,234.438,30.28,Gift Card,8.2
+2025-11-06,21:18:57,C,San Francisco,West,Sports,Member,In-store,7,282.81,0.11,1761.9063,189.42,UPI,4.6
+2024-06-24,14:53:27,A,New York,East,Home & Kitchen,Member,Online,9,206.41,0.06,1746.2286,288.2,Gift Card,7.8
+2023-01-25,11:12:03,C,San Francisco,West,Sports,Member,Online,5,482.19,0.1,2169.855,482.86,Credit Card,7.8
+2023-03-07,18:43:30,A,New York,East,Home & Kitchen,Member,In-store,4,144.79,0.09,527.0356,82.43,Credit Card,8.7
+2024-09-30,17:17:35,A,New York,East,Health & Beauty,Normal,In-store,8,132.75,0.11,945.1800000000001,233.04,Cash,9.5
+2023-04-12,17:24:28,C,San Francisco,West,Health & Beauty,Member,In-store,1,598.81,0.15,508.98849999999993,95.35,Cash,9.4
+2024-09-17,11:43:29,A,New York,East,Health & Beauty,Normal,Online,9,302.87,0.22,2126.1474,298.58,UPI,4.6
+2025-02-12,13:03:47,C,San Francisco,West,Home & Kitchen,Member,In-store,8,578.27,0.23,3562.1432,965.96,Debit Card,8.2
+2024-01-18,15:38:27,C,San Francisco,West,Electronics,Member,In-store,5,539.06,0.22,2102.334,194.98,Cash,6.2
+2024-03-19,13:24:32,B,Chicago,Midwest,Health & Beauty,Member,In-store,6,189.68,0.25,853.56,72.8,Credit Card,9.1
+2024-05-22,11:17:02,C,San Francisco,West,Electronics,Normal,In-store,7,423.66,0.07,2758.0266,653.41,Gift Card,4.4
+2025-07-21,10:23:26,C,San Francisco,West,Health & Beauty,Normal,In-store,4,494.03,0.03,1916.8364,237.83,Gift Card,6.0
+2024-08-29,13:58:30,A,New York,East,Health & Beauty,Normal,In-store,2,416.07,0.06,782.2116,83.43,Debit Card,4.3
+2023-03-26,09:57:18,A,New York,East,Sports,Normal,In-store,8,297.66,0.13,2071.7136,238.67,UPI,5.5
+2023-03-21,14:00:13,A,New York,East,Electronics,Normal,Online,2,70.0,0.11,124.60000000000001,19.97,Cash,4.4
+2024-12-22,10:37:42,A,New York,East,Home & Kitchen,Member,Online,5,336.81,0.15,1431.4424999999999,363.65,Cash,5.8
+2024-12-24,20:38:25,B,Chicago,Midwest,Clothing,Member,Online,7,385.3,0.16,2265.564,540.04,Gift Card,9.4
+2024-04-02,15:48:41,B,Chicago,Midwest,Health & Beauty,Member,In-store,2,97.02,0.1,174.636,19.79,Credit Card,5.0
+2024-03-26,14:49:57,A,New York,East,Clothing,Member,In-store,8,590.25,0.13,4108.14,962.58,Credit Card,6.7
+2024-09-19,21:05:48,C,San Francisco,West,Electronics,Member,In-store,2,26.9,0.18,44.116,9.42,Gift Card,4.1
+2025-01-10,11:45:48,C,San Francisco,West,Electronics,Member,In-store,8,228.63,0.24,1390.0704,231.33,UPI,7.5
+2023-05-27,17:01:27,C,San Francisco,West,Electronics,Member,Online,4,384.01,0.23,1182.7508,98.29,Credit Card,5.9
+2024-12-17,11:04:05,A,New York,East,Electronics,Normal,Online,8,12.46,0.05,94.696,7.62,Credit Card,5.7
+2023-12-16,17:43:46,C,San Francisco,West,Sports,Normal,Online,6,519.73,0.18,2557.0716,269.38,Debit Card,6.5
+2025-10-27,17:42:20,C,San Francisco,West,Health & Beauty,Member,In-store,3,220.61,0.09,602.2653,139.5,UPI,6.5
+2024-07-13,15:09:26,A,New York,East,Electronics,Normal,Online,9,265.68,0.23,1841.1624,396.5,UPI,9.7
+2023-12-17,18:53:59,A,New York,East,Sports,Member,In-store,1,540.07,0.1,486.06300000000005,61.25,Gift Card,7.5
+2023-05-27,12:28:12,C,San Francisco,West,Electronics,Member,In-store,7,416.32,0.12,2564.5312,581.55,Credit Card,6.4
+2025-02-11,13:14:12,C,San Francisco,West,Health & Beauty,Normal,In-store,9,562.7,0.11,4507.227,722.75,Gift Card,9.0
+2023-09-10,12:36:59,B,Chicago,Midwest,Clothing,Normal,Online,4,411.61,0.04,1580.5824,188.25,Gift Card,5.4
+2023-08-11,20:55:05,C,San Francisco,West,Home & Kitchen,Member,In-store,8,127.81,0.08,940.6816,165.02,UPI,8.7
+2025-10-28,14:47:01,B,Chicago,Midwest,Health & Beauty,Normal,In-store,5,163.04,0.24,619.5519999999999,52.64,Debit Card,9.6
+2023-05-05,12:06:33,C,San Francisco,West,Sports,Member,In-store,5,360.63,0.23,1388.4255,300.0,Debit Card,5.2
+2024-06-18,15:14:51,C,San Francisco,West,Sports,Member,In-store,6,16.24,0.01,96.4656,18.29,Credit Card,9.8
+2025-08-02,20:15:11,B,Chicago,Midwest,Electronics,Normal,In-store,1,79.99,0.16,67.1916,17.38,Credit Card,7.9
+2024-11-06,09:08:24,C,San Francisco,West,Sports,Normal,Online,6,44.1,0.25,198.45000000000002,22.56,Credit Card,9.8
+2023-04-11,17:22:50,B,Chicago,Midwest,Electronics,Member,Online,4,568.25,0.17,1886.59,323.23,Debit Card,4.5
+2024-04-17,18:32:48,C,San Francisco,West,Health & Beauty,Member,In-store,6,112.62,0.25,506.79,46.25,Gift Card,8.3
+2025-02-14,17:11:39,C,San Francisco,West,Electronics,Normal,In-store,7,481.65,0.12,2966.964,247.15,Debit Card,9.4
+2023-12-22,17:29:14,B,Chicago,Midwest,Home & Kitchen,Member,In-store,6,116.91,0.22,547.1388000000001,126.4,Debit Card,7.6
+2023-01-19,19:27:44,A,New York,East,Sports,Normal,In-store,6,39.94,0.02,234.8472,40.32,Cash,4.7
+2024-02-04,09:21:39,A,New York,East,Sports,Member,Online,1,277.81,0.06,261.1414,22.91,Debit Card,6.1
+2023-07-29,16:12:33,C,San Francisco,West,Health & Beauty,Normal,Online,4,322.08,0.11,1146.6048,316.1,Credit Card,9.9
+2023-10-02,11:18:14,C,San Francisco,West,Clothing,Normal,Online,4,94.93,0.02,372.1256,80.18,Credit Card,8.7
+2024-07-19,17:45:06,C,San Francisco,West,Sports,Normal,Online,8,471.63,0.19,3056.1624,570.93,Debit Card,5.8
+2023-07-12,19:15:01,A,New York,East,Sports,Normal,Online,4,353.26,0.17,1172.8231999999998,157.74,Cash,8.7
+2025-05-19,10:18:05,C,San Francisco,West,Sports,Member,Online,3,416.99,0.21,988.2663000000001,101.49,Credit Card,9.9
+2024-07-26,12:28:19,A,New York,East,Sports,Member,In-store,6,103.31,0.07,576.4698,123.07,UPI,5.3
+2025-11-30,17:12:41,C,San Francisco,West,Electronics,Member,Online,8,471.62,0.21,2980.6384000000003,611.27,Debit Card,5.8
+2024-11-09,18:37:44,A,New York,East,Home & Kitchen,Normal,In-store,6,340.83,0.21,1615.5342,271.61,Credit Card,7.6
+2024-07-24,20:31:09,A,New York,East,Home & Kitchen,Member,Online,5,17.16,0.11,76.362,18.08,UPI,5.0
+2024-02-26,11:32:49,A,New York,East,Health & Beauty,Member,Online,6,477.26,0.18,2348.1192,244.61,UPI,5.1
+2023-04-05,20:02:35,A,New York,East,Home & Kitchen,Normal,Online,7,541.3,0.02,3713.3179999999993,376.74,Credit Card,5.8
+2023-03-30,18:06:31,C,San Francisco,West,Health & Beauty,Normal,Online,1,160.73,0.01,159.12269999999998,14.51,Gift Card,7.7
+2024-08-21,12:22:09,B,Chicago,Midwest,Health & Beauty,Member,In-store,1,353.4,0.14,303.924,34.14,Credit Card,6.1
+2024-09-01,09:08:14,A,New York,East,Health & Beauty,Normal,In-store,6,173.73,0.16,875.5991999999999,226.0,Cash,5.6
+2023-05-20,11:04:58,B,Chicago,Midwest,Home & Kitchen,Member,Online,6,547.74,0.24,2497.6944,670.55,Gift Card,9.5
+2024-12-28,17:56:44,C,San Francisco,West,Health & Beauty,Member,Online,9,65.63,0.04,567.0432,136.81,Gift Card,6.8
+2023-05-17,16:11:34,A,New York,East,Clothing,Member,Online,9,291.26,0.18,2149.4988000000003,404.06,Debit Card,5.7
+2024-04-27,09:36:38,C,San Francisco,West,Home & Kitchen,Member,In-store,3,360.44,0.18,886.6824,216.35,UPI,6.5
+2023-04-28,18:32:39,A,New York,East,Home & Kitchen,Normal,Online,1,435.9,0.08,401.028,61.19,Credit Card,9.7
+2024-04-16,15:42:16,B,Chicago,Midwest,Health & Beauty,Normal,Online,6,577.0,0.03,3358.14,472.61,UPI,6.0
+2025-08-25,17:57:35,C,San Francisco,West,Health & Beauty,Member,In-store,3,81.95,0.16,206.514,28.67,UPI,9.1
+2023-10-26,11:17:37,C,San Francisco,West,Sports,Normal,Online,5,418.85,0.04,2010.48,405.69,UPI,6.6
+2025-11-26,09:12:11,C,San Francisco,West,Health & Beauty,Member,In-store,6,499.52,0.03,2907.2064,520.82,UPI,5.2
+2025-02-26,15:40:00,A,New York,East,Health & Beauty,Member,In-store,1,163.63,0.19,132.5403,16.06,Gift Card,8.9
+2023-10-29,18:45:03,C,San Francisco,West,Clothing,Normal,Online,7,28.79,0.24,153.1628,14.03,Cash,9.4
+2024-10-31,21:16:56,C,San Francisco,West,Home & Kitchen,Member,Online,8,105.54,0.18,692.3424000000001,124.53,Cash,9.9
+2024-05-13,19:33:45,A,New York,East,Health & Beauty,Normal,Online,8,555.63,0.23,3422.6808,489.62,Gift Card,5.5
+2024-03-21,12:12:29,B,Chicago,Midwest,Clothing,Normal,Online,7,366.22,0.12,2255.9152,189.67,Credit Card,6.6
+2025-11-02,14:11:16,B,Chicago,Midwest,Clothing,Member,In-store,5,469.77,0.24,1785.126,493.55,Debit Card,6.6
+2023-07-15,15:46:30,C,San Francisco,West,Sports,Member,Online,2,209.08,0.1,376.34400000000005,87.45,UPI,8.5
+2024-02-09,21:08:30,A,New York,East,Clothing,Member,In-store,6,38.11,0.02,224.08679999999998,50.57,Credit Card,7.0
+2023-03-23,18:49:45,C,San Francisco,West,Health & Beauty,Normal,Online,2,25.29,0.1,45.522,3.7,Debit Card,5.3
+2025-07-28,14:41:01,C,San Francisco,West,Home & Kitchen,Normal,Online,3,370.16,0.09,1010.5368000000001,95.75,Cash,7.6
+2023-08-26,09:14:21,A,New York,East,Clothing,Normal,Online,3,236.24,0.17,588.2376,81.75,Debit Card,9.4
+2023-10-03,18:02:33,A,New York,East,Electronics,Normal,Online,1,123.43,0.22,96.2754,17.55,Credit Card,9.2
+2023-12-29,09:43:33,C,San Francisco,West,Home & Kitchen,Member,Online,9,14.93,0.18,110.1834,24.52,Credit Card,4.8
+2024-01-29,21:18:42,C,San Francisco,West,Sports,Normal,In-store,7,359.06,0.1,2262.078,263.23,Credit Card,6.8
+2023-07-21,17:18:28,B,Chicago,Midwest,Clothing,Member,In-store,1,505.87,0.13,440.1069,108.67,UPI,8.5
+2024-05-27,09:00:38,A,New York,East,Sports,Member,Online,7,291.94,0.22,1593.9924,146.88,Cash,4.4
+2025-06-18,18:02:58,C,San Francisco,West,Health & Beauty,Normal,Online,7,251.97,0.11,1569.7730999999999,399.35,Gift Card,4.1
+2025-04-03,19:25:24,B,Chicago,Midwest,Home & Kitchen,Member,Online,8,247.99,0.16,1666.4928,270.02,Debit Card,4.9
+2024-11-30,09:18:13,C,San Francisco,West,Clothing,Member,In-store,3,408.95,0.17,1018.2854999999998,132.97,Cash,8.1
+2024-03-03,09:43:53,A,New York,East,Sports,Normal,In-store,4,416.79,0.21,1317.0564000000002,138.94,Credit Card,5.2
+2024-06-21,19:08:47,B,Chicago,Midwest,Electronics,Member,Online,3,245.44,0.14,633.2352,91.28,Credit Card,7.4
+2025-02-04,10:47:13,A,New York,East,Sports,Normal,Online,2,265.31,0.14,456.3332,46.72,UPI,8.0
+2024-02-27,09:42:38,B,Chicago,Midwest,Electronics,Member,Online,7,26.25,0.15,156.1875,41.87,Gift Card,8.8
+2024-06-22,10:40:30,A,New York,East,Home & Kitchen,Member,Online,7,109.92,0.18,630.9408000000001,88.28,UPI,8.2
+2024-01-21,15:36:54,A,New York,East,Home & Kitchen,Normal,In-store,3,528.63,0.11,1411.4421,375.12,Gift Card,9.9
+2025-09-13,20:37:26,A,New York,East,Clothing,Member,Online,5,403.24,0.03,1955.714,545.24,Debit Card,7.5
+2024-07-15,10:04:59,A,New York,East,Health & Beauty,Member,Online,5,388.34,0.22,1514.5259999999998,363.52,Credit Card,8.6
+2024-10-26,21:30:04,A,New York,East,Home & Kitchen,Normal,In-store,2,386.74,0.18,634.2536000000001,111.42,UPI,5.0
+2023-03-21,15:09:08,C,San Francisco,West,Home & Kitchen,Normal,In-store,9,196.35,0.16,1484.4059999999997,398.08,UPI,5.3
+2024-01-14,11:16:27,A,New York,East,Sports,Member,In-store,3,531.83,0.01,1579.5351000000003,369.65,UPI,8.1
+2023-04-06,11:35:35,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,9,315.36,0.21,2242.2096,601.46,Credit Card,7.4
+2024-06-19,13:53:17,A,New York,East,Home & Kitchen,Normal,Online,2,54.18,0.12,95.3568,12.67,Gift Card,4.6
+2025-04-30,20:23:47,C,San Francisco,West,Health & Beauty,Normal,In-store,8,359.96,0.19,2332.5408,222.78,Debit Card,9.7
+2024-08-31,14:34:12,A,New York,East,Home & Kitchen,Normal,In-store,1,401.59,0.23,309.22429999999997,25.75,Cash,9.8
+2023-12-30,15:30:43,C,San Francisco,West,Electronics,Normal,In-store,5,275.05,0.13,1196.4675,253.69,Credit Card,9.2
+2023-12-24,17:38:39,C,San Francisco,West,Clothing,Normal,Online,5,528.03,0.15,2244.1274999999996,309.44,Credit Card,4.7
+2023-11-19,11:33:54,B,Chicago,Midwest,Electronics,Member,In-store,5,34.18,0.24,129.88400000000001,34.39,Cash,4.8
+2025-04-27,13:58:15,A,New York,East,Clothing,Normal,In-store,2,537.46,0.09,978.1772000000001,140.22,Debit Card,4.8
+2025-07-13,09:39:35,A,New York,East,Sports,Normal,Online,6,70.79,0.16,356.78159999999997,37.42,Gift Card,6.8
+2023-02-19,12:12:56,C,San Francisco,West,Sports,Member,In-store,8,69.69,0.17,462.74159999999995,91.91,Gift Card,6.5
+2023-04-29,09:07:19,A,New York,East,Clothing,Member,Online,9,523.17,0.05,4473.103499999999,994.43,Debit Card,7.1
+2025-01-19,10:12:43,A,New York,East,Electronics,Normal,In-store,8,170.1,0.09,1238.328,246.95,Gift Card,5.5
+2025-11-21,15:35:00,B,Chicago,Midwest,Sports,Normal,Online,2,244.11,0.08,449.16240000000005,117.51,Debit Card,6.6
+2023-03-06,21:46:08,A,New York,East,Electronics,Member,In-store,3,554.21,0.01,1646.0037,230.96,Cash,7.3
+2024-06-27,20:01:07,B,Chicago,Midwest,Home & Kitchen,Member,In-store,2,145.65,0.08,267.99600000000004,55.08,Gift Card,9.1
+2024-04-22,17:30:42,A,New York,East,Sports,Normal,In-store,9,464.7,0.25,3136.7250000000004,535.12,Cash,8.2
+2025-10-01,21:00:52,B,Chicago,Midwest,Electronics,Member,In-store,2,91.9,0.08,169.096,16.54,Credit Card,6.0
+2024-11-18,17:38:30,C,San Francisco,West,Health & Beauty,Member,In-store,8,504.39,0.1,3631.608,639.91,Credit Card,6.2
+2025-05-12,12:09:39,B,Chicago,Midwest,Health & Beauty,Normal,Online,2,490.46,0.14,843.5912,131.67,Credit Card,5.5
+2025-03-22,21:02:11,B,Chicago,Midwest,Clothing,Member,In-store,7,379.31,0.22,2071.0326,370.97,Credit Card,7.9
+2025-08-06,10:27:47,B,Chicago,Midwest,Electronics,Member,Online,3,351.06,0.21,832.0122000000001,86.67,Credit Card,8.5
+2025-04-29,12:43:34,B,Chicago,Midwest,Sports,Normal,Online,6,318.96,0.24,1454.4575999999997,359.31,Cash,7.8
+2024-03-02,16:41:25,C,San Francisco,West,Home & Kitchen,Member,In-store,2,57.87,0.05,109.95299999999999,13.84,UPI,8.6
+2025-08-02,18:27:39,A,New York,East,Clothing,Member,Online,9,471.9,0.03,4119.686999999999,947.65,Cash,7.3
+2025-02-23,12:54:21,A,New York,East,Electronics,Member,Online,6,113.13,0.21,536.2362,117.24,Credit Card,5.9
+2024-01-09,17:20:39,B,Chicago,Midwest,Health & Beauty,Member,In-store,6,403.43,0.13,2105.9046,476.83,Gift Card,8.9
+2025-06-14,11:38:13,B,Chicago,Midwest,Home & Kitchen,Normal,Online,4,331.13,0.04,1271.5392,349.84,Cash,5.0
+2024-06-25,15:47:41,B,Chicago,Midwest,Health & Beauty,Member,In-store,8,148.34,0.2,949.3760000000001,248.42,Gift Card,6.5
+2023-01-14,15:44:02,B,Chicago,Midwest,Health & Beauty,Member,Online,6,445.26,0.07,2484.5508,336.52,Gift Card,8.0
+2025-07-17,10:28:21,C,San Francisco,West,Electronics,Normal,Online,6,125.98,0.02,740.7624,67.62,Cash,5.9
+2024-11-03,15:43:48,C,San Francisco,West,Clothing,Normal,In-store,3,532.94,0.08,1470.9144000000001,365.09,Cash,7.1
+2023-04-12,18:30:53,A,New York,East,Home & Kitchen,Normal,In-store,1,63.83,0.03,61.915099999999995,10.09,Credit Card,9.5
+2025-09-03,10:31:05,A,New York,East,Home & Kitchen,Normal,Online,3,550.81,0.24,1255.8467999999998,228.1,Gift Card,6.0
+2025-10-20,21:39:39,A,New York,East,Clothing,Member,Online,6,444.43,0.02,2613.2484,603.41,Gift Card,5.3
+2024-11-19,21:32:32,C,San Francisco,West,Home & Kitchen,Member,In-store,2,282.65,0.23,435.28099999999995,71.44,UPI,8.0
+2024-03-01,16:45:28,A,New York,East,Health & Beauty,Member,Online,7,548.59,0.23,2956.9001000000003,524.25,Debit Card,4.8
+2025-09-01,10:48:21,B,Chicago,Midwest,Sports,Member,Online,5,289.68,0.01,1433.9160000000002,320.87,Credit Card,9.2
+2024-01-24,19:40:27,C,San Francisco,West,Clothing,Member,In-store,3,9.07,0.18,22.3122,2.04,UPI,4.3
+2023-06-21,21:33:13,B,Chicago,Midwest,Clothing,Normal,Online,7,334.22,0.22,1824.8412,417.47,Cash,4.4
+2024-07-15,20:04:07,B,Chicago,Midwest,Health & Beauty,Normal,Online,9,65.12,0.07,545.0544,142.27,Credit Card,6.0
+2025-09-05,12:11:59,A,New York,East,Sports,Member,In-store,1,183.77,0.1,165.393,33.1,Gift Card,4.0
+2023-12-22,17:26:30,A,New York,East,Sports,Member,In-store,8,368.64,0.1,2654.208,436.24,Debit Card,5.1
+2023-04-09,11:08:34,A,New York,East,Clothing,Normal,Online,8,468.16,0.07,3483.1104,693.61,Gift Card,4.5
+2024-05-14,12:27:58,B,Chicago,Midwest,Home & Kitchen,Normal,Online,3,205.21,0.04,591.0047999999999,94.53,Debit Card,4.7
+2024-05-25,09:46:34,C,San Francisco,West,Electronics,Normal,Online,2,405.2,0.11,721.256,123.21,Credit Card,6.1
+2025-08-20,10:30:59,C,San Francisco,West,Clothing,Member,In-store,5,310.8,0.12,1367.52,192.41,Gift Card,9.8
+2025-08-29,13:08:56,B,Chicago,Midwest,Electronics,Member,In-store,5,299.82,0.22,1169.298,139.98,Debit Card,8.2
+2025-09-10,19:58:11,B,Chicago,Midwest,Home & Kitchen,Member,In-store,8,509.75,0.19,3303.1800000000003,656.83,Gift Card,7.7
+2023-10-19,15:01:19,A,New York,East,Clothing,Member,Online,3,540.46,0.01,1605.1662000000001,422.09,UPI,5.3
+2023-11-17,18:08:48,C,San Francisco,West,Electronics,Member,In-store,2,226.87,0.03,440.1278,77.72,Debit Card,7.8
+2023-11-21,11:11:34,B,Chicago,Midwest,Sports,Member,Online,5,392.01,0.08,1803.246,351.56,UPI,8.7
+2025-09-17,09:18:10,A,New York,East,Health & Beauty,Member,Online,1,47.37,0.22,36.9486,6.25,Debit Card,9.6
+2024-02-12,21:23:55,C,San Francisco,West,Sports,Normal,In-store,1,519.99,0.07,483.59069999999997,85.26,Cash,7.8
+2025-04-05,19:33:31,B,Chicago,Midwest,Sports,Normal,Online,9,408.28,0.03,3564.2843999999996,513.22,UPI,5.5
+2023-01-29,21:37:43,B,Chicago,Midwest,Health & Beauty,Normal,Online,3,482.85,0.15,1231.2675000000002,198.74,UPI,8.8
+2025-05-10,10:24:34,A,New York,East,Health & Beauty,Member,Online,3,384.43,0.23,888.0332999999999,194.69,Credit Card,8.7
+2023-09-07,16:58:14,C,San Francisco,West,Sports,Normal,Online,7,413.74,0.18,2374.8676000000005,463.25,UPI,5.0
+2023-06-25,17:56:11,C,San Francisco,West,Home & Kitchen,Member,Online,3,184.77,0.17,460.07730000000004,128.76,Gift Card,7.1
+2023-09-22,19:23:44,B,Chicago,Midwest,Clothing,Member,Online,3,158.32,0.1,427.464,54.03,Gift Card,6.0
+2024-07-06,16:38:28,A,New York,East,Home & Kitchen,Normal,In-store,7,366.8,0.08,2362.192,613.29,Debit Card,7.6
+2023-04-09,12:04:30,B,Chicago,Midwest,Home & Kitchen,Normal,Online,1,36.72,0.16,30.8448,6.83,Credit Card,8.3
+2024-06-24,17:53:57,B,Chicago,Midwest,Clothing,Normal,In-store,7,300.23,0.23,1618.2397,188.65,Credit Card,5.9
+2025-01-02,12:06:21,A,New York,East,Sports,Normal,Online,5,55.06,0.13,239.511,46.39,Gift Card,5.3
+2025-09-29,21:03:02,C,San Francisco,West,Sports,Normal,Online,5,502.8,0.07,2338.02,373.21,UPI,9.9
+2023-07-07,17:58:32,B,Chicago,Midwest,Health & Beauty,Normal,In-store,9,232.78,0.23,1613.1654,390.52,Credit Card,6.9
+2025-01-23,18:14:56,B,Chicago,Midwest,Sports,Member,Online,3,532.85,0.18,1310.8110000000001,310.34,Gift Card,8.3
+2025-10-29,19:12:02,C,San Francisco,West,Health & Beauty,Member,Online,4,40.71,0.1,146.556,29.46,Debit Card,8.8
+2024-05-11,12:06:54,B,Chicago,Midwest,Electronics,Normal,Online,5,476.84,0.12,2098.096,268.37,Gift Card,9.8
+2024-02-25,16:06:33,B,Chicago,Midwest,Home & Kitchen,Member,Online,6,24.94,0.21,118.21560000000002,11.15,UPI,5.7
+2024-02-01,10:13:44,A,New York,East,Health & Beauty,Normal,Online,7,145.9,0.18,837.4660000000001,160.37,Gift Card,9.2
+2023-12-17,19:49:36,B,Chicago,Midwest,Health & Beauty,Normal,In-store,4,515.79,0.13,1794.9491999999998,427.8,Cash,8.9
+2024-03-30,09:16:28,B,Chicago,Midwest,Sports,Member,Online,4,562.66,0.14,1935.5503999999999,180.02,Gift Card,8.9
+2025-06-26,13:08:12,B,Chicago,Midwest,Clothing,Normal,In-store,2,67.67,0.25,101.505,13.57,UPI,8.6
+2025-04-26,14:46:46,B,Chicago,Midwest,Electronics,Member,Online,8,358.65,0.17,2381.4359999999997,248.86,Credit Card,7.7
+2025-06-14,09:13:07,C,San Francisco,West,Electronics,Normal,Online,1,330.65,0.15,281.05249999999995,53.67,Debit Card,8.8
+2025-09-30,13:07:12,B,Chicago,Midwest,Health & Beauty,Normal,In-store,1,521.54,0.01,516.3245999999999,50.64,Gift Card,7.7
+2025-12-13,18:05:43,C,San Francisco,West,Health & Beauty,Member,In-store,3,52.66,0.03,153.24059999999997,22.2,UPI,6.5
+2024-11-05,19:04:05,A,New York,East,Home & Kitchen,Normal,Online,9,266.48,0.17,1990.6056,325.72,Credit Card,9.7
+2025-12-16,20:04:49,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,1,89.84,0.2,71.872,6.11,Debit Card,8.9
+2024-06-03,11:11:51,C,San Francisco,West,Health & Beauty,Member,Online,4,145.04,0.05,551.1519999999999,73.64,Gift Card,8.0
+2025-04-25,20:11:19,B,Chicago,Midwest,Home & Kitchen,Member,In-store,9,439.67,0.17,3284.3349,653.17,Cash,9.1
+2024-12-05,09:36:19,A,New York,East,Health & Beauty,Normal,In-store,2,431.47,0.13,750.7578000000001,118.2,UPI,8.0
+2024-12-22,11:04:00,C,San Francisco,West,Electronics,Normal,In-store,7,285.16,0.22,1556.9736,278.44,Credit Card,7.6
+2025-03-23,10:48:22,A,New York,East,Electronics,Normal,In-store,8,93.29,0.06,701.5408,179.91,Credit Card,7.1
+2024-05-22,18:56:04,C,San Francisco,West,Home & Kitchen,Normal,In-store,4,225.64,0.02,884.5088,207.65,UPI,7.4
+2023-03-04,15:36:23,A,New York,East,Sports,Normal,Online,5,345.33,0.05,1640.3174999999999,407.86,Gift Card,6.4
+2024-05-21,13:12:40,B,Chicago,Midwest,Sports,Member,Online,4,41.77,0.1,150.372,21.76,Gift Card,8.6
+2023-06-12,12:26:24,B,Chicago,Midwest,Home & Kitchen,Member,In-store,7,309.39,0.05,2057.4435,289.54,Debit Card,5.0
+2025-06-29,12:40:47,C,San Francisco,West,Health & Beauty,Member,Online,7,588.57,0.03,3996.3903000000005,1026.12,UPI,6.4
+2024-05-16,17:14:03,B,Chicago,Midwest,Clothing,Normal,In-store,4,104.39,0.14,359.1016,28.74,Credit Card,5.3
+2023-05-22,20:43:53,A,New York,East,Health & Beauty,Normal,In-store,7,551.7,0.13,3359.8530000000005,808.56,UPI,8.4
+2025-10-14,19:32:06,A,New York,East,Clothing,Normal,Online,2,233.15,0.13,405.681,80.93,Credit Card,9.7
+2024-05-04,14:01:30,A,New York,East,Clothing,Normal,Online,5,270.52,0.23,1041.502,94.87,Gift Card,9.5
+2023-02-19,16:10:30,A,New York,East,Health & Beauty,Normal,In-store,6,34.43,0.17,171.46139999999997,39.79,Cash,6.7
+2023-06-30,16:05:28,C,San Francisco,West,Home & Kitchen,Normal,In-store,8,544.38,0.23,3353.3808,766.58,UPI,4.5
+2025-08-14,11:36:13,B,Chicago,Midwest,Sports,Member,In-store,7,327.57,0.06,2155.4105999999997,568.49,UPI,8.5
+2024-01-28,18:30:33,C,San Francisco,West,Home & Kitchen,Member,In-store,3,203.25,0.24,463.41,63.34,Gift Card,4.1
+2024-12-28,14:54:11,C,San Francisco,West,Home & Kitchen,Normal,In-store,2,314.45,0.17,521.987,74.58,UPI,9.0
+2023-09-10,11:36:29,B,Chicago,Midwest,Home & Kitchen,Member,In-store,3,573.85,0.16,1446.102,289.03,Gift Card,6.4
+2023-12-21,16:54:39,C,San Francisco,West,Clothing,Member,In-store,4,599.04,0.12,2108.6207999999997,401.02,Debit Card,8.9
+2025-10-11,12:28:31,A,New York,East,Clothing,Member,Online,8,378.49,0.2,2422.3360000000002,480.76,Debit Card,9.3
+2025-10-02,14:12:47,A,New York,East,Clothing,Normal,In-store,3,423.91,0.19,1030.1013,195.17,Debit Card,9.4
+2024-06-10,13:35:37,B,Chicago,Midwest,Sports,Member,In-store,6,297.19,0.11,1586.9946,158.18,Gift Card,9.8
+2023-06-06,13:41:48,A,New York,East,Home & Kitchen,Member,Online,9,501.11,0.16,3788.3915999999995,640.76,Credit Card,8.9
+2023-06-27,18:24:32,A,New York,East,Electronics,Normal,In-store,2,533.6,0.01,1056.528,131.9,UPI,8.4
+2023-09-15,13:02:32,C,San Francisco,West,Electronics,Normal,Online,3,502.43,0.05,1431.9254999999998,396.77,Debit Card,6.3
+2025-04-12,10:04:00,C,San Francisco,West,Electronics,Member,Online,2,147.95,0.02,289.98199999999997,50.66,UPI,4.9
+2025-06-30,14:18:52,C,San Francisco,West,Electronics,Member,In-store,2,426.19,0.1,767.142,187.27,Credit Card,5.3
+2025-06-30,16:42:58,B,Chicago,Midwest,Health & Beauty,Normal,In-store,5,261.3,0.21,1032.135,247.54,Debit Card,8.3
+2025-07-05,18:41:21,A,New York,East,Home & Kitchen,Member,In-store,5,200.63,0.14,862.709,237.85,UPI,8.9
+2023-08-13,15:36:13,C,San Francisco,West,Home & Kitchen,Member,Online,7,265.25,0.21,1466.8325,213.15,Debit Card,6.1
+2024-09-22,12:27:13,A,New York,East,Sports,Normal,In-store,1,529.23,0.05,502.7685,126.07,Debit Card,5.6
+2023-04-11,12:27:38,B,Chicago,Midwest,Clothing,Normal,Online,5,541.48,0.19,2192.994,483.18,Cash,6.4
+2024-05-11,17:07:46,A,New York,East,Clothing,Normal,In-store,1,112.56,0.03,109.1832,28.14,Cash,4.8
+2025-01-25,11:51:43,B,Chicago,Midwest,Electronics,Normal,In-store,7,164.95,0.09,1050.7314999999999,183.71,Debit Card,5.9
+2024-03-23,11:00:53,C,San Francisco,West,Home & Kitchen,Member,In-store,1,472.5,0.1,425.25,81.75,Cash,8.5
+2025-10-18,09:50:43,A,New York,East,Clothing,Normal,In-store,3,579.38,0.05,1651.2329999999997,149.36,Debit Card,9.5
+2023-03-27,15:58:53,C,San Francisco,West,Home & Kitchen,Normal,Online,6,583.01,0.1,3148.254,838.41,Gift Card,7.9
+2025-03-24,21:18:54,B,Chicago,Midwest,Home & Kitchen,Normal,In-store,6,475.94,0.07,2655.7452,489.29,Gift Card,8.4
+2024-09-19,18:42:45,B,Chicago,Midwest,Electronics,Member,Online,3,278.08,0.12,734.1312,205.04,Cash,5.8
+2025-01-21,17:32:29,C,San Francisco,West,Home & Kitchen,Normal,In-store,1,593.05,0.12,521.884,68.26,Credit Card,9.3
+2024-02-06,19:51:34,B,Chicago,Midwest,Electronics,Normal,Online,1,565.81,0.0,565.81,61.55,UPI,6.1
+2023-12-04,21:29:22,C,San Francisco,West,Sports,Normal,In-store,9,255.52,0.08,2115.7056000000002,552.82,Debit Card,8.9
+2023-11-26,15:31:59,A,New York,East,Clothing,Normal,In-store,8,584.0,0.02,4578.5599999999995,969.0,Gift Card,9.4
+2023-01-21,09:53:53,B,Chicago,Midwest,Electronics,Normal,In-store,6,151.74,0.13,792.0828,117.44,Credit Card,5.9
+2025-11-12,18:33:45,A,New York,East,Sports,Normal,In-store,4,112.09,0.17,372.1388,89.67,UPI,9.3
+2023-10-11,11:09:06,A,New York,East,Home & Kitchen,Normal,In-store,3,450.96,0.11,1204.0631999999998,106.59,Debit Card,5.9
+2025-06-03,09:25:49,C,San Francisco,West,Sports,Normal,In-store,5,205.35,0.14,883.005,72.87,Credit Card,6.9
+2025-05-31,21:35:41,B,Chicago,Midwest,Sports,Member,Online,4,418.23,0.15,1421.982,229.12,Credit Card,8.0
+2023-12-24,16:47:19,A,New York,East,Electronics,Normal,In-store,7,117.91,0.0,825.37,161.99,Cash,4.2
+2025-04-07,20:31:14,B,Chicago,Midwest,Electronics,Member,In-store,9,200.44,0.2,1443.1680000000001,200.1,Gift Card,4.7
+2025-11-19,09:57:09,C,San Francisco,West,Clothing,Normal,Online,9,186.91,0.25,1261.6425,109.02,Cash,5.9
+2023-06-04,18:11:30,B,Chicago,Midwest,Clothing,Normal,Online,7,491.07,0.03,3334.3652999999995,729.28,Debit Card,9.8
+2025-02-20,09:29:25,A,New York,East,Sports,Member,Online,1,389.02,0.1,350.118,63.33,Gift Card,4.3
+2024-02-27,11:01:53,A,New York,East,Health & Beauty,Normal,In-store,4,492.46,0.11,1753.1576,443.72,Credit Card,4.6
+2023-03-05,13:25:56,A,New York,East,Home & Kitchen,Normal,In-store,7,155.55,0.03,1056.1845,171.83,Credit Card,6.3
+2024-08-29,16:27:39,B,Chicago,Midwest,Clothing,Normal,Online,1,94.26,0.22,73.5228,10.93,UPI,5.3
+2024-01-20,15:03:42,C,San Francisco,West,Home & Kitchen,Member,In-store,8,40.95,0.2,262.08000000000004,23.27,UPI,9.8
+2024-07-16,19:52:08,B,Chicago,Midwest,Sports,Member,In-store,3,287.86,0.13,751.3146,77.62,Credit Card,8.8
+2023-11-02,14:54:15,B,Chicago,Midwest,Electronics,Member,In-store,4,86.88,0.0,347.52,54.27,Cash,8.6
+2023-01-14,12:49:21,B,Chicago,Midwest,Sports,Member,Online,2,501.16,0.21,791.8328,211.31,Cash,5.0
+2025-02-25,16:31:35,A,New York,East,Electronics,Member,In-store,7,563.89,0.09,3591.9793,729.93,Credit Card,4.0
+2025-09-29,17:52:14,A,New York,East,Health & Beauty,Member,Online,2,120.41,0.11,214.3298,19.67,Gift Card,6.1
+2023-10-20,10:42:27,A,New York,East,Electronics,Member,In-store,5,537.26,0.01,2659.4370000000004,736.66,Cash,4.6
+2025-03-05,13:12:05,B,Chicago,Midwest,Health & Beauty,Member,Online,2,9.34,0.06,17.559199999999997,4.91,UPI,5.7
+2024-03-02,11:40:48,C,San Francisco,West,Health & Beauty,Member,Online,1,241.9,0.1,217.71,60.1,Debit Card,4.1
+2024-06-20,20:34:20,B,Chicago,Midwest,Sports,Member,Online,6,89.92,0.1,485.568,65.61,Gift Card,5.1
+2024-09-15,19:35:34,C,San Francisco,West,Sports,Normal,In-store,3,81.11,0.01,240.89669999999998,38.44,Credit Card,5.5
+2024-08-13,14:20:51,A,New York,East,Home & Kitchen,Normal,Online,1,563.59,0.14,484.6874,114.55,Debit Card,8.7
+2024-05-07,10:15:07,A,New York,East,Electronics,Normal,Online,2,148.2,0.22,231.19199999999998,53.27,Cash,5.7
+2025-05-16,15:17:16,B,Chicago,Midwest,Health & Beauty,Member,In-store,7,124.97,0.14,752.3194,117.62,UPI,4.4
+2024-04-21,21:44:07,B,Chicago,Midwest,Electronics,Normal,Online,2,84.4,0.0,168.8,36.53,Debit Card,4.9
+2024-07-19,13:50:10,A,New York,East,Health & Beauty,Normal,Online,9,221.18,0.01,1970.7138,457.39,Cash,7.4
+2025-10-06,21:22:40,A,New York,East,Health & Beauty,Normal,In-store,7,467.45,0.24,2486.8340000000003,201.38,Debit Card,9.8
+2024-08-13,10:51:54,A,New York,East,Electronics,Member,Online,4,294.73,0.03,1143.5524,232.97,Debit Card,9.0
+2023-01-30,16:44:48,C,San Francisco,West,Home & Kitchen,Member,In-store,5,162.04,0.11,721.078,114.48,Debit Card,8.4
+2023-04-05,20:05:10,A,New York,East,Home & Kitchen,Member,In-store,8,303.9,0.14,2090.832,309.01,Cash,10.0
+2025-10-30,10:25:07,B,Chicago,Midwest,Sports,Normal,In-store,6,371.98,0.11,1986.3732000000002,547.65,Cash,7.3
+2023-08-07,12:21:16,A,New York,East,Health & Beauty,Normal,In-store,8,126.16,0.02,989.0944,129.7,Debit Card,5.5
+2025-10-09,09:24:55,A,New York,East,Clothing,Member,Online,2,124.05,0.21,195.999,36.24,Debit Card,8.7
+2025-01-24,21:20:48,B,Chicago,Midwest,Clothing,Member,Online,7,279.47,0.18,1604.1578000000002,348.62,Cash,9.6
+2024-03-25,14:36:41,C,San Francisco,West,Health & Beauty,Normal,In-store,7,315.27,0.22,1721.3742,253.27,Cash,5.8
+2025-06-21,16:11:48,C,San Francisco,West,Electronics,Member,Online,5,364.09,0.07,1693.0184999999997,445.29,UPI,7.3
+2025-12-18,19:07:23,B,Chicago,Midwest,Sports,Normal,In-store,8,300.38,0.21,1898.4016000000001,517.43,Gift Card,4.1
+2025-06-22,11:04:38,B,Chicago,Midwest,Home & Kitchen,Member,Online,5,546.69,0.03,2651.4465,397.13,Gift Card,7.8
+2025-07-10,13:57:36,B,Chicago,Midwest,Home & Kitchen,Member,In-store,1,159.97,0.19,129.5757,28.87,Debit Card,7.0
+2024-02-17,10:52:19,A,New York,East,Health & Beauty,Member,Online,6,201.17,0.23,929.4054,103.2,Cash,9.8
+2023-01-06,11:02:51,C,San Francisco,West,Sports,Member,In-store,4,151.83,0.09,552.6612,80.06,UPI,6.0
+2025-02-20,18:48:56,A,New York,East,Sports,Normal,In-store,1,257.68,0.09,234.48880000000003,30.1,Debit Card,9.0
+2024-11-24,18:56:26,C,San Francisco,West,Electronics,Member,In-store,9,73.3,0.19,534.357,145.92,UPI,7.5
+2023-12-12,17:17:02,C,San Francisco,West,Home & Kitchen,Member,In-store,1,282.38,0.23,217.4326,47.68,Cash,4.4
+2024-11-01,10:24:24,A,New York,East,Health & Beauty,Normal,In-store,5,9.35,0.14,40.205,8.84,Credit Card,9.5
+2024-09-15,15:23:32,B,Chicago,Midwest,Clothing,Member,In-store,6,403.56,0.17,2009.7288,452.66,Gift Card,4.8
+2023-12-26,10:55:43,C,San Francisco,West,Health & Beauty,Normal,Online,5,160.79,0.17,667.2784999999999,55.49,Debit Card,5.6
+2024-06-30,18:14:00,B,Chicago,Midwest,Electronics,Normal,Online,1,44.81,0.19,36.2961,7.46,Debit Card,7.5
+2025-08-19,13:17:10,A,New York,East,Clothing,Normal,Online,2,456.75,0.19,739.9350000000001,136.63,Gift Card,6.5
+2023-04-08,20:19:51,C,San Francisco,West,Health & Beauty,Member,Online,8,164.78,0.18,1080.9568000000002,285.97,Debit Card,5.8
+2023-05-23,21:07:10,A,New York,East,Home & Kitchen,Member,Online,4,17.47,0.01,69.18119999999999,18.5,Credit Card,9.3
+2024-06-06,11:37:13,C,San Francisco,West,Health & Beauty,Member,Online,3,504.54,0.11,1347.1218000000001,118.94,Gift Card,4.8
+2025-03-23,18:43:46,B,Chicago,Midwest,Home & Kitchen,Normal,Online,7,515.88,0.1,3250.044,482.85,Cash,5.7
+2023-09-18,21:42:49,A,New York,East,Clothing,Normal,In-store,9,165.41,0.06,1399.3686,250.0,Debit Card,9.5
+2025-08-14,17:00:09,C,San Francisco,West,Electronics,Member,Online,3,482.04,0.12,1272.5856,183.3,Cash,7.9
+2024-01-31,15:45:22,B,Chicago,Midwest,Clothing,Normal,Online,4,478.05,0.16,1606.248,169.28,Cash,6.1
+2025-04-29,09:04:48,B,Chicago,Midwest,Electronics,Normal,Online,8,275.3,0.25,1651.8000000000002,217.61,Credit Card,6.2
+2024-03-23,19:58:52,C,San Francisco,West,Clothing,Member,In-store,7,281.23,0.18,1614.2602000000002,277.4,Gift Card,9.7
+2024-11-05,15:52:49,C,San Francisco,West,Sports,Normal,Online,9,227.21,0.11,1819.9521000000002,177.69,Gift Card,7.4
+2025-11-24,14:06:38,B,Chicago,Midwest,Sports,Member,In-store,8,227.75,0.18,1494.0400000000002,251.5,Cash,7.3
+2024-02-24,18:24:57,C,San Francisco,West,Clothing,Normal,Online,9,172.54,0.22,1211.2308,97.91,Credit Card,7.9
+2023-08-05,10:19:16,B,Chicago,Midwest,Health & Beauty,Member,In-store,2,239.27,0.13,416.32980000000003,68.57,Credit Card,7.3
+2025-04-02,09:59:20,C,San Francisco,West,Electronics,Member,Online,4,523.32,0.01,2072.3472,451.99,Cash,7.1
+2023-08-08,19:11:47,C,San Francisco,West,Electronics,Normal,In-store,4,85.17,0.2,272.54400000000004,73.43,Credit Card,4.6
+2025-01-10,20:55:04,A,New York,East,Clothing,Normal,Online,6,475.12,0.11,2537.1408,568.21,Gift Card,8.7
+2023-01-14,21:46:09,C,San Francisco,West,Home & Kitchen,Member,In-store,7,247.86,0.19,1405.3662000000002,138.06,UPI,8.6
+2023-12-17,18:02:33,A,New York,East,Sports,Normal,In-store,9,484.65,0.17,3620.3354999999992,318.61,Gift Card,9.6
+2025-09-03,19:34:31,C,San Francisco,West,Health & Beauty,Member,In-store,4,445.56,0.23,1372.3248,193.35,UPI,7.9
+2023-10-15,18:11:11,B,Chicago,Midwest,Health & Beauty,Member,Online,3,452.81,0.21,1073.1597000000002,230.21,Debit Card,8.5
+2024-01-17,14:56:41,B,Chicago,Midwest,Sports,Normal,Online,5,361.56,0.14,1554.7079999999999,182.27,Gift Card,9.7
+2023-07-02,10:18:37,B,Chicago,Midwest,Electronics,Member,In-store,8,117.35,0.22,732.264,167.41,Credit Card,6.1
+2024-06-09,17:06:40,C,San Francisco,West,Sports,Normal,Online,3,202.21,0.15,515.6355,103.58,Credit Card,6.8
+2025-09-26,12:19:00,C,San Francisco,West,Electronics,Member,Online,4,426.13,0.24,1295.4352,339.34,Cash,5.7
+2023-11-02,15:48:40,B,Chicago,Midwest,Clothing,Member,Online,5,346.96,0.08,1596.016,439.19,Cash,9.9
+2023-11-26,17:43:40,C,San Francisco,West,Sports,Normal,Online,1,542.43,0.1,488.18699999999995,106.74,Debit Card,5.2
+2024-11-17,21:46:18,A,New York,East,Home & Kitchen,Normal,In-store,3,448.04,0.14,1155.9432000000002,290.01,Debit Card,5.6
+2023-10-02,19:15:50,C,San Francisco,West,Electronics,Member,In-store,7,324.51,0.17,1885.4030999999998,494.42,Debit Card,5.0
+2023-11-15,10:19:12,A,New York,East,Home & Kitchen,Member,Online,8,18.27,0.05,138.852,26.83,Gift Card,7.9
+2025-06-07,18:14:03,C,San Francisco,West,Electronics,Member,In-store,3,408.25,0.03,1188.0075,195.7,Debit Card,6.6
+2024-10-30,14:01:19,B,Chicago,Midwest,Health & Beauty,Member,Online,1,36.77,0.15,31.2545,4.43,Credit Card,9.4
+2024-03-29,20:11:21,C,San Francisco,West,Clothing,Normal,In-store,7,264.25,0.04,1775.76,262.47,Credit Card,9.2
+2023-02-02,20:24:36,A,New York,East,Clothing,Normal,Online,7,75.97,0.22,414.7962,80.78,Credit Card,6.1
+2023-09-20,16:11:14,B,Chicago,Midwest,Clothing,Member,Online,8,211.93,0.16,1424.1696,383.7,Credit Card,4.2
+2023-10-15,16:12:24,B,Chicago,Midwest,Clothing,Member,In-store,4,545.45,0.13,1898.1660000000002,173.7,UPI,8.3
+2024-11-18,10:49:10,A,New York,East,Health & Beauty,Normal,In-store,1,253.54,0.11,225.6506,18.06,Credit Card,4.8
+2023-01-04,16:44:30,B,Chicago,Midwest,Sports,Member,Online,9,292.46,0.13,2289.9618,386.32,UPI,7.2
+2024-02-26,17:25:17,A,New York,East,Electronics,Normal,In-store,4,454.6,0.0,1818.4,490.96,Cash,7.7
+2024-09-23,20:55:18,C,San Francisco,West,Home & Kitchen,Normal,In-store,7,248.25,0.06,1633.485,214.74,Cash,9.2
+2025-07-15,17:52:31,B,Chicago,Midwest,Clothing,Normal,Online,4,50.96,0.01,201.8016,34.05,Debit Card,7.8
+2023-01-05,16:45:20,C,San Francisco,West,Electronics,Member,In-store,6,573.78,0.16,2891.8511999999996,519.49,Cash,9.3
+2023-10-06,12:31:32,C,San Francisco,West,Sports,Normal,Online,2,91.69,0.16,154.0392,32.65,Cash,9.6
+2024-07-23,19:01:36,C,San Francisco,West,Electronics,Normal,Online,4,477.25,0.18,1565.38,170.03,Debit Card,8.3
+2025-11-18,10:11:03,A,New York,East,Electronics,Member,In-store,3,503.47,0.08,1389.5772000000002,201.65,Debit Card,6.9
+2024-08-05,10:23:21,A,New York,East,Home & Kitchen,Member,In-store,2,326.1,0.08,600.0240000000001,85.84,Cash,7.0
+2023-08-30,21:18:50,A,New York,East,Electronics,Member,In-store,5,368.6,0.16,1548.12,425.39,Cash,9.1
+2023-07-31,14:35:17,A,New York,East,Health & Beauty,Member,Online,5,53.59,0.02,262.59100000000007,32.47,Debit Card,8.2
+2023-06-10,21:14:53,A,New York,East,Health & Beauty,Normal,Online,3,425.73,0.1,1149.471,198.66,Cash,5.1
+2023-09-08,13:06:04,B,Chicago,Midwest,Health & Beauty,Normal,In-store,2,483.65,0.08,889.916,177.77,UPI,4.1
+2023-08-01,13:58:26,C,San Francisco,West,Clothing,Member,Online,9,242.65,0.04,2096.4959999999996,333.31,Debit Card,5.8
+2024-07-29,21:23:27,A,New York,East,Health & Beauty,Normal,In-store,4,353.99,0.08,1302.6832000000002,130.13,Debit Card,5.5
+2023-12-15,13:27:39,C,San Francisco,West,Sports,Member,Online,4,582.37,0.22,1816.9944,417.27,Cash,5.4
+2025-08-26,10:09:03,A,New York,East,Home & Kitchen,Member,In-store,9,431.43,0.2,3106.2960000000003,469.0,Debit Card,9.1
+2025-02-17,11:24:49,A,New York,East,Electronics,Member,Online,9,293.34,0.04,2534.4575999999997,207.22,Credit Card,5.8
+2023-05-05,13:15:01,A,New York,East,Health & Beauty,Normal,In-store,1,213.98,0.15,181.88299999999998,27.94,Credit Card,5.6
+2025-01-20,12:34:25,A,New York,East,Home & Kitchen,Normal,Online,6,296.19,0.21,1403.9406,270.87,UPI,4.0
+2025-11-22,20:52:39,A,New York,East,Electronics,Normal,Online,6,140.0,0.18,688.8000000000001,95.35,Debit Card,7.8
+2024-10-27,14:36:12,A,New York,East,Clothing,Member,In-store,4,201.51,0.08,741.5568,161.93,Debit Card,4.4
+2024-12-28,09:15:12,C,San Francisco,West,Electronics,Normal,In-store,4,142.46,0.02,558.4432,64.63,Debit Card,8.0
+2023-01-15,20:09:51,A,New York,East,Clothing,Normal,In-store,7,224.45,0.11,1398.3235,260.73,Debit Card,6.0
+2024-08-29,10:36:47,B,Chicago,Midwest,Clothing,Member,Online,8,327.85,0.12,2308.0640000000003,516.85,Cash,5.4
+2025-01-19,10:16:04,B,Chicago,Midwest,Sports,Normal,In-store,6,398.67,0.18,1961.4564,457.8,Credit Card,9.6
+2025-03-20,18:30:10,C,San Francisco,West,Health & Beauty,Normal,Online,1,522.18,0.22,407.30039999999997,106.14,UPI,8.4
+2023-02-06,10:33:05,A,New York,East,Health & Beauty,Member,Online,4,271.86,0.24,826.4544000000001,149.25,Cash,8.7
+2023-10-14,20:14:00,B,Chicago,Midwest,Home & Kitchen,Member,In-store,8,114.36,0.15,777.648,101.88,Credit Card,9.0
