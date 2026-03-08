@@ -155,8 +155,8 @@ ORDER BY Total_Revenue DESC;
 
 ### Overview
 
-This module provides a complete pipeline for analysing ECG (Electrocardiogram)
-signals and using machine learning to predict cardiac conditions. Five disease
+This module provides a complete pipeline for analyzing ECG (Electrocardiogram)
+signals and using machine learning to predict cardiac conditions.  Five disease
 classes are supported:
 
 | Label | Condition |
@@ -222,7 +222,7 @@ ecg_analysis_notebook.ipynb      # Interactive demo notebook
 * Pandas
 * SciPy
 * scikit-learn
-* Matplotlib (for notebook visualisations)
+* Matplotlib (for notebook visualizations)
 
 ### Running Tests
 
